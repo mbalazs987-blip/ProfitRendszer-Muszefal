@@ -1,11 +1,13 @@
 {
-  "frissitve": "2026-08-25T22:20:00Z",
   "cel": 500,
   "lezart": 0,
+  "hatralevo": 500,
+  "teljesites_szazalek": 0.0,
   "nyitott": 5,
-  "duplikalt": 0,
-  "hibas_azonosito": 0,
-  "sportag_db": 48,
-  "statusz": "VALIDÁCIÓ FUT",
-  "megjegyzes": "A profitabilitás csak 500 lezárt PAPER esemény után minősíthető."
+  "nyert": 0,
+  "vesztett": 0,
+  "profit": 0.0,
+  "meresek": 4,
+  "frissitve": "2026-08-25T23:44:52.187623+00:00",
+  "uzemmod": "PAPER VALIDACIO"
 }
