@@ -1,1 +1,58 @@
-const $=s=>document.querySelector(s);const pontok=[72,48,24,12,6,3,1];const pct=x=>Number.isFinite(+x)?(+x*100).toFixed(1)+'%':'–';const dt=x=>x?new Date(x).toLocaleString('hu-HU'):'–';const sport=s=>({soccer:'Labdarúgás',baseball:'Baseball',basketball:'Kosárlabda',tennis:'Tenisz',mma:'MMA'})[s]||s||'–';async function J(p){const r=await fetch(p+'?t='+Date.now());if(!r.ok)throw Error(p);return r.json()}document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{document.querySelectorAll('nav button,section').forEach(x=>x.classList.remove('active'));b.classList.add('active');$('#'+b.dataset.tab).classList.add('active')});async function load(){try{const[a,p,m]=await Promise.all([J('data/allapot.json'),J('data/paper.json'),J('data/meresek.json')]);const lez=p.filter(x=>x.statusz!=='NYITOTT'),ny=p.filter(x=>x.statusz==='NYITOTT'),w=lez.filter(x=>String(x.statusz).includes('NYERT')),l=lez.filter(x=>String(x.statusz).includes('VESZTETT'));const profit=lez.reduce((s,x)=>s+(+x.nyereseg_veszteseg||0),0);$('#minta').textContent=a.lezart+' / '+a.cel;$('#bar').style.width=Math.min(100,100*a.lezart/a.cel)+'%';$('#nyitott').textContent=a.nyitott;$('#talalat').textContent=w.length+l.length?(100*w.length/(w.length+l.length)).toFixed(1)+'%':'–';$('#penz').textContent=(profit>=0?'+':'')+profit.toFixed(2);$('#nyert').textContent=w.length;$('#vesztett').textContent=l.length;$('#lezart').textContent=a.lezart;$('#hatra').textContent=Math.max(0,a.cel-a.lezart);$('#validacio').textContent=a.lezart>=a.cel?'Az 500-as minta összegyűlt; elvégezhető a végső minősítés.':'Még '+(a.cel-a.lezart)+' lezárt PAPER esemény szükséges. Addig nincs bizonyított profitabilitási ítélet.';$('#statusz').textContent=a.statusz;$('#megjegyzes').textContent=a.megjegyzes;$('#sportdb').textContent=a.sportag_db;$('#integritas').textContent=a.duplikalt+' / '+a.hibas_azonosito;$('#kartyak').innerHTML=ny.length?ny.map((x,i)=>`<article class="bet"><span class="rank">#${i+1}</span><span class="pill">${sport(x.sportag)}</span><span class="pill">${x.piac}</span><h3>${x.kimenetel}</h3><div class="facts"><div class="fact">Szorzó<b>${x.szorzo??'–'}</b></div><div class="fact">Becsült esély<b>${pct(x.becsult_esely)}</b></div><div class="fact">Piaci esély<b>${pct(x.piaci_esely)}</b></div><div class="fact">Megbízhatóság<b>${pct(x.megbizhatosag)}</b></div><div class="fact">Becsült előny<b>${Number.isFinite(+x.varhato_ertek_szazalek)?(+x.varhato_ertek_szazalek).toFixed(1)+'%':'–'}</b></div><div class="fact">PAPER összeg<b>${x.tet_osszeg??'–'}</b></div></div><p class="muted mini">Iroda: ${x.iroda||'–'} • Döntés: ${dt(x.dontesi_ido)} • Kezdés: ${dt(x.esemeny_ideje)}</p></article>`).join(''):'<div class="card empty">Nincs aktív PAPER tét.</div>';const have=new Set(m.map(x=>+x.meresi_pont_ora));$('#timeline').innerHTML=pontok.map(h=>`<div class="tp ${have.has(h)?'have':''}"><b>${h}h</b><br>${have.has(h)?'van adat':'nincs'}</div>`).join('');$('#mereslista').innerHTML=m.slice().sort((a,b)=>new Date(b.adat_ideje)-new Date(a.adat_ideje)).map(x=>`<details><summary>${sport(x.sportag)} — ${x.kimenetel} — ${x.meresi_pont_ora} órás mérés</summary><div class="facts"><div class="fact">Szorzó<b>${x.szorzo??'–'}</b></div><div class="fact">Becsült esély<b>${pct(x.becsult_esely)}</b></div><div class="fact">Piaci esély<b>${pct(x.piaci_esely)}</b></div><div class="fact">Becsült előny<b>${Number.isFinite(+x.becsult_elony_szazalek)?(+x.becsult_elony_szazalek).toFixed(1)+'%':'–'}</b></div></div><p class="muted mini">Adat: ${dt(x.adat_ideje)} • Kezdés: ${dt(x.esemeny_ideje)}</p></details>`).join('');$('#frissites').textContent='frissítve: '+new Date().toLocaleString('hu-HU')}catch(e){$('#frissites').textContent='adatbetöltési hiba'}}load();setInterval(load,60000);
+const $=s=>document.querySelector(s);
+const pontok=[72,48,24,12,6,3,1];
+const pct=x=>Number.isFinite(+x)?(+x*100).toFixed(1)+'%':'–';
+const dt=x=>x?new Date(x).toLocaleString('hu-HU'):'–';
+const sport=s=>({soccer:'Labdarúgás',baseball:'Baseball',basketball:'Kosárlabda',tennis:'Tenisz',mma:'MMA'})[s]||s||'–';
+async function J(p){const r=await fetch(p+'?t='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error(p);return r.json()}
+
+document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{
+  document.querySelectorAll('nav button,section').forEach(x=>x.classList.remove('active'));
+  b.classList.add('active');
+  $('#'+b.dataset.tab).classList.add('active');
+});
+
+async function load(){
+  try{
+    const[a,p,m]=await Promise.all([J('data/allapot.json'),J('data/paper.json'),J('data/meresek.json')]);
+    const lez=p.filter(x=>x.statusz!=='NYITOTT');
+    const ny=p.filter(x=>x.statusz==='NYITOTT');
+    const w=lez.filter(x=>String(x.statusz).includes('NYERT'));
+    const l=lez.filter(x=>String(x.statusz).includes('VESZTETT'));
+    const profit=lez.reduce((s,x)=>s+(+x.nyereseg_veszteseg||0),0);
+    const cel=Number(a.cel)||500;
+    const lezart=Number(a.lezart)||0;
+    const sportok=[...new Set(p.map(x=>x.sportag).filter(Boolean))];
+
+    $('#minta').textContent=lezart+' / '+cel;
+    $('#bar').style.width=Math.min(100,100*lezart/cel)+'%';
+    $('#nyitott').textContent=Number(a.nyitott)||ny.length;
+    $('#talalat').textContent=w.length+l.length?(100*w.length/(w.length+l.length)).toFixed(1)+'%':'–';
+    $('#penz').textContent=(profit>=0?'+':'')+profit.toFixed(2);
+    $('#nyert').textContent=Number.isFinite(+a.nyert)?a.nyert:w.length;
+    $('#vesztett').textContent=Number.isFinite(+a.vesztett)?a.vesztett:l.length;
+    $('#lezart').textContent=lezart;
+    $('#hatra').textContent=Math.max(0,cel-lezart);
+    $('#validacio').textContent=lezart>=cel
+      ?'Az 500-as minta összegyűlt; elvégezhető a végső minősítés.'
+      :'Még '+Math.max(0,cel-lezart)+' lezárt PAPER esemény szükséges. Addig nincs bizonyított profitabilitási ítélet.';
+
+    $('#statusz').textContent=a.uzemmod||'PAPER VALIDÁCIÓ';
+    $('#megjegyzes').textContent='Automatikus, csak olvasható publikus nézet. Forrásfrissítés: '+dt(a.frissitve)+'.';
+    $('#sportdb').textContent=sportok.length||'–';
+    $('#integritas').textContent=(a.duplikalt!=null||a.hibas_azonosito!=null)?`${a.duplikalt??0} / ${a.hibas_azonosito??0}`:'n.a.';
+
+    $('#kartyak').innerHTML=ny.length?ny.map((x,i)=>`<article class="bet"><span class="rank">#${i+1}</span><span class="pill">${sport(x.sportag)}</span><span class="pill">${x.piac||'–'}</span><h3>${x.kimenetel||'–'}</h3><div class="facts"><div class="fact">Szorzó<b>${x.szorzo??'–'}</b></div><div class="fact">Becsült esély<b>${pct(x.becsult_esely)}</b></div><div class="fact">Piaci esély<b>${pct(x.piaci_esely)}</b></div><div class="fact">Megbízhatóság<b>${pct(x.megbizhatosag)}</b></div><div class="fact">Becsült előny<b>${Number.isFinite(+x.varhato_ertek_szazalek)?(+x.varhato_ertek_szazalek).toFixed(1)+'%':'–'}</b></div><div class="fact">PAPER összeg<b>${x.tet_osszeg??'–'}</b></div></div><p class="muted mini">Iroda: ${x.iroda||'–'} • Döntés: ${dt(x.dontesi_ido)} • Kezdés: ${dt(x.esemeny_ideje)}</p></article>`).join(''):'<div class="card empty">Nincs aktív PAPER tét.</div>';
+
+    const have=new Set(m.map(x=>+x.meresi_pont_ora));
+    $('#timeline').innerHTML=pontok.map(h=>`<div class="tp ${have.has(h)?'have':''}"><b>${h}h</b><br>${have.has(h)?'van adat':'nincs'}</div>`).join('');
+    $('#mereslista').innerHTML=m.length?m.slice().sort((a,b)=>new Date(b.adat_ideje)-new Date(a.adat_ideje)).map(x=>`<details><summary>${sport(x.sportag)} — ${x.kimenetel||'–'} — ${x.meresi_pont_ora??'–'} órás mérés</summary><div class="facts"><div class="fact">Szorzó<b>${x.szorzo??'–'}</b></div><div class="fact">Becsült esély<b>${pct(x.becsult_esely)}</b></div><div class="fact">Piaci esély<b>${pct(x.piaci_esely)}</b></div><div class="fact">Becsült előny<b>${Number.isFinite(+x.becsult_elony_szazalek)?(+x.becsult_elony_szazalek).toFixed(1)+'%':'–'}</b></div></div><p class="muted mini">Adat: ${dt(x.adat_ideje)} • Kezdés: ${dt(x.esemeny_ideje)}</p></details>`).join(''):'<p class="muted">Még nincs időbeli mérési adat.</p>';
+
+    $('#frissites').textContent='adatforrás frissítve: '+dt(a.frissitve);
+  }catch(e){
+    console.error(e);
+    $('#frissites').textContent='adatbetöltési hiba';
+  }
+}
+
+load();
+setInterval(load,60000);
