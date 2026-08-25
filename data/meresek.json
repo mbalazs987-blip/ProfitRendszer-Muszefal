@@ -1,0 +1,6 @@
+[
+  {"sportag":"basketball","piac":"moneyline","kimenetel":"Connecticut Sun","meresi_pont_ora":6,"adat_ideje":"2026-08-25T16:21:08+00:00","esemeny_ideje":"2026-08-25T23:00:00+00:00","szorzo":3.3,"becsult_esely":0.560623,"piaci_esely":0.3233944954,"megbizhatosag":0.9745223750,"becsult_elony_szazalek":85.00559,"iroda":"Matchbook"},
+  {"sportag":"tennis","piac":"moneyline","kimenetel":"Panna Udvardy","meresi_pont_ora":6,"adat_ideje":"2026-08-25T16:06:11+00:00","esemeny_ideje":"2026-08-25T22:40:00+00:00","szorzo":3.4,"becsult_esely":0.461585,"piaci_esely":0.2986425339,"megbizhatosag":0.9748410042,"becsult_elony_szazalek":56.9389,"iroda":"Betfair"},
+  {"sportag":"tennis","piac":"moneyline","kimenetel":"Yuliia Starodubtseva","meresi_pont_ora":6,"adat_ideje":"2026-08-25T15:57:14+00:00","esemeny_ideje":"2026-08-25T22:30:00+00:00","szorzo":2.32,"becsult_esely":0.53583,"piaci_esely":0.4352331606,"megbizhatosag":0.9911095557,"becsult_elony_szazalek":24.31256,"iroda":"GTbets"},
+  {"sportag":"basketball","piac":"moneyline","kimenetel":"Connecticut Sun","meresi_pont_ora":1,"adat_ideje":"2026-08-25T21:20:50+00:00","esemeny_ideje":"2026-08-25T23:00:00+00:00","szorzo":3.55,"becsult_esely":0.560623,"piaci_esely":0.3034806715,"megbizhatosag":0.9648618797,"becsult_elony_szazalek":99.021165,"iroda":null}
+]
