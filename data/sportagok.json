@@ -7,8 +7,8 @@
     "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR": 14
   },
   "elo_allapotok": {
-    "MODELL_ELO_BIZONYITOTT": 3,
-    "PAPER_UTVONAL_ELO_BIZONYITOTT": 3,
+    "MODELL_ELO_BIZONYITOTT": 4,
+    "PAPER_UTVONAL_ELO_BIZONYITOTT": 2,
     "SPORTADAT_HIANYZIK": 4,
     "VAR_AKTIV_ODDSRA": 38
   },
@@ -89,13 +89,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "PAPER_UTVONAL_ELO_BIZONYITOTT",
+      "elo_allapot": "MODELL_ELO_BIZONYITOTT",
       "odds": 59,
       "sportadat": 138,
       "ellenorzott": 30,
       "aktiv_modell": 29,
-      "portfolio": 1,
-      "kovetkezo_teendo": "élő esemény portfólióig jutott"
+      "portfolio": 0,
+      "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
     {
       "sportag": "basketball",
@@ -580,11 +580,11 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "PAPER_UTVONAL_ELO_BIZONYITOTT",
-      "odds": 151,
-      "sportadat": 32,
-      "ellenorzott": 20,
-      "aktiv_modell": 22,
-      "portfolio": 2,
+      "odds": 156,
+      "sportadat": 33,
+      "ellenorzott": 21,
+      "aktiv_modell": 23,
+      "portfolio": 4,
       "kovetkezo_teendo": "élő esemény portfólióig jutott"
     },
     {
@@ -650,10 +650,10 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 10,
-      "sportadat": 566,
-      "ellenorzott": 2,
-      "aktiv_modell": 3,
+      "odds": 11,
+      "sportadat": 567,
+      "ellenorzott": 3,
+      "aktiv_modell": 4,
       "portfolio": 0,
       "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
