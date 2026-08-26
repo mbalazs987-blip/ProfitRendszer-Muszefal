@@ -1,12 +1,15 @@
 {
+  "id": "./",
   "name": "ProfitRendszer",
   "short_name": "ProfitRendszer",
-  "description": "ProfitRendszer PAPER és sportág-készültségi műszerfal",
+  "description": "Privát ProfitRendszer PAPER és sportág-készültségi alkalmazás",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
   "background_color": "#081018",
   "theme_color": "#0b1017",
   "lang": "hu-HU",
-  "orientation": "portrait-primary"
+  "orientation": "any",
+  "categories": ["sports", "utilities", "productivity"]
 }
