@@ -118,5 +118,20 @@
     "megbizhatosag": 0.9874327521899487,
     "becsult_elony_szazalek": 18.791279,
     "iroda": "Caesars"
+  },
+  {
+    "tet_id": "b8e003c70ee889d3",
+    "sportag": "soccer",
+    "piac": "moneyline",
+    "kimenetel": "FC Akron Tolyatti",
+    "meresi_pont_ora": 48,
+    "adat_ideje": "2026-08-26T14:33:27+00:00",
+    "esemeny_ideje": "2026-08-28T15:00:00+00:00",
+    "szorzo": 4.87,
+    "becsult_esely": 0.297297,
+    "piaci_esely": 0.2020868365455094,
+    "megbizhatosag": 0.8268281679789634,
+    "becsult_elony_szazalek": 44.783638999999994,
+    "iroda": null
   }
 ]
