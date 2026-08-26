@@ -1,2 +1,93 @@
 <!doctype html>
-<html lang="hu"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#0b1017"><title>ProfitRendszer Mobil</title><style>:root{--bg:#081018;--panel:#111b27;--line:#233349;--text:#f2f6fb;--muted:#91a4ba;--ok:#39d98a;--accent:#59a7ff}*{box-sizing:border-box}body{margin:0;background:#081018;color:var(--text);font:15px system-ui,-apple-system,"Segoe UI",Arial,sans-serif}.top{padding:18px 14px;border-bottom:1px solid var(--line);position:sticky;top:0;background:#081018f2}.eyebrow{font-size:11px;letter-spacing:.18em;color:var(--accent);font-weight:800}.top h1{margin:3px 0 4px}.muted{color:var(--muted)}main{padding:14px;max-width:900px;margin:auto}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.card{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:14px;margin-bottom:10px}.value{font-size:24px;font-weight:850;margin-top:3px}.ok{color:var(--ok)}h2{font-size:18px;margin:0 0 10px}.bet{padding:12px 0;border-top:1px solid var(--line)}.bet:first-child{border-top:0}.pill{display:inline-block;background:#172538;border-radius:20px;padding:4px 8px;font-size:12px}.facts{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:8px}.fact{background:#0d1620;border-radius:10px;padding:8px;color:var(--muted)}.fact b{display:block;color:var(--text);margin-top:2px}.timeline{display:grid;grid-template-columns:repeat(4,1fr);gap:6px}.tp{background:#0d1620;border:1px solid var(--line);border-radius:9px;padding:9px 2px;text-align:center}.have{border-color:var(--ok)}footer{text-align:center;color:var(--muted);font-size:12px;padding:18px}@media(min-width:700px){.grid{grid-template-columns:repeat(4,1fr)}.timeline{grid-template-columns:repeat(7,1fr)}}</style></head><body><header class="top"><div class="eyebrow">PROFITRENDSZER</div><h1>Mobil műszerfal</h1><div class="muted">PAPER tesztüzem • közvetlen statikus nézet</div></header><main><div class="grid"><div class="card"><div class="muted">Kanonikus PAPER</div><div class="value">0 / 500</div></div><div class="card"><div class="muted">Nyitott PAPER</div><div class="value">9</div></div><div class="card"><div class="muted">48 sportág</div><div class="value">48 / 48</div></div><div class="card"><div class="muted">Élő PAPER</div><div class="value">2 / 48</div></div><div class="card"><div class="muted">Virtuális eredmény</div><div class="value ok">+10.04</div></div><div class="card"><div class="muted">Mérések</div><div class="value">9</div></div><div class="card"><div class="muted">Élő modell</div><div class="value">4 / 48</div></div><div class="card"><div class="muted">Állapot</div><div class="value">Mintagyűjtés</div></div></div><section class="card"><h2>Aktív PAPER</h2><div class="bet"><span class="pill">Labdarúgás</span><b> FC Akron Tolyatti</b><div class="facts"><div class="fact">Szorzó<b>4.87</b></div><div class="fact">Teszttét<b>2.00 egység</b></div></div></div><div class="bet"><span class="pill">Baseball</span><b> New York Mets</b><div class="facts"><div class="fact">Szorzó<b>2.43</b></div><div class="fact">Teszttét<b>2.00 egység</b></div></div></div><div class="bet"><span class="pill">Kosárlabda</span><b> Connecticut Sun</b><div class="facts"><div class="fact">Szorzó<b>8.80</b></div><div class="fact">Teszttét<b>2.00 egység</b></div></div></div><div class="bet"><span class="pill">Baseball</span><b> Kansas City Royals</b><div class="facts"><div class="fact">Szorzó<b>2.25</b></div><div class="fact">Teszttét<b>2.00 egység</b></div></div></div><div class="bet"><span class="pill">Baseball</span><b> Miami Marlins</b><div class="facts"><div class="fact">Szorzó<b>2.43</b></div><div class="fact">Teszttét<b>2.00 egység</b></div></div></div></section><section class="card"><h2>Időbeli mérések</h2><div class="timeline"><div class="tp">72h<br><b>0</b></div><div class="tp have">48h<br><b>1</b></div><div class="tp">24h<br><b>0</b></div><div class="tp have">12h<br><b>4</b></div><div class="tp have">6h<br><b>3</b></div><div class="tp">3h<br><b>0</b></div><div class="tp have">1h<br><b>1</b></div></div></section><section class="card"><h2>48 sportág készültség</h2><p>Statikus szerződés: <b>48/48</b><br>Élő PAPER-ig bizonyítva: <b>2</b><br>Élő modellig bizonyítva: <b>4</b><br>Aktív oddsra vár: <b>38</b><br>Sportadat-hiány: <b>4</b></p></section></main><footer>ProfitRendszer • PAPER validáció • valódi pénzes automatikus végrehajtás nincs</footer></body></html>
+<html lang="hu">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0b1017">
+<link rel="manifest" href="manifest.webmanifest">
+<title>ProfitRendszer Mobil</title>
+<style>
+:root{--bg:#081018;--panel:#111b27;--line:#233349;--text:#f2f6fb;--muted:#91a4ba;--ok:#39d98a;--warn:#ffcc66;--bad:#ff6b6b;--accent:#59a7ff}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:15px system-ui,-apple-system,"Segoe UI",Arial,sans-serif}.top{padding:16px 14px;border-bottom:1px solid var(--line);position:sticky;top:0;background:#081018f2;backdrop-filter:blur(8px);z-index:5}.eyebrow{font-size:11px;letter-spacing:.18em;color:var(--accent);font-weight:800}.top h1{margin:3px 0 4px}.muted{color:var(--muted)}main{padding:14px;max-width:900px;margin:auto}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.card{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:14px;margin-bottom:10px}.value{font-size:24px;font-weight:850;margin-top:3px;overflow-wrap:anywhere}.ok{color:var(--ok)}.warn{color:var(--warn)}.bad{color:var(--bad)}h2{font-size:18px;margin:0 0 10px}.bet{padding:12px 0;border-top:1px solid var(--line)}.bet:first-child{border-top:0}.pill{display:inline-block;background:#172538;border-radius:20px;padding:4px 8px;font-size:12px}.facts{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;margin-top:8px}.fact{background:#0d1620;border-radius:10px;padding:8px;color:var(--muted)}.fact b{display:block;color:var(--text);margin-top:2px}.timeline{display:grid;grid-template-columns:repeat(4,1fr);gap:6px}.tp{background:#0d1620;border:1px solid var(--line);border-radius:9px;padding:9px 2px;text-align:center}.have{border-color:var(--ok)}.toolbar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:8px}.btn{border:1px solid var(--line);background:#142235;color:var(--text);border-radius:10px;padding:8px 11px;font-weight:700}.statusline{font-size:12px}.sportrow{padding:9px 0;border-top:1px solid var(--line)}.sportrow:first-child{border-top:0}.sportmeta{font-size:12px;color:var(--muted);margin-top:3px}.empty{color:var(--muted);padding:8px 0}footer{text-align:center;color:var(--muted);font-size:12px;padding:18px}@media(min-width:700px){.grid{grid-template-columns:repeat(4,1fr)}.timeline{grid-template-columns:repeat(7,1fr)}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="eyebrow">PROFITRENDSZER</div>
+  <h1>Telefonos app</h1>
+  <div class="muted">PAPER tesztüzem • élő adatkapcsolat</div>
+  <div class="toolbar"><button class="btn" id="refreshBtn">Frissítés</button><span class="statusline muted" id="frissStatus">Adatok betöltése…</span></div>
+</header>
+<main>
+  <div class="grid">
+    <div class="card"><div class="muted">Kanonikus PAPER</div><div class="value" id="mKanonikus">—</div></div>
+    <div class="card"><div class="muted">Nyitott PAPER</div><div class="value" id="mNyitott">—</div></div>
+    <div class="card"><div class="muted">48 sportág</div><div class="value" id="mSportag">—</div></div>
+    <div class="card"><div class="muted">Élő PAPER</div><div class="value" id="mEloPaper">—</div></div>
+    <div class="card"><div class="muted">Virtuális eredmény</div><div class="value" id="mProfit">—</div></div>
+    <div class="card"><div class="muted">Mérések</div><div class="value" id="mMeres">—</div></div>
+    <div class="card"><div class="muted">Élő modell</div><div class="value" id="mEloModell">—</div></div>
+    <div class="card"><div class="muted">Állapot</div><div class="value" id="mAllapot">—</div></div>
+  </div>
+
+  <section class="card"><h2>Aktív PAPER</h2><div id="paperLista" class="empty">Betöltés…</div></section>
+
+  <section class="card"><h2>Időbeli mérések</h2><div class="timeline" id="timeline"></div></section>
+
+  <section class="card"><h2>48 sportág készültség</h2><div id="sportOsszegzes" class="empty">Betöltés…</div><div id="sportLista"></div></section>
+</main>
+<footer>ProfitRendszer • PAPER validáció • valódi pénzes automatikus végrehajtás nincs</footer>
+<script>
+const SPORT_HU={american_football:'Amerikai futball',athletics:'Atlétika',australian_rules:'Ausztrál futball',badminton:'Tollaslabda',bandy:'Bandy',baseball:'Baseball',basketball:'Kosárlabda',beach_soccer:'Strandlabdarúgás',beach_volleyball:'Strandröplabda',biathlon:'Biatlon',bowling:'Bowling',bowls:'Golyósport',boxing:'Ökölvívás',chess:'Sakk',cricket:'Krikett',curling:'Curling',cycling:'Kerékpár',darts:'Darts',field_hockey:'Gyeplabda',floorball:'Floorball',futsal:'Futsal',golf:'Golf',handball:'Kézilabda',hockey:'Jégkorong',horse_racing:'Lóverseny',lacrosse:'Lacrosse',mma:'MMA',motorsport:'Motorsport',netball:'Netball',pesapallo:'Pesäpallo',rugby_league:'Rögbi liga',rugby_union:'Rögbi unió',snooker:'Snooker',soccer:'Labdarúgás',softball:'Softball',speedway:'Speedway',squash:'Squash',table_tennis:'Asztalitenisz',tennis:'Tenisz',volleyball:'Röplabda',water_polo:'Vízilabda'};
+const $=id=>document.getElementById(id);
+const fmt=n=>Number.isFinite(Number(n))?Number(n).toFixed(2):'—';
+const pct=n=>Number.isFinite(Number(n))?(Number(n)*100).toFixed(1)+'%':'—';
+const huSport=s=>SPORT_HU[s]||String(s||'').replaceAll('_',' ');
+const cacheBust=()=>`?v=${Date.now()}`;
+async function json(path){const r=await fetch(path+cacheBust(),{cache:'no-store'});if(!r.ok)throw new Error(`${path}: HTTP ${r.status}`);return r.json()}
+function cls(v){return Number(v)>0?'ok':Number(v)<0?'bad':''}
+function formatTime(x){if(!x)return '—';try{return new Intl.DateTimeFormat('hu-HU',{dateStyle:'short',timeStyle:'short'}).format(new Date(x))}catch{return x}}
+function renderAllapot(a){
+ $('mKanonikus').textContent=`${a.lezart??0} / ${a.cel??500}`;
+ $('mNyitott').textContent=a.nyitott??0;
+ $('mSportag').textContent=`${a.statikus_sportag_ok??0} / ${a.registry_sportag_db??48}`;
+ $('mEloPaper').textContent=`${a.elo_paper_bizonyitott??0} / ${a.registry_sportag_db??48}`;
+ $('mProfit').textContent=(Number(a.profit)>=0?'+':'')+fmt(a.profit); $('mProfit').className='value '+cls(a.profit);
+ $('mMeres').textContent=a.meresek??0;
+ $('mEloModell').textContent=`${a.elo_modell_bizonyitott??0} / ${a.registry_sportag_db??48}`;
+ $('mAllapot').textContent=a.allapot||'—';
+ const pontok=a.meresi_pontok||{}; $('timeline').innerHTML=[72,48,24,12,6,3,1].map(h=>`<div class="tp ${Number(pontok[h]||0)>0?'have':''}">${h}h<br><b>${pontok[h]||0}</b></div>`).join('');
+}
+function renderPaper(rows){
+ const aktiv=(Array.isArray(rows)?rows:[]).filter(x=>x.statusz==='NYITOTT').sort((a,b)=>new Date(a.esemeny_ideje)-new Date(b.esemeny_ideje));
+ $('paperLista').className='';
+ $('paperLista').innerHTML=aktiv.length?aktiv.map(x=>`<div class="bet"><span class="pill">${huSport(x.sportag)}</span> <b>${x.kimenetel||'—'}</b><div class="facts"><div class="fact">Szorzó<b>${fmt(x.szorzo)}</b></div><div class="fact">Teszttét<b>${fmt(x.tet_osszeg)} egység</b></div><div class="fact">Becsült esély<b>${pct(x.becsult_esely)}</b></div><div class="fact">Várható érték<b>${fmt(x.varhato_ertek_szazalek)}%</b></div><div class="fact">Iroda<b>${x.iroda||'—'}</b></div><div class="fact">Esemény ideje<b>${formatTime(x.esemeny_ideje)}</b></div></div></div>`).join(''):'<div class="empty">Jelenleg nincs nyitott PAPER tét.</div>';
+}
+function renderSportok(s){
+ const rows=Array.isArray(s.sportagak)?s.sportagak:[];
+ const elo=s.elo_allapotok||{};
+ $('sportOsszegzes').className='';
+ $('sportOsszegzes').innerHTML=`Statikus szerződés: <b>${s.statikus_szerzodes_rendben??0}/${s.sportagok_szama??48}</b><br>Élő PAPER-ig bizonyítva: <b>${elo.PAPER_UTVONAL_ELO_BIZONYITOTT??0}</b><br>Élő modellig bizonyítva: <b>${elo.MODELL_ELO_BIZONYITOTT??0}</b><br>Aktív oddsra vár: <b>${elo.VAR_AKTIV_ODDSRA??0}</b><br>Sportadat-hiány: <b>${elo.SPORTADAT_HIANYZIK??0}</b>`;
+ const fontos=rows.filter(x=>x.elo_allapot!=='VAR_AKTIV_ODDSRA').sort((a,b)=>(b.odds||0)-(a.odds||0));
+ $('sportLista').innerHTML=fontos.map(x=>`<div class="sportrow"><b>${huSport(x.sportag)}</b> <span class="pill">${x.elo_allapot||'—'}</span><div class="sportmeta">Odds: ${x.odds||0} • sportadat: ${x.sportadat||0} • aktív modell: ${x.aktiv_modell||0} • portfólió: ${x.portfolio||0}</div></div>`).join('');
+}
+async function refresh(){
+ $('frissStatus').textContent='Frissítés…';
+ try{
+  const [a,p,m,s]=await Promise.all([json('data/allapot.json'),json('data/paper.json'),json('data/meresek.json'),json('data/sportagok.json')]);
+  renderAllapot(a);renderPaper(p);renderSportok(s);
+  const t=a.frissitve||a.kanonikus_statusz_frissitve;
+  $('frissStatus').textContent=`Adatok rendben • ${formatTime(t)} • mérések: ${Array.isArray(m)?m.length:0}`;
+  $('frissStatus').className='statusline ok';
+ }catch(e){
+  $('frissStatus').textContent='ADATKAPU HIBA: '+e.message;
+  $('frissStatus').className='statusline bad';
+ }
+}
+$('refreshBtn').addEventListener('click',refresh);
+window.addEventListener('online',refresh);
+if('serviceWorker' in navigator)navigator.serviceWorker.register('./sw.js').catch(()=>{});
+refresh();setInterval(refresh,60000);
+</script>
+</body>
+</html>
