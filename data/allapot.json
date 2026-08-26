@@ -7,7 +7,32 @@
   "nyert": 0,
   "vesztett": 0,
   "profit": 0.0,
+  "lezart_tet_osszeg": 0.0,
+  "roi": null,
+  "talalati_arany": null,
   "meresek": 4,
-  "frissitve": "2026-08-25T23:49:22.581176+00:00",
-  "uzemmod": "PAPER VALIDACIO"
+  "meresi_pontok": {
+    "72": 0,
+    "48": 0,
+    "24": 0,
+    "12": 0,
+    "6": 3,
+    "3": 0,
+    "1": 1
+  },
+  "sportag_db": 4,
+  "sportagak": [
+    "baseball",
+    "basketball",
+    "soccer",
+    "tennis"
+  ],
+  "duplikalt_sorok": 0,
+  "hibas_azonositoju_sorok": 0,
+  "szamlalo_egyezik": true,
+  "integritas_ok": true,
+  "frissitve": "2026-08-25T23:58:59.201095+00:00",
+  "kanonikus_statusz_frissitve": "2026-08-25T23:46:51.436054+00:00",
+  "uzemmod": "PAPER VALIDÁCIÓ",
+  "allapot": "MINTAGYŰJTÉS"
 }
