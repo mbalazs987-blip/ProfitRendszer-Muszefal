@@ -4,6 +4,7 @@ const pct=x=>Number.isFinite(+x)?(+x*100).toFixed(1)+'%':'–';
 const dt=x=>x?new Date(x).toLocaleString('hu-HU'):'–';
 const sport=s=>({soccer:'Labdarúgás',baseball:'Baseball',basketball:'Kosárlabda',tennis:'Tenisz',mma:'MMA'})[s]||s||'–';
 const money=x=>Number.isFinite(+x)?((+x>=0?'+':'')+(+x).toFixed(2)):'–';
+const edge=(p,m)=>Number.isFinite(+p)&&Number.isFinite(+m)?((+p-(+m))*100).toFixed(1)+' szp.':'–';
 async function J(p){const r=await fetch(p+'?t='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error(p);return r.json()}
 
 document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{
@@ -13,7 +14,7 @@ document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{
 });
 
 function betKartya(x,i){
-  return `<article class="bet"><span class="rank">#${i+1}</span><span class="pill">${sport(x.sportag)}</span><span class="pill">${x.piac||'–'}</span><h3>${x.kimenetel||'–'}</h3><div class="facts"><div class="fact">Szorzó<b>${x.szorzo??'–'}</b></div><div class="fact">Becsült esély<b>${pct(x.becsult_esely)}</b></div><div class="fact">Piaci esély<b>${pct(x.piaci_esely)}</b></div><div class="fact">Megbízhatóság<b>${pct(x.megbizhatosag)}</b></div><div class="fact">Becsült előny<b>${Number.isFinite(+x.varhato_ertek_szazalek)?(+x.varhato_ertek_szazalek).toFixed(1)+'%':'–'}</b></div><div class="fact">PAPER összeg<b>${x.tet_osszeg??'–'}</b></div></div><p class="muted mini">Iroda: ${x.iroda||'–'} • Döntés: ${dt(x.dontesi_ido)} • Kezdés: ${dt(x.esemeny_ideje)}</p></article>`;
+  return `<article class="bet"><span class="rank">#${i+1}</span><span class="pill">${sport(x.sportag)}</span><span class="pill">${x.piac||'–'}</span><h3>${x.kimenetel||'–'}</h3><div class="facts"><div class="fact">Szorzó<b>${x.szorzo??'–'}</b></div><div class="fact">Becsült esély<b>${pct(x.becsult_esely)}</b></div><div class="fact">Piaci esély<b>${pct(x.piaci_esely)}</b></div><div class="fact">Megbízhatóság<b>${pct(x.megbizhatosag)}</b></div><div class="fact">Esélyelőny a piachoz képest<b>${edge(x.becsult_esely,x.piaci_esely)}</b></div><div class="fact">Várható érték (EV)<b>${Number.isFinite(+x.varhato_ertek_szazalek)?(+x.varhato_ertek_szazalek).toFixed(1)+'%':'–'}</b></div><div class="fact">PAPER összeg<b>${x.tet_osszeg??'–'}</b></div></div><p class="muted mini">Iroda: ${x.iroda||'–'} • Döntés: ${dt(x.dontesi_ido)} • Kezdés: ${dt(x.esemeny_ideje)}</p></article>`;
 }
 
 async function load(){
@@ -58,7 +59,7 @@ async function load(){
     const pontDb=a.meresi_pontok||{};
     $('#timeline').innerHTML=pontok.map(h=>{const n=Number(pontDb[String(h)]||0);return `<div class="tp ${n>0?'have':''}"><b>${h}h</b><br>${n} mérés</div>`}).join('');
     $('#meresosszefoglalo').textContent=`Összesen ${Number(a.meresek)||0} rögzített időponti snapshot. Egy tét egy mérési ponton legfeljebb egyszer szerepelhet.`;
-    $('#mereslista').innerHTML=m.length?m.slice().sort((a,b)=>new Date(b.adat_ideje)-new Date(a.adat_ideje)).map(x=>`<details><summary>${sport(x.sportag)} — ${x.kimenetel||'–'} — ${x.meresi_pont_ora??'–'} órás mérés</summary><div class="facts"><div class="fact">Szorzó<b>${x.szorzo??'–'}</b></div><div class="fact">Becsült esély<b>${pct(x.becsult_esely)}</b></div><div class="fact">Piaci esély<b>${pct(x.piaci_esely)}</b></div><div class="fact">Becsült előny<b>${Number.isFinite(+x.becsult_elony_szazalek)?(+x.becsult_elony_szazalek).toFixed(1)+'%':'–'}</b></div></div><p class="muted mini">Adat: ${dt(x.adat_ideje)} • Kezdés: ${dt(x.esemeny_ideje)}</p></details>`).join(''):'<p class="muted">Még nincs időbeli mérési adat.</p>';
+    $('#mereslista').innerHTML=m.length?m.slice().sort((a,b)=>new Date(b.adat_ideje)-new Date(a.adat_ideje)).map(x=>`<details><summary>${sport(x.sportag)} — ${x.kimenetel||'–'} — ${x.meresi_pont_ora??'–'} órás mérés</summary><div class="facts"><div class="fact">Szorzó<b>${x.szorzo??'–'}</b></div><div class="fact">Becsült esély<b>${pct(x.becsult_esely)}</b></div><div class="fact">Piaci esély<b>${pct(x.piaci_esely)}</b></div><div class="fact">Esélyelőny<b>${edge(x.becsult_esely,x.piaci_esely)}</b></div><div class="fact">Várható érték (EV)<b>${Number.isFinite(+x.becsult_elony_szazalek)?(+x.becsult_elony_szazalek).toFixed(1)+'%':'–'}</b></div></div><p class="muted mini">Adat: ${dt(x.adat_ideje)} • Kezdés: ${dt(x.esemeny_ideje)}</p></details>`).join(''):'<p class="muted">Még nincs időbeli mérési adat.</p>';
 
     $('#frissites').textContent='adatforrás frissítve: '+dt(a.frissitve);
   }catch(e){
