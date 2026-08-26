@@ -1,15 +1,23 @@
 {
-  "id": "./",
+  "id": "./mobil.html",
   "name": "ProfitRendszer",
   "short_name": "ProfitRendszer",
-  "description": "Privát ProfitRendszer PAPER és sportág-készültségi alkalmazás",
-  "start_url": "./",
+  "description": "ProfitRendszer PAPER és sportág-készültségi telefonos alkalmazás",
+  "start_url": "./mobil.html",
   "scope": "./",
   "display": "standalone",
-  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "display_override": ["standalone", "minimal-ui"],
   "background_color": "#081018",
   "theme_color": "#0b1017",
   "lang": "hu-HU",
   "orientation": "any",
-  "categories": ["sports", "utilities", "productivity"]
+  "categories": ["sports", "utilities", "productivity"],
+  "icons": [
+    {
+      "src": "./ikon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
 }
