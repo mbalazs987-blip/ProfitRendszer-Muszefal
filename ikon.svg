@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="ProfitRendszer">
+  <rect width="512" height="512" rx="112" fill="#081018"/>
+  <rect x="64" y="64" width="384" height="384" rx="88" fill="#111b27" stroke="#59a7ff" stroke-width="18"/>
+  <path d="M132 334l76-82 62 56 112-142" fill="none" stroke="#39d98a" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="382" cy="166" r="23" fill="#39d98a"/>
+  <text x="256" y="414" text-anchor="middle" font-family="Arial, sans-serif" font-size="66" font-weight="800" fill="#f2f6fb">PR</text>
+</svg>

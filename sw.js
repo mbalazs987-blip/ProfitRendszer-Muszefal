@@ -1,8 +1,12 @@
-const CACHE='profitrendszer-pwa-v1';
-const SHELL=['./','./index.html','./style.css','./app.js','./ui.js','./manifest.webmanifest'];
+const CACHE='profitrendszer-pwa-v2';
+const SHELL=['./mobil.html','./manifest.webmanifest','./ikon.svg'];
 
 self.addEventListener('install',event=>{
-  event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL)).then(()=>self.skipWaiting()));
+  event.waitUntil(
+    caches.open(CACHE)
+      .then(cache=>cache.addAll(SHELL))
+      .then(()=>self.skipWaiting())
+  );
 });
 
 self.addEventListener('activate',event=>{
@@ -17,13 +21,13 @@ self.addEventListener('fetch',event=>{
   if(event.request.method!=='GET') return;
   const url=new URL(event.request.url);
 
-  // A ProfitRendszer adatai mindig hálózatról frissüljenek. Ha nincs internet,
-  // az alkalmazás váza továbbra is megnyitható marad.
+  // A PAPER- és sportágadatok soha nem szolgálhatók ki régi cache-ből.
   if(url.pathname.includes('/data/')){
     event.respondWith(fetch(event.request,{cache:'no-store'}));
     return;
   }
 
+  // Az alkalmazás váza hálózat-első, offline esetben a legutóbbi app-shell.
   event.respondWith(
     fetch(event.request,{cache:'no-store'})
       .then(response=>{
@@ -33,6 +37,9 @@ self.addEventListener('fetch',event=>{
         }
         return response;
       })
-      .catch(()=>caches.match(event.request).then(hit=>hit||caches.match('./index.html')))
+      .catch(async()=>{
+        const hit=await caches.match(event.request);
+        return hit || caches.match('./mobil.html');
+      })
   );
 });
