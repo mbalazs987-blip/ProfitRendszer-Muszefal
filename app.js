@@ -2,8 +2,9 @@ const $=s=>document.querySelector(s);
 const pontok=[72,48,24,12,6,3,1];
 const pct=x=>Number.isFinite(+x)?(+x*100).toFixed(1)+'%':'–';
 const dt=x=>x?new Date(x).toLocaleString('hu-HU'):'–';
-const sport=s=>({soccer:'Labdarúgás',baseball:'Baseball',basketball:'Kosárlabda',tennis:'Tenisz',mma:'MMA'})[s]||s||'–';
-const piac=p=>({moneyline:'Győztes',h2h:'Győztes',one_x_two:'1X2',spread:'Hendikep',handicap:'Hendikep',asian_handicap:'Ázsiai hendikep',runline:'Run hendikep',puckline:'Puck hendikep',total:'Összpontszám',team_total:'Csapat összpontszám',draw_no_bet:'Döntetlennél tét vissza',double_chance:'Dupla esély',total_games:'Összes játék',total_sets:'Összes szett',total_points:'Összes pont'})[p]||p||'–';
+const SPORT={soccer:'Labdarúgás',basketball:'Kosárlabda',baseball:'Baseball',american_football:'Amerikai futball',hockey:'Jégkorong',tennis:'Tenisz',table_tennis:'Asztalitenisz',handball:'Kézilabda',volleyball:'Röplabda',beach_volleyball:'Strandröplabda',cricket:'Krikett',rugby_union:'Rögbi union',rugby_league:'Rögbi league',australian_rules:'Ausztrál futball',mma:'MMA',boxing:'Ökölvívás',kickboxing:'Kick-box',golf:'Golf',darts:'Darts',snooker:'Snooker',badminton:'Tollaslabda',squash:'Squash',water_polo:'Vízilabda',field_hockey:'Gyeplabda',floorball:'Floorball',bandy:'Bandy',futsal:'Futsal',beach_soccer:'Strandlabdarúgás',lacrosse:'Lacrosse',gaelic_football:'Gael futball',hurling:'Hurling',cycling:'Kerékpár',formula_1:'Formula–1',motogp:'MotoGP',motorsport:'Motorsport',athletics:'Atlétika',swimming:'Úszás',skiing:'Sí',biathlon:'Biatlon',ski_jumping:'Síugrás',speed_skating:'Gyorskorcsolya',curling:'Curling',bowls:'Bowls',bowling:'Bowling',chess:'Sakk',esports:'E-sport',horse_racing:'Lóverseny',greyhound_racing:'Agárverseny'};
+const sport=s=>SPORT[s]||s||'–';
+const piac=p=>({moneyline:'Győztes',h2h:'Győztes','1x2':'1X2',one_x_two:'1X2',match_winner:'Győztes',spread:'Hendikep',handicap:'Hendikep',asian_handicap:'Ázsiai hendikep',runline:'Run hendikep',puckline:'Puck hendikep',total:'Összpontszám',team_total:'Csapat összpontszám',draw_no_bet:'Döntetlennél tét vissza',double_chance:'Dupla esély',total_games:'Összes játék',total_sets:'Összes szett',total_points:'Összes pont',total_runs:'Összes futás',outright:'Végső győztes',race_winner:'Futamgyőztes',event_winner:'Versenyszám győztese'})[p]||p||'–';
 const money=x=>Number.isFinite(+x)?((+x>=0?'+':'')+(+x).toFixed(2)):'–';
 const edge=(p,m)=>Number.isFinite(+p)&&Number.isFinite(+m)?((+p-(+m))*100).toFixed(1)+' szp.':'–';
 const ev=x=>Number.isFinite(+x)?(+x).toFixed(1)+'%':'–';
@@ -11,67 +12,32 @@ const tet=x=>Number.isFinite(+x)?(+x).toFixed(2)+' virtuális egység':'–';
 const tetPct=x=>Number.isFinite(+x)?' ('+(+x*100).toFixed(1)+'% tesztbank)':'';
 async function J(p){const r=await fetch(p+'?t='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error(p);return r.json()}
 
-document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{
-  document.querySelectorAll('nav button,section').forEach(x=>x.classList.remove('active'));
-  b.classList.add('active');
-  $('#'+b.dataset.tab).classList.add('active');
-});
+document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{document.querySelectorAll('nav button,section').forEach(x=>x.classList.remove('active'));b.classList.add('active');$('#'+b.dataset.tab).classList.add('active')});
 
-function betKartya(x,i){
-  const forma=piac(x.piac);
-  return `<article class="bet"><span class="rank">#${i+1}</span><span class="pill">${sport(x.sportag)}</span><span class="pill">${forma}</span><h3>${x.kimenetel||'–'}</h3><p class="muted mini"><b>Ajánlott fogadás:</b> ${forma} — ${x.kimenetel||'–'}</p><div class="facts"><div class="fact">Ajánlott szorzó<b>${x.szorzo??'–'}</b></div><div class="fact">Rendszer becsült esélye<b>${pct(x.becsult_esely)}</b></div><div class="fact">Piac által árazott esély<b>${pct(x.piaci_esely)}</b></div><div class="fact">Becslés megbízhatósága<b>${pct(x.megbizhatosag)}</b></div><div class="fact">Esélyelőny a piachoz képest<b>${edge(x.becsult_esely,x.piaci_esely)}</b></div><div class="fact">Várható érték (EV)<b>${ev(x.varhato_ertek_szazalek)}</b></div><div class="fact">Virtuális teszttét<b>${tet(x.tet_osszeg)}${tetPct(x.tet_szazalek)}</b></div></div><p class="muted mini">Fogadóiroda: ${x.iroda||'–'} • Döntés ideje: ${dt(x.dontesi_ido)} • Mérkőzés kezdése: ${dt(x.esemeny_ideje)}</p></article>`;
-}
+function betKartya(x,i){const forma=piac(x.piac);return `<article class="bet"><span class="rank">#${i+1}</span><span class="pill">${sport(x.sportag)}</span><span class="pill">${forma}</span><h3>${x.kimenetel||'–'}</h3><p class="muted mini"><b>Ajánlott fogadás:</b> ${forma} — ${x.kimenetel||'–'}</p><div class="facts"><div class="fact">Ajánlott szorzó<b>${x.szorzo??'–'}</b></div><div class="fact">Rendszer becsült esélye<b>${pct(x.becsult_esely)}</b></div><div class="fact">Piac által árazott esély<b>${pct(x.piaci_esely)}</b></div><div class="fact">Becslés megbízhatósága<b>${pct(x.megbizhatosag)}</b></div><div class="fact">Esélyelőny a piachoz képest<b>${edge(x.becsult_esely,x.piaci_esely)}</b></div><div class="fact">Várható érték (EV)<b>${ev(x.varhato_ertek_szazalek)}</b></div><div class="fact">Virtuális teszttét<b>${tet(x.tet_osszeg)}${tetPct(x.tet_szazalek)}</b></div></div><p class="muted mini">Fogadóiroda: ${x.iroda||'–'} • Döntés ideje: ${dt(x.dontesi_ido)} • Mérkőzés kezdése: ${dt(x.esemeny_ideje)}</p></article>`}
+
+function eloHu(s){return ({PAPER_UTVONAL_ELO_BIZONYITOTT:'Élőben PAPER-ig bizonyítva',MODELL_ELO_BIZONYITOTT:'Élő modell bizonyítva',AKTIV_MODELL_HIANYZIK:'Élő adat van, modellkapu még nem ment át',ILLESZTES_HIANYZIK:'Odds és sportadat van, illesztés hiányzik',SPORTADAT_HIANYZIK:'Aktív odds van, sportadat hiányzik',VAR_AKTIV_ODDSRA:'Jelenleg nincs aktív odds-esemény'})[s]||s||'–'}
+function elszHu(s){return ({PAPER_ELSZAMOLHATO:'Automatikusan elszámolható',VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR:'Versenyadapter kész, élő eredményre vár',EREDMENY_ELSZAMOLAS_ELO_BIZONYITASRA_VAR:'Eredményút élő bizonyításra vár'})[s]||s||'–'}
+function sportSor(x){const ok=x.statikus_szerzodes_rendben;const elo=x.elo_allapot==='PAPER_UTVONAL_ELO_BIZONYITOTT';return `<details><summary>${sport(x.sportag)} — ${ok?'STATIKUS OK':'HIBA'} — ${elo?'ÉLŐ PAPER OK':eloHu(x.elo_allapot)}</summary><div class="facts"><div class="fact">Támogatott piacok<b>${x.piacok_szama??0}</b></div><div class="fact">Elszámolás<b>${elszHu(x.elszamolasi_allapot)}</b></div><div class="fact">Aktív odds-sorok<b>${x.odds??0}</b></div><div class="fact">Sportadat-sorok<b>${x.sportadat??0}</b></div><div class="fact">Ellenőrzött illesztések<b>${x.ellenorzott??0}</b></div><div class="fact">Aktív modellek<b>${x.aktiv_modell??0}</b></div><div class="fact">Portfólióig jutott<b>${x.portfolio??0}</b></div><div class="fact">Statikus szerződés<b class="${ok?'ok':'bad'}">${ok?'RENDBEN':'HIBÁS'}</b></div></div><p class="muted mini">Élő állapot: ${eloHu(x.elo_allapot)} • ${x.kovetkezo_teendo||''}</p></details>`}
 
 async function load(){
   try{
-    const[a,p,m]=await Promise.all([J('data/allapot.json'),J('data/paper.json'),J('data/meresek.json')]);
-    const lez=p.filter(x=>x.statusz!=='NYITOTT');
-    const ny=p.filter(x=>x.statusz==='NYITOTT');
-    const w=lez.filter(x=>String(x.statusz).includes('NYERT'));
-    const l=lez.filter(x=>String(x.statusz).includes('VESZTETT'));
-    const cel=Number(a.cel)||500;
-    const lezart=Number(a.lezart)||0;
-    const sportok=Array.isArray(a.sportagak)?a.sportagak:[...new Set(p.map(x=>x.sportag).filter(Boolean))];
-
-    $('#minta').textContent=lezart+' / '+cel;
-    $('#bar').style.width=Math.min(100,100*lezart/cel)+'%';
-    $('#nyitott').textContent=Number.isFinite(+a.nyitott)?a.nyitott:ny.length;
-    $('#talalat').textContent=a.talalati_arany==null?'–':pct(a.talalati_arany);
-    $('#penz').textContent=money(a.profit)+' egység';
-    $('#roi').textContent=a.roi==null?'–':pct(a.roi);
-    $('#meresdb').textContent=Number(a.meresek)||0;
-    $('#nyert').textContent=Number.isFinite(+a.nyert)?a.nyert:w.length;
-    $('#vesztett').textContent=Number.isFinite(+a.vesztett)?a.vesztett:l.length;
-    $('#lezart').textContent=lezart;
-    $('#hatra').textContent=Math.max(0,cel-lezart);
-    $('#validacio').textContent=lezart>=cel
-      ?'Az 500-as kanonikus tesztminta összegyűlt. A végső minősítés elvégezhető.'
-      :'Még '+Math.max(0,cel-lezart)+' lezárt tesztfogadás szükséges. A ROI és találati arány addig csak folyamatközi adat; ha még nincs lezárt tét, ezek helyén „–” látható.';
-
-    $('#statusz').textContent=a.allapot||a.uzemmod||'TESZTFOGADÁSI VALIDÁCIÓ';
-    $('#statusz').className='value '+(a.integritas_ok===false?'bad':'ok');
-    $('#megjegyzes').textContent=(a.uzemmod||'TESZTFOGADÁSI VALIDÁCIÓ')+' • Forrásfrissítés: '+dt(a.frissitve)+' • Kanonikus státusz: '+dt(a.kanonikus_statusz_frissitve);
-    $('#sportdb').textContent=Number.isFinite(+a.sportag_db)?a.sportag_db:sportok.length;
-    $('#sportlista').textContent=sportok.length?sportok.map(sport).join(', '):'Még nincs sportág a tesztmintában.';
-    $('#integritas').textContent=`${a.duplikalt_sorok??0} / ${a.hibas_azonositoju_sorok??0}`;
-    $('#integritas').className='value '+(a.integritas_ok?'ok':'bad');
-    $('#szamlalo').textContent=a.szamlalo_egyezik===true?'EGYEZIK':a.szamlalo_egyezik===false?'ELTÉR':'–';
-    $('#szamlalo').className='value '+(a.szamlalo_egyezik===true?'ok':a.szamlalo_egyezik===false?'bad':'');
-
+    const[a,p,m,s]=await Promise.all([J('data/allapot.json'),J('data/paper.json'),J('data/meresek.json'),J('data/sportagok.json').catch(()=>({sportagok:[],sportagok_szama:48,statikus_szerzodes_rendben:48,elo_allapotok:{}}))]);
+    const lez=p.filter(x=>x.statusz!=='NYITOTT'),ny=p.filter(x=>x.statusz==='NYITOTT'),w=lez.filter(x=>String(x.statusz).includes('NYERT')),l=lez.filter(x=>String(x.statusz).includes('VESZTETT'));
+    const cel=Number(a.cel)||500,lezart=Number(a.lezart)||0,sportok=Array.isArray(a.sportagak)?a.sportagak:[...new Set(p.map(x=>x.sportag).filter(Boolean))];
+    $('#minta').textContent=lezart+' / '+cel;$('#bar').style.width=Math.min(100,100*lezart/cel)+'%';$('#nyitott').textContent=Number.isFinite(+a.nyitott)?a.nyitott:ny.length;
+    $('#sport48').textContent=(Number(a.statikus_sportag_ok)||Number(s.statikus_szerzodes_rendben)||0)+' / '+(Number(a.registry_sportag_db)||Number(s.sportagok_szama)||48);
+    $('#sportelo').textContent=(Number(a.elo_paper_bizonyitott)||Number((s.elo_allapotok||{}).PAPER_UTVONAL_ELO_BIZONYITOTT)||0)+' / 48';
+    $('#talalat').textContent=a.talalati_arany==null?'–':pct(a.talalati_arany);$('#penz').textContent=money(a.profit)+' egység';$('#roi').textContent=a.roi==null?'–':pct(a.roi);$('#meresdb').textContent=Number(a.meresek)||0;
+    $('#nyert').textContent=Number.isFinite(+a.nyert)?a.nyert:w.length;$('#vesztett').textContent=Number.isFinite(+a.vesztett)?a.vesztett:l.length;$('#lezart').textContent=lezart;$('#hatra').textContent=Math.max(0,cel-lezart);
+    $('#validacio').textContent=lezart>=cel?'Az 500-as kanonikus tesztminta összegyűlt. A végső minősítés elvégezhető.':'Még '+Math.max(0,cel-lezart)+' lezárt tesztfogadás szükséges. A ROI és találati arány addig folyamatközi adat.';
+    $('#statusz').textContent=a.allapot||a.uzemmod||'TESZTFOGADÁSI VALIDÁCIÓ';$('#statusz').className='value '+(a.integritas_ok===false?'bad':'ok');$('#megjegyzes').textContent=(a.uzemmod||'TESZTFOGADÁSI VALIDÁCIÓ')+' • Forrásfrissítés: '+dt(a.frissitve)+' • Kanonikus státusz: '+dt(a.kanonikus_statusz_frissitve);
+    $('#sportdb').textContent=Number.isFinite(+a.sportag_db)?a.sportag_db:sportok.length;$('#sportlista').textContent=sportok.length?sportok.map(sport).join(', '):'Még nincs sportág a tesztmintában.';$('#integritas').textContent=`${a.duplikalt_sorok??0} / ${a.hibas_azonositoju_sorok??0}`;$('#integritas').className='value '+(a.integritas_ok?'ok':'bad');$('#szamlalo').textContent=a.szamlalo_egyezik===true?'EGYEZIK':a.szamlalo_egyezik===false?'ELTÉR':'–';$('#szamlalo').className='value '+(a.szamlalo_egyezik===true?'ok':a.szamlalo_egyezik===false?'bad':'');
     $('#kartyak').innerHTML=ny.length?ny.map(betKartya).join(''):'<div class="card empty">Nincs aktív tesztfogadási ajánlás.</div>';
     $('#lezartlista').innerHTML=lez.length?lez.slice().reverse().map(x=>`<details><summary>${sport(x.sportag)} — ${piac(x.piac)} — ${x.kimenetel||'–'} — ${x.statusz}</summary><div class="facts"><div class="fact">Szorzó<b>${x.szorzo??'–'}</b></div><div class="fact">Eredmény<b>${x.eredmeny??'–'}</b></div><div class="fact">Virtuális eredmény<b>${money(x.nyereseg_veszteseg)} egység</b></div><div class="fact">Teszttét<b>${tet(x.tet_osszeg)}</b></div></div><p class="muted mini">Döntés: ${dt(x.dontesi_ido)} • Kezdés: ${dt(x.esemeny_ideje)}</p></details>`).join(''):'<p class="muted">Még nincs lezárt tesztfogadás.</p>';
-
-    const pontDb=a.meresi_pontok||{};
-    $('#timeline').innerHTML=pontok.map(h=>{const n=Number(pontDb[String(h)]||0);return `<div class="tp ${n>0?'have':''}"><b>${h}h</b><br>${n} mérés</div>`}).join('');
-    $('#meresosszefoglalo').textContent=`Összesen ${Number(a.meresek)||0} rögzített időponti mérés. Egy tét egy mérési ponton legfeljebb egyszer szerepelhet.`;
-    $('#mereslista').innerHTML=m.length?m.slice().sort((a,b)=>new Date(b.adat_ideje)-new Date(a.adat_ideje)).map(x=>`<details><summary>${sport(x.sportag)} — ${piac(x.piac)} — ${x.kimenetel||'–'} — ${x.meresi_pont_ora??'–'} órás mérés</summary><div class="facts"><div class="fact">Szorzó<b>${x.szorzo??'–'}</b></div><div class="fact">Becsült esély<b>${pct(x.becsult_esely)}</b></div><div class="fact">Piaci esély<b>${pct(x.piaci_esely)}</b></div><div class="fact">Esélyelőny<b>${edge(x.becsult_esely,x.piaci_esely)}</b></div><div class="fact">Várható érték (EV)<b>${ev(x.becsult_elony_szazalek)}</b></div></div><p class="muted mini">Adat: ${dt(x.adat_ideje)} • Kezdés: ${dt(x.esemeny_ideje)}</p></details>`).join(''):'<p class="muted">Még nincs időbeli mérési adat.</p>';
-
+    const pontDb=a.meresi_pontok||{};$('#timeline').innerHTML=pontok.map(h=>{const n=Number(pontDb[String(h)]||0);return `<div class="tp ${n>0?'have':''}"><b>${h}h</b><br>${n} mérés</div>`}).join('');$('#meresosszefoglalo').textContent=`Összesen ${Number(a.meresek)||0} rögzített időponti mérés. Egy tét egy mérési ponton legfeljebb egyszer szerepelhet.`;$('#mereslista').innerHTML=m.length?m.slice().sort((a,b)=>new Date(b.adat_ideje)-new Date(a.adat_ideje)).map(x=>`<details><summary>${sport(x.sportag)} — ${piac(x.piac)} — ${x.kimenetel||'–'} — ${x.meresi_pont_ora??'–'} órás mérés</summary><div class="facts"><div class="fact">Szorzó<b>${x.szorzo??'–'}</b></div><div class="fact">Becsült esély<b>${pct(x.becsult_esely)}</b></div><div class="fact">Piaci esély<b>${pct(x.piaci_esely)}</b></div><div class="fact">Esélyelőny<b>${edge(x.becsult_esely,x.piaci_esely)}</b></div><div class="fact">Várható érték (EV)<b>${ev(x.becsult_elony_szazalek)}</b></div></div><p class="muted mini">Adat: ${dt(x.adat_ideje)} • Kezdés: ${dt(x.esemeny_ideje)}</p></details>`).join(''):'<p class="muted">Még nincs időbeli mérési adat.</p>';
+    const ea=s.elo_allapotok||{};$('#sportosszefoglalo').innerHTML=`<div class="fact">Statikus szerződés rendben<b>${s.statikus_szerzodes_rendben??0} / ${s.sportagok_szama??48}</b></div><div class="fact">Élő PAPER-ig bizonyítva<b>${ea.PAPER_UTVONAL_ELO_BIZONYITOTT??0}</b></div><div class="fact">Élő modellig bizonyítva<b>${ea.MODELL_ELO_BIZONYITOTT??0}</b></div><div class="fact">Aktív oddsra vár<b>${ea.VAR_AKTIV_ODDSRA??0}</b></div><div class="fact">Sportadat-hiány jelzett<b>${ea.SPORTADAT_HIANYZIK??0}</b></div>`;$('#sportlista48').innerHTML=(s.sportagak||[]).length?s.sportagak.map(sportSor).join(''):'<p class="muted">A 48 sportág auditadata a következő automatikus szinkronnal jelenik meg.</p>';
     $('#frissites').textContent='adatforrás frissítve: '+dt(a.frissitve);
-  }catch(e){
-    console.error(e);
-    $('#frissites').textContent='adatbetöltési hiba';
-  }
+  }catch(e){console.error(e);$('#frissites').textContent='adatbetöltési hiba'}
 }
-
-load();
-setInterval(load,60000);
+load();setInterval(load,60000);
