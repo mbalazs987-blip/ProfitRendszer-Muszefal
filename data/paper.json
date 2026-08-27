@@ -1,8 +1,12 @@
 [
   {
     "id": "b8e003c70ee889d3",
+    "esemeny_id": "59a86a28a79da4e1",
     "sportag": "soccer",
     "piac": "moneyline",
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "FC Akron Tolyatti",
     "szorzo": 4.87,
     "tet_szazalek": 0.02,
@@ -21,8 +25,15 @@
   },
   {
     "id": "ae70c07f0004a4fe",
+    "esemeny_id": "52f00202c82aa204",
     "sportag": "baseball",
     "piac": "moneyline",
+    "hazai": "Miami Marlins",
+    "vendeg": "Boston Red Sox",
+    "resztvevok": [
+      "Miami Marlins",
+      "Boston Red Sox"
+    ],
     "kimenetel": "Miami Marlins",
     "szorzo": 2.34,
     "tet_szazalek": 0.02,
@@ -41,8 +52,15 @@
   },
   {
     "id": "522db4e4279186cb",
+    "esemeny_id": "a53bc50cb78bf7c2",
     "sportag": "basketball",
     "piac": "moneyline",
+    "hazai": "Connecticut Sun",
+    "vendeg": "Chicago Sky",
+    "resztvevok": [
+      "Connecticut Sun",
+      "Chicago Sky"
+    ],
     "kimenetel": "Connecticut Sun",
     "szorzo": 3.3,
     "tet_szazalek": 0.02,
@@ -61,8 +79,15 @@
   },
   {
     "id": "7b5ec975496d8a68",
+    "esemeny_id": "c089bf7928c29aa6",
     "sportag": "tennis",
     "piac": "moneyline",
+    "hazai": "Panna Udvardy",
+    "vendeg": "Maya Joint",
+    "resztvevok": [
+      "Panna Udvardy",
+      "Maya Joint"
+    ],
     "kimenetel": "Panna Udvardy",
     "szorzo": 3.4,
     "tet_szazalek": 0.02,
@@ -81,8 +106,15 @@
   },
   {
     "id": "22df15cd60927e3d",
+    "esemeny_id": "288ab2be0e4bdc31",
     "sportag": "tennis",
     "piac": "moneyline",
+    "hazai": "Janice Tjen",
+    "vendeg": "Yuliia Starodubtseva",
+    "resztvevok": [
+      "Janice Tjen",
+      "Yuliia Starodubtseva"
+    ],
     "kimenetel": "Yuliia Starodubtseva",
     "szorzo": 2.32,
     "tet_szazalek": 0.02,
@@ -101,8 +133,15 @@
   },
   {
     "id": "6aa155e10f5e6fa4",
+    "esemeny_id": "f52daa49cefe4e65",
     "sportag": "baseball",
     "piac": "moneyline",
+    "hazai": "New York Mets",
+    "vendeg": "Milwaukee Brewers",
+    "resztvevok": [
+      "New York Mets",
+      "Milwaukee Brewers"
+    ],
     "kimenetel": "New York Mets",
     "szorzo": 2.43,
     "tet_szazalek": 0.02,
@@ -121,8 +160,15 @@
   },
   {
     "id": "fba443954a5f672f",
+    "esemeny_id": "9f5e6261a00ff781",
     "sportag": "basketball",
     "piac": "moneyline",
+    "hazai": "Connecticut Sun",
+    "vendeg": "Golden State Valkyries",
+    "resztvevok": [
+      "Connecticut Sun",
+      "Golden State Valkyries"
+    ],
     "kimenetel": "Connecticut Sun",
     "szorzo": 8.8,
     "tet_szazalek": 0.02,
@@ -141,8 +187,15 @@
   },
   {
     "id": "2d06fe777b761ed7",
+    "esemeny_id": "5b87b3e1e9c1be7b",
     "sportag": "baseball",
     "piac": "moneyline",
+    "hazai": "Toronto Blue Jays",
+    "vendeg": "Kansas City Royals",
+    "resztvevok": [
+      "Toronto Blue Jays",
+      "Kansas City Royals"
+    ],
     "kimenetel": "Kansas City Royals",
     "szorzo": 2.25,
     "tet_szazalek": 0.02,
@@ -161,8 +214,15 @@
   },
   {
     "id": "80c550a0bc5e5b2e",
+    "esemeny_id": "d7595c3b47371bf7",
     "sportag": "baseball",
     "piac": "moneyline",
+    "hazai": "Miami Marlins",
+    "vendeg": "Boston Red Sox",
+    "resztvevok": [
+      "Miami Marlins",
+      "Boston Red Sox"
+    ],
     "kimenetel": "Miami Marlins",
     "szorzo": 2.43,
     "tet_szazalek": 0.02,
@@ -181,8 +241,12 @@
   },
   {
     "id": "717aa35051e2dcce",
+    "esemeny_id": "c5019ed1a9904662",
     "sportag": "soccer",
     "piac": "moneyline",
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Draw",
     "szorzo": 3.6,
     "tet_szazalek": 0.011603529807692312,
@@ -201,8 +265,12 @@
   },
   {
     "id": "7975575f40775664",
+    "esemeny_id": "35a6d1f4311ad79b",
     "sportag": "tennis",
     "piac": "moneyline",
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Alycia Parks",
     "szorzo": 3.0,
     "tet_szazalek": 0.02,
@@ -221,8 +289,12 @@
   },
   {
     "id": "bdff09b5c0a19e5f",
+    "esemeny_id": "3cedcbfaf391e5b1",
     "sportag": "rugby_league",
     "piac": "moneyline",
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Draw",
     "szorzo": 29.0,
     "tet_szazalek": 0.02,
@@ -241,8 +313,12 @@
   },
   {
     "id": "114d6efa31a046d5",
+    "esemeny_id": "8cf3b76fbd47c729",
     "sportag": "rugby_league",
     "piac": "moneyline",
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Draw",
     "szorzo": 23.0,
     "tet_szazalek": 0.02,
@@ -261,8 +337,12 @@
   },
   {
     "id": "153537e3d1459a37",
+    "esemeny_id": "ca1fec45b83fe197",
     "sportag": "rugby_league",
     "piac": "moneyline",
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Draw",
     "szorzo": 29.0,
     "tet_szazalek": 0.02,
@@ -281,8 +361,12 @@
   },
   {
     "id": "ccfb4284966e9e23",
+    "esemeny_id": "564fbf8dc9e22e0b",
     "sportag": "rugby_league",
     "piac": "moneyline",
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Draw",
     "szorzo": 30.0,
     "tet_szazalek": 0.02,
@@ -301,8 +385,12 @@
   },
   {
     "id": "14355607f14037e7",
+    "esemeny_id": "3cedcbfaf391e5b1",
     "sportag": "rugby_league",
     "piac": "moneyline",
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Canterbury Bulldogs",
     "szorzo": 3.6,
     "tet_szazalek": 0.02,
@@ -321,8 +409,12 @@
   },
   {
     "id": "10b17e1b51c19551",
+    "esemeny_id": "8cf3b76fbd47c729",
     "sportag": "rugby_league",
     "piac": "moneyline",
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Brisbane Broncos",
     "szorzo": 2.43,
     "tet_szazalek": 0.02,
@@ -341,8 +433,12 @@
   },
   {
     "id": "3fba9894c6e80767",
+    "esemeny_id": "564fbf8dc9e22e0b",
     "sportag": "rugby_league",
     "piac": "moneyline",
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "St George Illawarra Dragons",
     "szorzo": 3.55,
     "tet_szazalek": 0.02,
@@ -361,8 +457,12 @@
   },
   {
     "id": "46df9eaf38731915",
+    "esemeny_id": "ca1fec45b83fe197",
     "sportag": "rugby_league",
     "piac": "moneyline",
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Dolphins",
     "szorzo": 2.61,
     "tet_szazalek": 0.02,
