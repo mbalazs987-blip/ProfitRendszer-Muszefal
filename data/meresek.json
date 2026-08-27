@@ -574,5 +574,23 @@
     "megbizhatosag": 0.9361082798924996,
     "becsult_elony_szazalek": 52.24111999999999,
     "iroda": null
+  },
+  {
+    "tet_id": "18a29b5d4b922c48",
+    "esemeny_id": "b6f6ea948dd0d7c5",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Milwaukee Brewers",
+    "vendeg": "New York Mets",
+    "kimenetel": "New York Mets",
+    "meresi_pont_ora": 1,
+    "adat_ideje": "2026-08-27T21:31:39+00:00",
+    "esemeny_ideje": "2026-08-27T23:11:00+00:00",
+    "szorzo": 2.84,
+    "becsult_esely": 0.538438,
+    "piaci_esely": 0.3608490566037736,
+    "megbizhatosag": 0.986799454035462,
+    "becsult_elony_szazalek": 52.916392,
+    "iroda": "DraftKings"
   }
 ]
