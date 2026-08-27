@@ -7,10 +7,10 @@
     "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR": 14
   },
   "elo_allapotok": {
-    "AKTIV_MODELL_HIANYZIK": 1,
+    "AKTIV_MODELL_HIANYZIK": 2,
     "MODELL_ELO_BIZONYITOTT": 4,
     "PAPER_UTVONAL_ELO_BIZONYITOTT": 2,
-    "SPORTADAT_HIANYZIK": 4,
+    "SPORTADAT_HIANYZIK": 3,
     "VAR_AKTIV_ODDSRA": 37
   },
   "sportagak": [
@@ -48,13 +48,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "SPORTADAT_HIANYZIK",
+      "elo_allapot": "AKTIV_MODELL_HIANYZIK",
       "odds": 2,
       "sportadat": 0,
-      "ellenorzott": 0,
+      "ellenorzott": 2,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "odds-független sportadat út létezik-e/történeti lefedettség hiányzik-e diagnosztizálandó"
+      "kovetkezo_teendo": "modelljellemző/minőség/szerződés-kapu diagnózis és javítás"
     },
     {
       "sportag": "badminton",
@@ -91,7 +91,7 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "PAPER_UTVONAL_ELO_BIZONYITOTT",
-      "odds": 101,
+      "odds": 103,
       "sportadat": 143,
       "ellenorzott": 38,
       "aktiv_modell": 21,
@@ -581,10 +581,10 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "PAPER_UTVONAL_ELO_BIZONYITOTT",
-      "odds": 328,
-      "sportadat": 76,
-      "ellenorzott": 65,
-      "aktiv_modell": 65,
+      "odds": 335,
+      "sportadat": 79,
+      "ellenorzott": 68,
+      "aktiv_modell": 68,
       "portfolio": 14,
       "kovetkezo_teendo": "élő esemény portfólióig jutott"
     },
