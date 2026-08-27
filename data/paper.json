@@ -619,5 +619,59 @@
     "varhato_ertek_szazalek": 128.4022,
     "megbizhatosag": 0.919780182399843,
     "szorzo_elony_szazalek": 18.181818
+  },
+  {
+    "id": "66172c8ef11fac28",
+    "esemeny_id": "e5cd79acde53981d",
+    "sportag": "soccer",
+    "piac": "moneyline",
+    "hazai": "Alverca",
+    "vendeg": "Santa Clara",
+    "resztvevok": [
+      "Alverca",
+      "Santa Clara"
+    ],
+    "kimenetel": "Santa Clara",
+    "szorzo": 2.88,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-08-27T14:14:12+00:00",
+    "esemeny_ideje": "2026-08-29T14:30:00+00:00",
+    "iroda": "Betfair",
+    "becsult_esely": 0.486882,
+    "piaci_esely": 0.3470986116055536,
+    "varhato_ertek_szazalek": 40.222016,
+    "megbizhatosag": 0.9767440000007442,
+    "szorzo_elony_szazalek": 7.26257
+  },
+  {
+    "id": "7a851632b4042e55",
+    "esemeny_id": "528afba650913bbc",
+    "sportag": "soccer",
+    "piac": "moneyline",
+    "hazai": "FC Midtjylland",
+    "vendeg": "Silkeborg IF",
+    "resztvevok": [
+      "FC Midtjylland",
+      "Silkeborg IF"
+    ],
+    "kimenetel": "Silkeborg IF",
+    "szorzo": 6.25,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-08-27T12:08:29+00:00",
+    "esemeny_ideje": "2026-08-30T12:00:00+00:00",
+    "iroda": "Unibet (NL)",
+    "becsult_esely": 0.31662,
+    "piaci_esely": 0.16220036558700263,
+    "varhato_ertek_szazalek": 97.8875,
+    "megbizhatosag": 0.9334466542832973,
+    "szorzo_elony_szazalek": 8.695652
   }
 ]
