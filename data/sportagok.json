@@ -7,11 +7,11 @@
     "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR": 14
   },
   "elo_allapotok": {
-    "AKTIV_MODELL_HIANYZIK": 2,
+    "AKTIV_MODELL_HIANYZIK": 1,
     "MODELL_ELO_BIZONYITOTT": 4,
     "PAPER_UTVONAL_ELO_BIZONYITOTT": 4,
-    "SPORTADAT_HIANYZIK": 1,
-    "VAR_AKTIV_ODDSRA": 37
+    "SPORTADAT_HIANYZIK": 3,
+    "VAR_AKTIV_ODDSRA": 36
   },
   "sportagak": [
     {
@@ -216,13 +216,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "AKTIV_MODELL_HIANYZIK",
+      "elo_allapot": "SPORTADAT_HIANYZIK",
       "odds": 8,
       "sportadat": 0,
-      "ellenorzott": 1,
+      "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "modelljellemző/minőség/szerződés-kapu diagnózis és javítás"
+      "kovetkezo_teendo": "odds-független sportadat út létezik-e/történeti lefedettség hiányzik-e diagnosztizálandó"
     },
     {
       "sportag": "curling",
@@ -387,7 +387,7 @@
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
       "odds": 9,
       "sportadat": 0,
-      "ellenorzott": 4,
+      "ellenorzott": 1,
       "aktiv_modell": 4,
       "portfolio": 0,
       "kovetkezo_teendo": "élő eseményhez aktív modell készült"
@@ -454,13 +454,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
-      "odds": 0,
+      "elo_allapot": "SPORTADAT_HIANYZIK",
+      "odds": 1,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges"
+      "kovetkezo_teendo": "odds-független sportadat út létezik-e/történeti lefedettség hiányzik-e diagnosztizálandó"
     },
     {
       "sportag": "mma",
@@ -581,11 +581,11 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "PAPER_UTVONAL_ELO_BIZONYITOTT",
-      "odds": 343,
-      "sportadat": 82,
-      "ellenorzott": 71,
-      "aktiv_modell": 71,
-      "portfolio": 8,
+      "odds": 347,
+      "sportadat": 83,
+      "ellenorzott": 72,
+      "aktiv_modell": 72,
+      "portfolio": 7,
       "kovetkezo_teendo": "élő esemény portfólióig jutott"
     },
     {
