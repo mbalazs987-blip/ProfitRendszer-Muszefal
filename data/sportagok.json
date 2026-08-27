@@ -217,7 +217,7 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "SPORTADAT_HIANYZIK",
-      "odds": 6,
+      "odds": 7,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
@@ -469,9 +469,9 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "AKTIV_MODELL_HIANYZIK",
-      "odds": 29,
+      "odds": 30,
       "sportadat": 31,
-      "ellenorzott": 3,
+      "ellenorzott": 2,
       "aktiv_modell": 0,
       "portfolio": 0,
       "kovetkezo_teendo": "modelljellemző/minőség/szerződés-kapu diagnózis és javítás"
@@ -581,11 +581,11 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "PAPER_UTVONAL_ELO_BIZONYITOTT",
-      "odds": 192,
-      "sportadat": 43,
-      "ellenorzott": 29,
-      "aktiv_modell": 29,
-      "portfolio": 8,
+      "odds": 214,
+      "sportadat": 46,
+      "ellenorzott": 32,
+      "aktiv_modell": 32,
+      "portfolio": 11,
       "kovetkezo_teendo": "élő esemény portfólióig jutott"
     },
     {
@@ -655,7 +655,7 @@
       "sportadat": 611,
       "ellenorzott": 6,
       "aktiv_modell": 4,
-      "portfolio": 2,
+      "portfolio": 1,
       "kovetkezo_teendo": "élő esemény portfólióig jutott"
     },
     {
