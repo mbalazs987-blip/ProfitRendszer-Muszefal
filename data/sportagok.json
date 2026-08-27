@@ -8,9 +8,9 @@
   },
   "elo_allapotok": {
     "AKTIV_MODELL_HIANYZIK": 1,
-    "MODELL_ELO_BIZONYITOTT": 4,
+    "MODELL_ELO_BIZONYITOTT": 5,
     "PAPER_UTVONAL_ELO_BIZONYITOTT": 4,
-    "SPORTADAT_HIANYZIK": 3,
+    "SPORTADAT_HIANYZIK": 2,
     "VAR_AKTIV_ODDSRA": 36
   },
   "sportagak": [
@@ -21,7 +21,7 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 21,
+      "odds": 22,
       "sportadat": 33,
       "ellenorzott": 15,
       "aktiv_modell": 3,
@@ -91,11 +91,11 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "PAPER_UTVONAL_ELO_BIZONYITOTT",
-      "odds": 114,
-      "sportadat": 143,
-      "ellenorzott": 38,
-      "aktiv_modell": 7,
-      "portfolio": 1,
+      "odds": 116,
+      "sportadat": 145,
+      "ellenorzott": 40,
+      "aktiv_modell": 9,
+      "portfolio": 3,
       "kovetkezo_teendo": "élő esemény portfólióig jutott"
     },
     {
@@ -454,13 +454,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "SPORTADAT_HIANYZIK",
+      "elo_allapot": "MODELL_ELO_BIZONYITOTT",
       "odds": 1,
       "sportadat": 0,
-      "ellenorzott": 0,
-      "aktiv_modell": 0,
+      "ellenorzott": 1,
+      "aktiv_modell": 1,
       "portfolio": 0,
-      "kovetkezo_teendo": "odds-független sportadat út létezik-e/történeti lefedettség hiányzik-e diagnosztizálandó"
+      "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
     {
       "sportag": "mma",
@@ -469,9 +469,9 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "AKTIV_MODELL_HIANYZIK",
-      "odds": 31,
+      "odds": 34,
       "sportadat": 31,
-      "ellenorzott": 2,
+      "ellenorzott": 3,
       "aktiv_modell": 0,
       "portfolio": 0,
       "kovetkezo_teendo": "modelljellemző/minőség/szerződés-kapu diagnózis és javítás"
