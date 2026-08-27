@@ -1,7 +1,7 @@
 {
-  "frissitve": "2026-08-26T14:38:07.784862+00:00",
-  "integritas_ok": false,
-  "szamlalo_egyezik": false,
+  "frissitve": "2026-08-27T03:35:00+00:00",
+  "integritas_ok": true,
+  "szamlalo_egyezik": true,
   "duplikalt_sorok": 0,
   "hibas_azonositoju_sorok": 0,
   "registry_sportag_db": 48,
@@ -10,5 +10,5 @@
     "PAPER_UTVONAL_ELO_BIZONYITOTT": 2,
     "MODELL_ELO_BIZONYITOTT": 4
   },
-  "kanonikus_statusz_frissitve": "2026-08-26T14:35:58.743920+00:00"
+  "kanonikus_statusz_frissitve": "2026-08-26T19:36:08.505380+00:00"
 }
