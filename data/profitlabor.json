@@ -1,16 +1,16 @@
 {
   "teljes": {
-    "tetek": 8,
+    "tetek": 10,
     "nyert": 4,
-    "vesztett": 4,
+    "vesztett": 6,
     "visszajar": 0,
-    "megforgatott_toke": 16.0,
-    "nyereseg_veszteseg": 6.9,
-    "megterules_szazalek": 43.125,
-    "talalati_arany_szazalek": 50.0,
-    "atlag_szorzo": 3.4087,
-    "max_visszaeses": 6.0,
-    "brier_pontszam": 0.256068
+    "megforgatott_toke": 20.0,
+    "nyereseg_veszteseg": 2.9,
+    "megterules_szazalek": 14.5,
+    "talalati_arany_szazalek": 40.0,
+    "atlag_szorzo": 5.27,
+    "max_visszaeses": 7.14,
+    "brier_pontszam": 0.258002
   },
   "clv": {
     "merheto_tetek": 4,
@@ -44,6 +44,19 @@
       "atlag_szorzo": 6.05,
       "max_visszaeses": 2.0,
       "brier_pontszam": 0.211758
+    },
+    "rugby_league": {
+      "tetek": 2,
+      "nyert": 0,
+      "vesztett": 2,
+      "visszajar": 0,
+      "megforgatott_toke": 4.0,
+      "nyereseg_veszteseg": -4.0,
+      "megterules_szazalek": -100.0,
+      "talalati_arany_szazalek": 0.0,
+      "atlag_szorzo": 12.715,
+      "max_visszaeses": 4.0,
+      "brier_pontszam": 0.26574
     },
     "tennis": {
       "tetek": 2,
