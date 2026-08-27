@@ -8,8 +8,8 @@
   },
   "elo_allapotok": {
     "AKTIV_MODELL_HIANYZIK": 1,
-    "MODELL_ELO_BIZONYITOTT": 2,
-    "PAPER_UTVONAL_ELO_BIZONYITOTT": 4,
+    "MODELL_ELO_BIZONYITOTT": 3,
+    "PAPER_UTVONAL_ELO_BIZONYITOTT": 3,
     "SPORTADAT_HIANYZIK": 4,
     "VAR_AKTIV_ODDSRA": 37
   },
@@ -510,13 +510,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "PAPER_UTVONAL_ELO_BIZONYITOTT",
+      "elo_allapot": "MODELL_ELO_BIZONYITOTT",
       "odds": 5,
       "sportadat": 0,
       "ellenorzott": 4,
       "aktiv_modell": 5,
-      "portfolio": 2,
-      "kovetkezo_teendo": "élő esemény portfólióig jutott"
+      "portfolio": 0,
+      "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
     {
       "sportag": "rugby_union",
@@ -581,11 +581,11 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "PAPER_UTVONAL_ELO_BIZONYITOTT",
-      "odds": 214,
-      "sportadat": 46,
-      "ellenorzott": 32,
-      "aktiv_modell": 32,
-      "portfolio": 11,
+      "odds": 217,
+      "sportadat": 47,
+      "ellenorzott": 33,
+      "aktiv_modell": 33,
+      "portfolio": 12,
       "kovetkezo_teendo": "élő esemény portfólióig jutott"
     },
     {
