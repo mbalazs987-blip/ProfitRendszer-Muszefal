@@ -274,12 +274,9 @@
     "esemeny_id": "35a6d1f4311ad79b",
     "sportag": "tennis",
     "piac": "moneyline",
-    "hazai": "Alycia Parks",
-    "vendeg": "Ann Li",
-    "resztvevok": [
-      "Alycia Parks",
-      "Ann Li"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Alycia Parks",
     "szorzo": 3.0,
     "tet_szazalek": 0.02,
