@@ -382,12 +382,9 @@
     "esemeny_id": "564fbf8dc9e22e0b",
     "sportag": "rugby_league",
     "piac": "moneyline",
-    "hazai": "Manly Warringah Sea Eagles",
-    "vendeg": "St George Illawarra Dragons",
-    "resztvevok": [
-      "Manly Warringah Sea Eagles",
-      "St George Illawarra Dragons"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Draw",
     "szorzo": 30.0,
     "tet_szazalek": 0.02,
@@ -463,12 +460,9 @@
     "esemeny_id": "564fbf8dc9e22e0b",
     "sportag": "rugby_league",
     "piac": "moneyline",
-    "hazai": "Manly Warringah Sea Eagles",
-    "vendeg": "St George Illawarra Dragons",
-    "resztvevok": [
-      "Manly Warringah Sea Eagles",
-      "St George Illawarra Dragons"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "St George Illawarra Dragons",
     "szorzo": 3.55,
     "tet_szazalek": 0.02,
