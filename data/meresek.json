@@ -826,5 +826,41 @@
     "megbizhatosag": 0.919780182399843,
     "becsult_elony_szazalek": 127.92510000000004,
     "iroda": null
+  },
+  {
+    "tet_id": "72c83b80bf0cbf7b",
+    "esemeny_id": "2caa7fb83e596e7f",
+    "sportag": "soccer",
+    "piac": "moneyline",
+    "hazai": "AC Horsens",
+    "vendeg": "Viborg FF",
+    "kimenetel": "AC Horsens",
+    "meresi_pont_ora": 6,
+    "adat_ideje": "2026-08-28T10:20:27+00:00",
+    "esemeny_ideje": "2026-08-28T17:00:00+00:00",
+    "szorzo": 4.6,
+    "becsult_esely": 0.459234,
+    "piaci_esely": 0.2174131037805878,
+    "megbizhatosag": 0.9602445627135621,
+    "becsult_elony_szazalek": 111.24763999999998,
+    "iroda": null
+  },
+  {
+    "tet_id": "afbd72e24dd3a7a5",
+    "esemeny_id": "09bb6c012fcd692e",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Miami Marlins",
+    "vendeg": "Washington Nationals",
+    "kimenetel": "Washington Nationals",
+    "meresi_pont_ora": 12,
+    "adat_ideje": "2026-08-28T10:20:02+00:00",
+    "esemeny_ideje": "2026-08-28T22:46:00+00:00",
+    "szorzo": 2.38,
+    "becsult_esely": 0.534007,
+    "piaci_esely": 0.4183168316831683,
+    "megbizhatosag": 0.990377896278037,
+    "becsult_elony_szazalek": 27.093666000000006,
+    "iroda": null
   }
 ]
