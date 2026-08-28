@@ -517,16 +517,19 @@
     "esemeny_id": "b6f6ea948dd0d7c5",
     "sportag": "baseball",
     "piac": "moneyline",
-    "hazai": null,
-    "vendeg": null,
-    "resztvevok": null,
+    "hazai": "New York Mets",
+    "vendeg": "Milwaukee Brewers",
+    "resztvevok": [
+      "New York Mets",
+      "Milwaukee Brewers"
+    ],
     "kimenetel": "New York Mets",
     "szorzo": 2.94,
     "tet_szazalek": 0.02,
     "tet_osszeg": 2.0,
-    "statusz": "NYITOTT",
-    "eredmeny": null,
-    "nyereseg_veszteseg": 0.0,
+    "statusz": "LEZART",
+    "eredmeny": "VESZTETT",
+    "nyereseg_veszteseg": -2.0,
     "dontesi_ido": "2026-08-27T10:42:20+00:00",
     "esemeny_ideje": "2026-08-27T23:11:00+00:00",
     "iroda": "BetOnline.ag",
@@ -724,5 +727,32 @@
     "varhato_ertek_szazalek": 48.38867,
     "megbizhatosag": 0.9817865121806406,
     "szorzo_elony_szazalek": 3.636364
+  },
+  {
+    "id": "72c83b80bf0cbf7b",
+    "esemeny_id": "2caa7fb83e596e7f",
+    "sportag": "soccer",
+    "piac": "moneyline",
+    "hazai": "AC Horsens",
+    "vendeg": "Viborg FF",
+    "resztvevok": [
+      "AC Horsens",
+      "Viborg FF"
+    ],
+    "kimenetel": "AC Horsens",
+    "szorzo": 4.8,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-08-28T04:51:49+00:00",
+    "esemeny_ideje": "2026-08-28T17:00:00+00:00",
+    "iroda": "Matchbook",
+    "becsult_esely": 0.459234,
+    "piaci_esely": 0.2178370066632496,
+    "varhato_ertek_szazalek": 120.43232,
+    "megbizhatosag": 0.9568635727765655,
+    "szorzo_elony_szazalek": 14.285714
   }
 ]
