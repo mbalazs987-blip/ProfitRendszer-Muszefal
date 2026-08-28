@@ -736,5 +736,41 @@
     "megbizhatosag": 0.9377142687402592,
     "becsult_elony_szazalek": 25.09332,
     "iroda": null
+  },
+  {
+    "tet_id": "b8e003c70ee889d3",
+    "esemeny_id": "59a86a28a79da4e1",
+    "sportag": "soccer",
+    "piac": "moneyline",
+    "hazai": "CSKA Moscow",
+    "vendeg": "FC Akron Tolyatti",
+    "kimenetel": "FC Akron Tolyatti",
+    "meresi_pont_ora": 6,
+    "adat_ideje": "2026-08-28T09:38:35+00:00",
+    "esemeny_ideje": "2026-08-28T15:00:00+00:00",
+    "szorzo": 4.55,
+    "becsult_esely": 0.3252,
+    "piaci_esely": 0.22358926347585695,
+    "megbizhatosag": 0.8328969666555255,
+    "becsult_elony_szazalek": 47.965999999999994,
+    "iroda": null
+  },
+  {
+    "tet_id": "14355607f14037e7",
+    "esemeny_id": "3cedcbfaf391e5b1",
+    "sportag": "rugby_league",
+    "piac": "moneyline",
+    "hazai": "Canterbury Bulldogs",
+    "vendeg": "Penrith Panthers",
+    "kimenetel": "Canterbury Bulldogs",
+    "meresi_pont_ora": 1,
+    "adat_ideje": "2026-08-28T09:38:55+00:00",
+    "esemeny_ideje": "2026-08-28T10:00:00+00:00",
+    "szorzo": 3.6,
+    "becsult_esely": 0.386445,
+    "piaci_esely": 0.25862068965517243,
+    "megbizhatosag": 0.9234722297551797,
+    "becsult_elony_szazalek": 39.120200000000004,
+    "iroda": null
   }
 ]
