@@ -889,5 +889,32 @@
     "varhato_ertek_szazalek": 105.46707,
     "megbizhatosag": 0.9784247054867533,
     "szorzo_elony_szazalek": 8.77193
+  },
+  {
+    "id": "56f20f8befc219c2",
+    "esemeny_id": "dfe1da7ffe68eb8d",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Los Angeles Angels",
+    "vendeg": "Philadelphia Phillies",
+    "resztvevok": [
+      "Los Angeles Angels",
+      "Philadelphia Phillies"
+    ],
+    "kimenetel": "Los Angeles Angels",
+    "szorzo": 3.1,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-08-29T13:24:07+00:00",
+    "esemeny_ideje": "2026-08-30T02:08:00+00:00",
+    "iroda": "Matchbook",
+    "becsult_esely": 0.495946,
+    "piaci_esely": 0.326923076923077,
+    "varhato_ertek_szazalek": 53.74326,
+    "megbizhatosag": 0.9832677438741296,
+    "szorzo_elony_szazalek": 6.896552
   }
 ]
