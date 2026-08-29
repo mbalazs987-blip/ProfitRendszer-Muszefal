@@ -8,8 +8,8 @@
   },
   "elo_allapotok": {
     "AKTIV_MODELL_HIANYZIK": 1,
-    "MODELL_ELO_BIZONYITOTT": 7,
-    "PAPER_UTVONAL_ELO_BIZONYITOTT": 2,
+    "MODELL_ELO_BIZONYITOTT": 5,
+    "PAPER_UTVONAL_ELO_BIZONYITOTT": 4,
     "SPORTADAT_HIANYZIK": 2,
     "VAR_AKTIV_ODDSRA": 36
   },
@@ -95,7 +95,7 @@
       "sportadat": 182,
       "ellenorzott": 58,
       "aktiv_modell": 17,
-      "portfolio": 2,
+      "portfolio": 1,
       "kovetkezo_teendo": "élő esemény portfólióig jutott"
     },
     {
@@ -104,13 +104,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "MODELL_ELO_BIZONYITOTT",
+      "elo_allapot": "PAPER_UTVONAL_ELO_BIZONYITOTT",
       "odds": 11,
       "sportadat": 2,
       "ellenorzott": 2,
       "aktiv_modell": 2,
-      "portfolio": 0,
-      "kovetkezo_teendo": "élő eseményhez aktív modell készült"
+      "portfolio": 2,
+      "kovetkezo_teendo": "élő esemény portfólióig jutott"
     },
     {
       "sportag": "beach_soccer",
@@ -454,13 +454,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "MODELL_ELO_BIZONYITOTT",
+      "elo_allapot": "PAPER_UTVONAL_ELO_BIZONYITOTT",
       "odds": 2,
       "sportadat": 0,
       "ellenorzott": 2,
       "aktiv_modell": 2,
-      "portfolio": 0,
-      "kovetkezo_teendo": "élő eseményhez aktív modell készült"
+      "portfolio": 1,
+      "kovetkezo_teendo": "élő esemény portfólióig jutott"
     },
     {
       "sportag": "mma",
@@ -585,7 +585,7 @@
       "sportadat": 68,
       "ellenorzott": 56,
       "aktiv_modell": 59,
-      "portfolio": 13,
+      "portfolio": 11,
       "kovetkezo_teendo": "élő esemény portfólióig jutott"
     },
     {
