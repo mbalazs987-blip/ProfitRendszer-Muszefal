@@ -859,12 +859,9 @@
     "esemeny_id": "f969e57ac94d2875",
     "sportag": "soccer",
     "piac": "moneyline",
-    "hazai": "Hellas Verona",
-    "vendeg": "Padova",
-    "resztvevok": [
-      "Hellas Verona",
-      "Padova"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Padova",
     "szorzo": 3.1,
     "tet_szazalek": 0.02,
