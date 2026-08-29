@@ -625,12 +625,9 @@
     "esemeny_id": "e5cd79acde53981d",
     "sportag": "soccer",
     "piac": "moneyline",
-    "hazai": "Alverca",
-    "vendeg": "Santa Clara",
-    "resztvevok": [
-      "Alverca",
-      "Santa Clara"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Santa Clara",
     "szorzo": 2.88,
     "tet_szazalek": 0.02,
