@@ -355,12 +355,9 @@
     "esemeny_id": "ca1fec45b83fe197",
     "sportag": "rugby_league",
     "piac": "moneyline",
-    "hazai": "Dolphins",
-    "vendeg": "Sydney Roosters",
-    "resztvevok": [
-      "Dolphins",
-      "Sydney Roosters"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Draw",
     "szorzo": 29.0,
     "tet_szazalek": 0.02,
@@ -490,12 +487,9 @@
     "esemeny_id": "ca1fec45b83fe197",
     "sportag": "rugby_league",
     "piac": "moneyline",
-    "hazai": "Dolphins",
-    "vendeg": "Sydney Roosters",
-    "resztvevok": [
-      "Dolphins",
-      "Sydney Roosters"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Dolphins",
     "szorzo": 2.61,
     "tet_szazalek": 0.02,
