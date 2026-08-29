@@ -811,12 +811,9 @@
     "esemeny_id": "5065ca7c0d3b461d",
     "sportag": "baseball",
     "piac": "moneyline",
-    "hazai": "Detroit Tigers",
-    "vendeg": "Los Angeles Dodgers",
-    "resztvevok": [
-      "Detroit Tigers",
-      "Los Angeles Dodgers"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Detroit Tigers",
     "szorzo": 2.65,
     "tet_szazalek": 0.02,
@@ -838,12 +835,9 @@
     "esemeny_id": "42f640c3122ff1d7",
     "sportag": "soccer",
     "piac": "moneyline",
-    "hazai": "Fiorentina",
-    "vendeg": "Frosinone",
-    "resztvevok": [
-      "Fiorentina",
-      "Frosinone"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Frosinone",
     "szorzo": 5.6,
     "tet_szazalek": 0.02,
@@ -946,12 +940,9 @@
     "esemeny_id": "18cd288d0dba28fa",
     "sportag": "basketball",
     "piac": "moneyline",
-    "hazai": "Chicago Sky",
-    "vendeg": "New York Liberty",
-    "resztvevok": [
-      "Chicago Sky",
-      "New York Liberty"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Chicago Sky",
     "szorzo": 4.5,
     "tet_szazalek": 0.02,
