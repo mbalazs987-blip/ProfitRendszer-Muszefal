@@ -544,12 +544,9 @@
     "esemeny_id": "d12da582e383451d",
     "sportag": "soccer",
     "piac": "moneyline",
-    "hazai": "Bucheon FC 1995",
-    "vendeg": "FC Anyang",
-    "resztvevok": [
-      "Bucheon FC 1995",
-      "FC Anyang"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "FC Anyang",
     "szorzo": 2.74,
     "tet_szazalek": 0.02,
@@ -571,12 +568,9 @@
     "esemeny_id": "825a3e2a4d0f518d",
     "sportag": "soccer",
     "piac": "moneyline",
-    "hazai": "Sangju Sangmu FC",
-    "vendeg": "Ulsan Hyundai FC",
-    "resztvevok": [
-      "Sangju Sangmu FC",
-      "Ulsan Hyundai FC"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Sangju Sangmu FC",
     "szorzo": 3.98,
     "tet_szazalek": 0.02,
