@@ -3,7 +3,7 @@
   "lezart": 27,
   "hatralevo": 473,
   "teljesites_szazalek": 5.4,
-  "nyitott": 6,
+  "nyitott": 7,
   "nyert": 7,
   "vesztett": 20,
   "profit": -14.5804,
@@ -36,8 +36,8 @@
   "hibas_azonositoju_sorok": 0,
   "szamlalo_egyezik": true,
   "integritas_ok": true,
-  "frissitve": "2026-08-29T13:06:36.614556+00:00",
-  "kanonikus_statusz_frissitve": "2026-08-29T12:54:32.847030+00:00",
+  "frissitve": "2026-08-29T13:55:13.067100+00:00",
+  "kanonikus_statusz_frissitve": "2026-08-29T13:33:03.819696+00:00",
   "uzemmod": "PAPER VALIDÁCIÓ",
   "allapot": "MINTAGYŰJTÉS"
 }
