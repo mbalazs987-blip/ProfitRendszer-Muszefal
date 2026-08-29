@@ -1,5 +1,5 @@
 {
-  "frissitve": "2026-08-29T12:04:18.324889+00:00",
+  "frissitve": "2026-08-29T13:06:36.614556+00:00",
   "integritas_ok": true,
   "szamlalo_egyezik": true,
   "duplikalt_sorok": 0,
@@ -8,9 +8,10 @@
   "statikus_sportag_ok": 48,
   "elo_allapotok": {
     "AKTIV_MODELL_HIANYZIK": 1,
-    "MODELL_ELO_BIZONYITOTT": 8,
+    "MODELL_ELO_BIZONYITOTT": 6,
+    "PAPER_UTVONAL_ELO_BIZONYITOTT": 2,
     "SPORTADAT_HIANYZIK": 3,
     "VAR_AKTIV_ODDSRA": 36
   },
-  "kanonikus_statusz_frissitve": "2026-08-29T11:31:15.565718+00:00"
+  "kanonikus_statusz_frissitve": "2026-08-29T12:54:32.847030+00:00"
 }
