@@ -7,8 +7,8 @@
     "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR": 14
   },
   "elo_allapotok": {
-    "AKTIV_MODELL_HIANYZIK": 2,
-    "MODELL_ELO_BIZONYITOTT": 7,
+    "AKTIV_MODELL_HIANYZIK": 1,
+    "MODELL_ELO_BIZONYITOTT": 8,
     "SPORTADAT_HIANYZIK": 3,
     "VAR_AKTIV_ODDSRA": 36
   },
@@ -20,7 +20,7 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 28,
+      "odds": 36,
       "sportadat": 31,
       "ellenorzott": 16,
       "aktiv_modell": 3,
@@ -453,13 +453,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "AKTIV_MODELL_HIANYZIK",
+      "elo_allapot": "MODELL_ELO_BIZONYITOTT",
       "odds": 1,
       "sportadat": 0,
       "ellenorzott": 1,
-      "aktiv_modell": 0,
+      "aktiv_modell": 1,
       "portfolio": 0,
-      "kovetkezo_teendo": "modelljellemző/minőség/szerződés-kapu diagnózis és javítás"
+      "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
     {
       "sportag": "mma",
