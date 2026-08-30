@@ -598,12 +598,9 @@
     "esemeny_id": "9b0a0911d9abc3a5",
     "sportag": "soccer",
     "piac": "moneyline",
-    "hazai": "FC Seoul",
-    "vendeg": "Gwangju FC",
-    "resztvevok": [
-      "FC Seoul",
-      "Gwangju FC"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Gwangju FC",
     "szorzo": 6.5,
     "tet_szazalek": 0.02,
@@ -649,12 +646,9 @@
     "esemeny_id": "528afba650913bbc",
     "sportag": "soccer",
     "piac": "moneyline",
-    "hazai": "FC Midtjylland",
-    "vendeg": "Silkeborg IF",
-    "resztvevok": [
-      "FC Midtjylland",
-      "Silkeborg IF"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Silkeborg IF",
     "szorzo": 6.25,
     "tet_szazalek": 0.02,
