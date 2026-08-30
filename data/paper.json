@@ -883,12 +883,9 @@
     "esemeny_id": "dfe1da7ffe68eb8d",
     "sportag": "baseball",
     "piac": "moneyline",
-    "hazai": "Los Angeles Angels",
-    "vendeg": "Philadelphia Phillies",
-    "resztvevok": [
-      "Los Angeles Angels",
-      "Philadelphia Phillies"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Los Angeles Angels",
     "szorzo": 3.1,
     "tet_szazalek": 0.02,
@@ -961,12 +958,9 @@
     "esemeny_id": "fd58905b29019ad4",
     "sportag": "basketball",
     "piac": "moneyline",
-    "hazai": "Phoenix Mercury",
-    "vendeg": "Toronto Tempo",
-    "resztvevok": [
-      "Phoenix Mercury",
-      "Toronto Tempo"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Toronto Tempo",
     "szorzo": 4.6,
     "tet_szazalek": 0.02,
