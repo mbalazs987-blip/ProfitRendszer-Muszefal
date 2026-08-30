@@ -581,9 +581,9 @@
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
       "odds": 371,
-      "sportadat": 47,
-      "ellenorzott": 35,
-      "aktiv_modell": 55,
+      "sportadat": 40,
+      "ellenorzott": 28,
+      "aktiv_modell": 54,
       "portfolio": 0,
       "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
