@@ -988,12 +988,9 @@
     "esemeny_id": "82d6e4059dd944b7",
     "sportag": "lacrosse",
     "piac": "moneyline",
-    "hazai": "Boston Cannons",
-    "vendeg": "Maryland Whipsnakes",
-    "resztvevok": [
-      "Boston Cannons",
-      "Maryland Whipsnakes"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Boston Cannons",
     "szorzo": 1.87,
     "tet_szazalek": 0.019999999999999962,
