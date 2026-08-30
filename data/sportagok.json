@@ -8,8 +8,8 @@
   },
   "elo_allapotok": {
     "AKTIV_MODELL_HIANYZIK": 1,
-    "MODELL_ELO_BIZONYITOTT": 6,
-    "SPORTADAT_HIANYZIK": 5,
+    "MODELL_ELO_BIZONYITOTT": 5,
+    "SPORTADAT_HIANYZIK": 6,
     "VAR_AKTIV_ODDSRA": 36
   },
   "sportagak": [
@@ -215,13 +215,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "MODELL_ELO_BIZONYITOTT",
+      "elo_allapot": "SPORTADAT_HIANYZIK",
       "odds": 11,
       "sportadat": 0,
       "ellenorzott": 0,
-      "aktiv_modell": 1,
+      "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "élő eseményhez aktív modell készült"
+      "kovetkezo_teendo": "odds-független sportadat út létezik-e/történeti lefedettség hiányzik-e diagnosztizálandó"
     },
     {
       "sportag": "curling",
@@ -581,9 +581,9 @@
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
       "odds": 371,
-      "sportadat": 22,
-      "ellenorzott": 11,
-      "aktiv_modell": 34,
+      "sportadat": 21,
+      "ellenorzott": 10,
+      "aktiv_modell": 32,
       "portfolio": 0,
       "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
@@ -651,7 +651,7 @@
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
       "odds": 18,
-      "sportadat": 714,
+      "sportadat": 746,
       "ellenorzott": 9,
       "aktiv_modell": 1,
       "portfolio": 0,
