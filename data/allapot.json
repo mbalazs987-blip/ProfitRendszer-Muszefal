@@ -32,13 +32,13 @@
   "registry_sportag_db": 48,
   "statikus_sportag_ok": 48,
   "elo_paper_bizonyitott": 0,
-  "elo_modell_bizonyitott": 7,
+  "elo_modell_bizonyitott": 6,
   "duplikalt_sorok": 0,
   "hibas_azonositoju_sorok": 0,
   "szamlalo_egyezik": true,
   "integritas_ok": true,
-  "frissitve": "2026-08-30T12:08:17.305798+00:00",
-  "kanonikus_statusz_frissitve": "2026-08-30T12:06:25.937012+00:00",
+  "frissitve": "2026-08-30T12:28:59.335758+00:00",
+  "kanonikus_statusz_frissitve": "2026-08-30T12:27:08.489342+00:00",
   "uzemmod": "PAPER VALIDÁCIÓ",
   "allapot": "MINTAGYŰJTÉS"
 }
