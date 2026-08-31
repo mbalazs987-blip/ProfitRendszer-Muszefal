@@ -2,14 +2,14 @@ const piacCimke=p=>({moneyline:'Győztes',h2h:'Győztes','1x2':'1X2',one_x_two:'
 const htmlEsc=s=>String(s??'–').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const nfmt=(x,d=1)=>Number.isFinite(+x)?(+x).toFixed(d):'–';
 const pp=x=>Number.isFinite(+x)?(+x*100).toFixed(1)+'%':'–';
-const evfmt=x=>Number.isFinite(+x)?((+x>=0?'+':'')+(+x).toFixed(1)+'%'):'–';
+const ertekfmt=x=>Number.isFinite(+x)?((+x>=0?'+':'')+(+x).toFixed(1)+'%'):'–';
 
 function ajanlasKartya(x,i){
   const cim=x.esemeny_nev||x.meccs||((x.hazai&&x.vendeg)?`${x.hazai} – ${x.vendeg}`:'–');
   const ok=x.ajanlhato!==false;
   const okClass=ok?'ok':'bad';
   const allapot=ok?'AJÁNLHATÓ':'KIZÁRVA';
-  return `<article class="bet"><span class="rank">#${i+1}</span><span class="pill">${htmlEsc(typeof sport==='function'?sport(x.sportag):x.sportag)}</span><span class="pill">${htmlEsc(piacCimke(x.piac))}</span><h3>${htmlEsc(cim)}</h3><p class="muted mini"><b>Javasolt piac:</b> ${htmlEsc(x.valasztas||x.kimenetel||'–')}${x.vonal!=null?` • Határ: ${htmlEsc(x.vonal)}`:''}</p><div class="facts"><div class="fact">Állapot<b class="${okClass}">${allapot}</b></div><div class="fact">Szorzó<b>${htmlEsc(x.szorzo)}</b></div><div class="fact">Modell esély<b>${pp(x.becsult_esely)}</b></div><div class="fact">Piaci esély<b>${pp(x.piaci_esely)}</b></div><div class="fact">Becsült EV<b>${evfmt(x.varhato_ertek_szazalek)}</b></div><div class="fact">Adat- és modellminőség<b>${pp(x.megbizhatosag??x.minoseg)}</b></div></div><p class="muted mini">${htmlEsc(x.indoklas||x.megjegyzes||'A piac értékelése az elérhető adatok alapján történt.')}</p></article>`;
+  return `<article class="bet"><span class="rank">#${i+1}</span><span class="pill">${htmlEsc(typeof sport==='function'?sport(x.sportag):x.sportag)}</span><span class="pill">${htmlEsc(piacCimke(x.piac))}</span><h3>${htmlEsc(cim)}</h3><p class="muted mini"><b>Javasolt fogadás:</b> ${htmlEsc(x.valasztas||x.kimenetel||'–')}${x.vonal!=null?` • Határ: ${htmlEsc(x.vonal)}`:''}</p><div class="facts"><div class="fact">Állapot<b class="${okClass}">${allapot}</b></div><div class="fact">Szorzó<b>${htmlEsc(x.szorzo)}</b></div><div class="fact">A rendszer szerint ennyi az esélye<b>${pp(x.becsult_esely)}</b></div><div class="fact">A fogadóirodák szerint ennyi az esélye<b>${pp(x.piaci_esely)}</b></div><div class="fact">Mennyire éri meg ez a fogadás?<b>${ertekfmt(x.varhato_ertek_szazalek)}</b></div><div class="fact">Adat- és modellminőség<b>${pp(x.megbizhatosag??x.minoseg)}</b></div></div><p class="muted mini">A százalék azt mutatja, mekkora becsült hosszú távú előnyt adhat a szorzó a rendszer által számolt esélyhez képest. Nem a nyerés valószínűsége, és nem garancia. ${htmlEsc(x.indoklas||x.megjegyzes||'A fogadási lehetőség értékelése az elérhető adatok alapján történt.')}</p></article>`;
 }
 
 function kategoriak(rows){
@@ -23,8 +23,8 @@ async function loadMarkets(){
   try{d=await J('data/piac_ajanlasok.json')}catch(e){
     const ids=['piacdb','ajanlhatoDb','piacOsszes','piacAdatos','piacKizart','piacAjanlhato'];
     ids.forEach(id=>{const el=document.getElementById(id);if(el)el.textContent='0'});
-    const a=document.getElementById('ajanlasKartyak');if(a)a.innerHTML='<div class="card empty">A többpiacos elemző motor már elő van készítve a műszerfalon. Élő ajánlás akkor jelenik meg, amikor a főprogram elkészíti a piac_ajanlasok.json adatot.</div>';
-    const k=document.getElementById('piacKategoriak');if(k)k.innerHTML='<p class="muted">Még nincs többpiacos élő adat.</p>';
+    const a=document.getElementById('ajanlasKartyak');if(a)a.innerHTML='<div class="card empty">A többféle fogadást vizsgáló rész már elő van készítve. Ajánlás akkor jelenik meg, amikor a főprogram valódi, megfelelő minőségű adatból készít ilyen számítást.</div>';
+    const k=document.getElementById('piacKategoriak');if(k)k.innerHTML='<p class="muted">Még nincs élő többpiacos adat.</p>';
     const h=document.getElementById('piacHibak');if(h)h.innerHTML='<p class="muted">Még nincs kizárási adat.</p>';
     return;
   }
@@ -34,9 +34,9 @@ async function loadMarkets(){
   const adatos=rows.filter(x=>x.elegendo_adat!==false);
   const set=(id,val)=>{const el=document.getElementById(id);if(el)el.textContent=val};
   set('piacdb',rows.length);set('ajanlhatoDb',ajanl.length);set('piacOsszes',rows.length);set('piacAdatos',adatos.length);set('piacKizart',kiz.length);set('piacAjanlhato',ajanl.length);
-  const a=document.getElementById('ajanlasKartyak');if(a)a.innerHTML=ajanl.length?ajanl.slice().sort((x,y)=>(+y.rangsor_pont||+y.varhato_ertek_szazalek||0)-(+x.rangsor_pont||+x.varhato_ertek_szazalek||0)).map(ajanlasKartya).join(''):'<div class="card empty">Jelenleg nincs biztonságosan ajánlható piac.</div>';
+  const a=document.getElementById('ajanlasKartyak');if(a)a.innerHTML=ajanl.length?ajanl.slice().sort((x,y)=>(+y.rangsor_pont||+y.varhato_ertek_szazalek||0)-(+x.rangsor_pont||+x.varhato_ertek_szazalek||0)).map(ajanlasKartya).join(''):'<div class="card empty">Jelenleg nincs olyan fogadási lehetőség, amely minden biztonsági feltételnek megfelel.</div>';
   const k=document.getElementById('piacKategoriak');if(k)k.innerHTML=rows.length?`<div class="facts">${kategoriak(rows)}</div>`:'<p class="muted">Nincs piacadat.</p>';
-  const h=document.getElementById('piacHibak');if(h)h.innerHTML=kiz.length?kiz.map(x=>`<details><summary>${htmlEsc(piacCimke(x.piac))} — ${htmlEsc(x.valasztas||x.kimenetel||'–')}</summary><p class="muted mini">${htmlEsc(x.kizarasi_ok||x.indoklas||'Biztonsági vagy adatminőségi feltétel nem teljesült.')}</p></details>`).join(''):'<p class="muted">Jelenleg nincs kizárt piac.</p>';
+  const h=document.getElementById('piacHibak');if(h)h.innerHTML=kiz.length?kiz.map(x=>`<details><summary>${htmlEsc(piacCimke(x.piac))} — ${htmlEsc(x.valasztas||x.kimenetel||'–')}</summary><p class="muted mini">${htmlEsc(x.kizarasi_ok||x.indoklas||'Nem volt elég megbízható adat, vagy valamelyik biztonsági feltétel nem teljesült.')}</p></details>`).join(''):'<p class="muted">Jelenleg nincs kizárt fogadási lehetőség.</p>';
 }
 
 document.addEventListener('DOMContentLoaded',loadMarkets);
