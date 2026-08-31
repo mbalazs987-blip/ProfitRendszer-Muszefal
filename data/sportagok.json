@@ -15,7 +15,7 @@
   "sportagak": [
     {
       "sportag": "american_football",
-      "piacok_szama": 8,
+      "piacok_szama": 17,
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
@@ -85,7 +85,7 @@
     },
     {
       "sportag": "baseball",
-      "piacok_szama": 7,
+      "piacok_szama": 11,
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
@@ -99,7 +99,7 @@
     },
     {
       "sportag": "basketball",
-      "piacok_szama": 8,
+      "piacok_szama": 16,
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
@@ -323,7 +323,7 @@
     },
     {
       "sportag": "futsal",
-      "piacok_szama": 6,
+      "piacok_szama": 7,
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
@@ -379,7 +379,7 @@
     },
     {
       "sportag": "handball",
-      "piacok_szama": 7,
+      "piacok_szama": 10,
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
@@ -393,7 +393,7 @@
     },
     {
       "sportag": "hockey",
-      "piacok_szama": 8,
+      "piacok_szama": 13,
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
@@ -575,7 +575,7 @@
     },
     {
       "sportag": "soccer",
-      "piacok_szama": 13,
+      "piacok_szama": 29,
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
@@ -645,7 +645,7 @@
     },
     {
       "sportag": "tennis",
-      "piacok_szama": 6,
+      "piacok_szama": 13,
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
