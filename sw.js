@@ -1,5 +1,5 @@
-const CACHE='profitrendszer-pwa-v8';
-const SHELL=['./','./index.html','./mobil.html','./app.js?v=8','./markets.js?v=2','./ui.js?v=8','./style.css?v=8','./manifest.webmanifest','./ikon.svg'];
+const CACHE='profitrendszer-pwa-v9';
+const SHELL=['./','./index.html','./mobil.html','./app.js?v=9','./markets.js?v=2','./ui.js?v=9','./style.css?v=9','./manifest.webmanifest','./ikon.svg'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim()))});
 self.addEventListener('fetch',event=>{if(event.request.method!=='GET')return;const url=new URL(event.request.url);if(url.pathname.includes('/data/')){event.respondWith(fetch(event.request,{cache:'no-store'}));return}event.respondWith(fetch(event.request,{cache:'no-store'}).then(response=>{if(response&&response.ok){const copy=response.clone();caches.open(CACHE).then(cache=>cache.put(event.request,copy)).catch(()=>{})}return response}).catch(async()=>{const hit=await caches.match(event.request);return hit||caches.match('./mobil.html')||caches.match('./index.html')}))});
