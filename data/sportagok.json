@@ -7,9 +7,9 @@
     "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR": 14
   },
   "elo_allapotok": {
-    "AKTIV_MODELL_HIANYZIK": 3,
-    "MODELL_ELO_BIZONYITOTT": 3,
-    "SPORTADAT_HIANYZIK": 6,
+    "AKTIV_MODELL_HIANYZIK": 4,
+    "MODELL_ELO_BIZONYITOTT": 1,
+    "SPORTADAT_HIANYZIK": 7,
     "VAR_AKTIV_ODDSRA": 36
   },
   "sportagak": [
@@ -89,13 +89,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "MODELL_ELO_BIZONYITOTT",
+      "elo_allapot": "AKTIV_MODELL_HIANYZIK",
       "odds": 144,
       "sportadat": 189,
       "ellenorzott": 58,
-      "aktiv_modell": 3,
+      "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "élő eseményhez aktív modell készült"
+      "kovetkezo_teendo": "modelljellemző/minőség/szerződés-kapu diagnózis és javítás"
     },
     {
       "sportag": "basketball",
@@ -103,13 +103,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "MODELL_ELO_BIZONYITOTT",
+      "elo_allapot": "SPORTADAT_HIANYZIK",
       "odds": 11,
       "sportadat": 0,
       "ellenorzott": 0,
-      "aktiv_modell": 1,
+      "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "élő eseményhez aktív modell készült"
+      "kovetkezo_teendo": "odds-független sportadat út létezik-e/történeti lefedettség hiányzik-e diagnosztizálandó"
     },
     {
       "sportag": "beach_soccer",
