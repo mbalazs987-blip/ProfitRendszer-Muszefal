@@ -625,9 +625,12 @@
     "esemeny_id": "e5cd79acde53981d",
     "sportag": "soccer",
     "piac": "moneyline",
-    "hazai": null,
-    "vendeg": null,
-    "resztvevok": null,
+    "hazai": "Alverca",
+    "vendeg": "Santa Clara",
+    "resztvevok": [
+      "Alverca",
+      "Santa Clara"
+    ],
     "kimenetel": "Santa Clara",
     "szorzo": 2.88,
     "tet_szazalek": 0.02,
@@ -835,9 +838,12 @@
     "esemeny_id": "42f640c3122ff1d7",
     "sportag": "soccer",
     "piac": "moneyline",
-    "hazai": null,
-    "vendeg": null,
-    "resztvevok": null,
+    "hazai": "Fiorentina",
+    "vendeg": "Frosinone",
+    "resztvevok": [
+      "Fiorentina",
+      "Frosinone"
+    ],
     "kimenetel": "Frosinone",
     "szorzo": 5.6,
     "tet_szazalek": 0.02,
@@ -859,9 +865,12 @@
     "esemeny_id": "f969e57ac94d2875",
     "sportag": "soccer",
     "piac": "moneyline",
-    "hazai": null,
-    "vendeg": null,
-    "resztvevok": null,
+    "hazai": "Padova",
+    "vendeg": "Hellas Verona",
+    "resztvevok": [
+      "Padova",
+      "Hellas Verona"
+    ],
     "kimenetel": "Padova",
     "szorzo": 3.1,
     "tet_szazalek": 0.02,
@@ -988,9 +997,12 @@
     "esemeny_id": "82d6e4059dd944b7",
     "sportag": "lacrosse",
     "piac": "moneyline",
-    "hazai": null,
-    "vendeg": null,
-    "resztvevok": null,
+    "hazai": "Boston Cannons",
+    "vendeg": "Maryland Whipsnakes",
+    "resztvevok": [
+      "Boston Cannons",
+      "Maryland Whipsnakes"
+    ],
     "kimenetel": "Boston Cannons",
     "szorzo": 1.87,
     "tet_szazalek": 0.019999999999999962,
