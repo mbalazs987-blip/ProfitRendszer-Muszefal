@@ -814,9 +814,12 @@
     "esemeny_id": "5065ca7c0d3b461d",
     "sportag": "baseball",
     "piac": "moneyline",
-    "hazai": null,
-    "vendeg": null,
-    "resztvevok": null,
+    "hazai": "Detroit Tigers",
+    "vendeg": "Los Angeles Dodgers",
+    "resztvevok": [
+      "Detroit Tigers",
+      "Los Angeles Dodgers"
+    ],
     "kimenetel": "Detroit Tigers",
     "szorzo": 2.65,
     "tet_szazalek": 0.02,
@@ -946,9 +949,12 @@
     "esemeny_id": "18cd288d0dba28fa",
     "sportag": "basketball",
     "piac": "moneyline",
-    "hazai": null,
-    "vendeg": null,
-    "resztvevok": null,
+    "hazai": "New York Liberty",
+    "vendeg": "Chicago Sky",
+    "resztvevok": [
+      "New York Liberty",
+      "Chicago Sky"
+    ],
     "kimenetel": "Chicago Sky",
     "szorzo": 4.5,
     "tet_szazalek": 0.02,
