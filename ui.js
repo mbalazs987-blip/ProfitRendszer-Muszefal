@@ -29,6 +29,67 @@ document.addEventListener('DOMContentLoaded',()=>{
     if(dot.style.color!==newColor) dot.style.color=newColor;
   };
 
+  let kivalasztottSport='__mind__';
+  let sportNevek=new Map();
+
+  const sportSzuroAlkalmaz=()=>{
+    const lista=document.getElementById('sportlista48');
+    if(!lista) return;
+    const cel=sportNevek.get(kivalasztottSport)||'';
+    [...lista.querySelectorAll('details')].forEach(elem=>{
+      if(kivalasztottSport==='__mind__'){
+        elem.style.display='';
+        return;
+      }
+      const osszefoglalo=elem.querySelector('summary');
+      const szoveg=(osszefoglalo?.textContent||'').trim();
+      elem.style.display=szoveg.startsWith(cel+' —')?'':'none';
+    });
+  };
+
+  const sportValasztoLetrehoz=async()=>{
+    const sportSzekcio=document.getElementById('sportok');
+    const lista=document.getElementById('sportlista48');
+    if(!sportSzekcio||!lista) return;
+    let adat;
+    try{
+      const r=await fetch('data/sportagok.json?t='+Date.now(),{cache:'no-store'});
+      if(!r.ok) throw new Error('sportagok HTTP '+r.status);
+      adat=await r.json();
+    }catch(_){return;}
+    const sportagak=Array.isArray(adat.sportagak)?adat.sportagak.filter(x=>x&&x.sportag):[];
+    if(!sportagak.length) return;
+    sportNevek=new Map(sportagak.map(x=>[String(x.sportag),typeof sport==='function'?sport(x.sportag):String(x.sportag).replaceAll('_',' ')]));
+
+    let blokk=document.getElementById('sportvalaszto-blokk');
+    if(!blokk){
+      blokk=document.createElement('div');
+      blokk.id='sportvalaszto-blokk';
+      blokk.className='card spaced';
+      blokk.innerHTML='<label for="sportvalaszto"><b>Sportág kiválasztása</b></label><select id="sportvalaszto" style="width:100%;margin-top:10px;padding:12px;border-radius:10px;font-size:16px"><option value="__mind__">Mind a 48 sportág</option></select><p class="muted mini" id="sportvalaszto-info"></p>';
+      lista.parentElement.insertBefore(blokk,lista);
+      blokk.querySelector('#sportvalaszto').addEventListener('change',e=>{
+        kivalasztottSport=e.target.value;
+        sportSzuroAlkalmaz();
+      });
+    }
+    const select=blokk.querySelector('#sportvalaszto');
+    const jelenlegi=select.value;
+    select.innerHTML='<option value="__mind__">Mind a 48 sportág</option>'+sportagak
+      .slice()
+      .sort((a,b)=>(sportNevek.get(String(a.sportag))||'').localeCompare(sportNevek.get(String(b.sportag))||'','hu'))
+      .map(x=>`<option value="${String(x.sportag)}">${sportNevek.get(String(x.sportag))}</option>`).join('');
+    select.value=[...select.options].some(o=>o.value===jelenlegi)?jelenlegi:'__mind__';
+    kivalasztottSport=select.value;
+    const info=blokk.querySelector('#sportvalaszto-info');
+    if(info) info.textContent=`${sportagak.length} / 48 sportág választható.`;
+    sportSzuroAlkalmaz();
+
+    const figyelo=new MutationObserver(()=>sportSzuroAlkalmaz());
+    figyelo.observe(lista,{childList:true,subtree:false});
+  };
+
   setTimeout(updateStatus,500);
   setInterval(updateStatus,5000);
+  setTimeout(sportValasztoLetrehoz,700);
 });
