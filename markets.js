@@ -3,13 +3,16 @@ const htmlEsc=s=>String(s??'–').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;'
 const nfmt=(x,d=1)=>Number.isFinite(+x)?(+x).toFixed(d):'–';
 const pp=x=>Number.isFinite(+x)?(+x*100).toFixed(1)+'%':'–';
 const ertekfmt=x=>Number.isFinite(+x)?((+x>=0?'+':'')+(+x).toFixed(1)+'%'):'–';
+const ajanlasMeccs=x=>x.esemeny_nev||x.meccs||((x.hazai&&x.vendeg)?`${x.hazai} – ${x.vendeg}`:'–');
+const ajanlasEllenfel=x=>{const t=String(x.valasztas||x.kimenetel||'').trim().toLocaleLowerCase('hu-HU');const par=[x.hazai,x.vendeg].filter(Boolean);return par.find(n=>String(n).trim().toLocaleLowerCase('hu-HU')!==t)||'–'};
 
 function ajanlasKartya(x,i){
-  const cim=x.esemeny_nev||x.meccs||((x.hazai&&x.vendeg)?`${x.hazai} – ${x.vendeg}`:'–');
+  const cim=ajanlasMeccs(x);
+  const ellenfel=ajanlasEllenfel(x);
   const ok=x.ajanlhato!==false;
   const okClass=ok?'ok':'bad';
   const allapot=ok?'AJÁNLHATÓ':'KIZÁRVA';
-  return `<article class="bet"><span class="rank">#${i+1}</span><span class="pill">${htmlEsc(typeof sport==='function'?sport(x.sportag):x.sportag)}</span><span class="pill">${htmlEsc(piacCimke(x.piac))}</span><h3>${htmlEsc(cim)}</h3><p class="muted mini"><b>Javasolt fogadás:</b> ${htmlEsc(x.valasztas||x.kimenetel||'–')}${x.vonal!=null?` • Határ: ${htmlEsc(x.vonal)}`:''}</p><div class="facts"><div class="fact">Állapot<b class="${okClass}">${allapot}</b></div><div class="fact">Szorzó<b>${htmlEsc(x.szorzo)}</b></div><div class="fact">A rendszer szerint ennyi az esélye<b>${pp(x.becsult_esely)}</b></div><div class="fact">A fogadóirodák szerint ennyi az esélye<b>${pp(x.piaci_esely)}</b></div><div class="fact">Mennyire éri meg ez a fogadás?<b>${ertekfmt(x.varhato_ertek_szazalek)}</b></div><div class="fact">Adat- és modellminőség<b>${pp(x.megbizhatosag??x.minoseg)}</b></div></div><p class="muted mini">A százalék azt mutatja, mekkora becsült hosszú távú előnyt adhat a szorzó a rendszer által számolt esélyhez képest. Nem a nyerés valószínűsége, és nem garancia. ${htmlEsc(x.indoklas||x.megjegyzes||'A fogadási lehetőség értékelése az elérhető adatok alapján történt.')}</p></article>`;
+  return `<article class="bet"><span class="rank">#${i+1}</span><span class="pill">${htmlEsc(typeof sport==='function'?sport(x.sportag):x.sportag)}</span><span class="pill">${htmlEsc(piacCimke(x.piac))}</span><h3>${htmlEsc(cim)}</h3><p class="muted mini"><b>Javasolt fogadás:</b> ${htmlEsc(x.valasztas||x.kimenetel||'–')} <b>• Ellenfél:</b> ${htmlEsc(ellenfel)}${x.vonal!=null?` • Határ: ${htmlEsc(x.vonal)}`:''}</p><div class="facts"><div class="fact">Mérkőzés<b>${htmlEsc(cim)}</b></div><div class="fact">Állapot<b class="${okClass}">${allapot}</b></div><div class="fact">Szorzó<b>${htmlEsc(x.szorzo)}</b></div><div class="fact">A rendszer szerint ennyi az esélye<b>${pp(x.becsult_esely)}</b></div><div class="fact">A fogadóirodák szerint ennyi az esélye<b>${pp(x.piaci_esely)}</b></div><div class="fact">Mennyire éri meg ez a fogadás?<b>${ertekfmt(x.varhato_ertek_szazalek)}</b></div><div class="fact">Adat- és modellminőség<b>${pp(x.megbizhatosag??x.minoseg)}</b></div></div><p class="muted mini">A százalék azt mutatja, mekkora becsült hosszú távú előnyt adhat a szorzó a rendszer által számolt esélyhez képest. Nem a nyerés valószínűsége, és nem garancia. ${htmlEsc(x.indoklas||x.megjegyzes||'A fogadási lehetőség értékelése az elérhető adatok alapján történt.')}</p></article>`;
 }
 
 function kategoriak(rows){
@@ -36,7 +39,7 @@ async function loadMarkets(){
   set('piacdb',rows.length);set('ajanlhatoDb',ajanl.length);set('piacOsszes',rows.length);set('piacAdatos',adatos.length);set('piacKizart',kiz.length);set('piacAjanlhato',ajanl.length);
   const a=document.getElementById('ajanlasKartyak');if(a)a.innerHTML=ajanl.length?ajanl.slice().sort((x,y)=>(+y.rangsor_pont||+y.varhato_ertek_szazalek||0)-(+x.rangsor_pont||+x.varhato_ertek_szazalek||0)).map(ajanlasKartya).join(''):'<div class="card empty">Jelenleg nincs olyan fogadási lehetőség, amely minden biztonsági feltételnek megfelel.</div>';
   const k=document.getElementById('piacKategoriak');if(k)k.innerHTML=rows.length?`<div class="facts">${kategoriak(rows)}</div>`:'<p class="muted">Nincs piacadat.</p>';
-  const h=document.getElementById('piacHibak');if(h)h.innerHTML=kiz.length?kiz.map(x=>`<details><summary>${htmlEsc(piacCimke(x.piac))} — ${htmlEsc(x.valasztas||x.kimenetel||'–')}</summary><p class="muted mini">${htmlEsc(x.kizarasi_ok||x.indoklas||'Nem volt elég megbízható adat, vagy valamelyik biztonsági feltétel nem teljesült.')}</p></details>`).join(''):'<p class="muted">Jelenleg nincs kizárt fogadási lehetőség.</p>';
+  const h=document.getElementById('piacHibak');if(h)h.innerHTML=kiz.length?kiz.map(x=>`<details><summary>${htmlEsc(piacCimke(x.piac))} — ${htmlEsc(ajanlasMeccs(x))} — ${htmlEsc(x.valasztas||x.kimenetel||'–')}</summary><p class="muted mini">${htmlEsc(x.kizarasi_ok||x.indoklas||'Nem volt elég megbízható adat, vagy valamelyik biztonsági feltétel nem teljesült.')}</p></details>`).join(''):'<p class="muted">Jelenleg nincs kizárt fogadási lehetőség.</p>';
 }
 
 document.addEventListener('DOMContentLoaded',loadMarkets);
