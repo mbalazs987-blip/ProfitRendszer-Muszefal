@@ -7,7 +7,8 @@
     "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR": 14
   },
   "elo_allapotok": {
-    "ILLESZTES_HIANYZIK": 5,
+    "AKTIV_MODELL_HIANYZIK": 1,
+    "ILLESZTES_HIANYZIK": 4,
     "SPORTADAT_HIANYZIK": 7,
     "VAR_AKTIV_ODDSRA": 36
   },
@@ -88,13 +89,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "ILLESZTES_HIANYZIK",
-      "odds": 144,
+      "elo_allapot": "AKTIV_MODELL_HIANYZIK",
+      "odds": 160,
       "sportadat": 246,
-      "ellenorzott": 0,
+      "ellenorzott": 16,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "esemény- és résztvevőillesztés javítása/regressziós teszt"
+      "kovetkezo_teendo": "modelljellemző/minőség/szerződés-kapu diagnózis és javítás"
     },
     {
       "sportag": "basketball",
