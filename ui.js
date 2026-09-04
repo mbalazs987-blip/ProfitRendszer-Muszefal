@@ -89,7 +89,37 @@ document.addEventListener('DOMContentLoaded',()=>{
     figyelo.observe(lista,{childList:true,subtree:false});
   };
 
+  const eloAdatKartyaLetrehoz=()=>{
+    const grid=document.querySelector('#attekintes .grid.stats');
+    if(!grid||document.getElementById('eloadatdb')) return;
+    const card=document.createElement('div');
+    card.className='card';
+    card.innerHTML='<div class="muted">Élő sportadat-megfigyelések</div><div class="value" id="eloadatdb">–</div><p class="muted mini" id="eloadatido">betöltés…</p>';
+    grid.appendChild(card);
+  };
+
+  const eloAdatFrissit=async()=>{
+    eloAdatKartyaLetrehoz();
+    const szamlalo=document.getElementById('eloadatdb');
+    const ido=document.getElementById('eloadatido');
+    if(!szamlalo||!ido) return;
+    try{
+      const r=await fetch('data/sportagok.json?t='+Date.now(),{cache:'no-store'});
+      if(!r.ok) throw new Error('sportagok HTTP '+r.status);
+      const adat=await r.json();
+      const rows=Array.isArray(adat.sportagak)?adat.sportagak:[];
+      const osszes=rows.reduce((n,x)=>n+(Number(x?.sportadat)||0),0);
+      const sportDb=rows.filter(x=>(Number(x?.sportadat)||0)>0).length;
+      szamlalo.textContent=String(osszes);
+      ido.textContent=`${sportDb} sportág • ellenőrizve: ${new Date().toLocaleTimeString('hu-HU',{hour:'2-digit',minute:'2-digit',second:'2-digit'})}`;
+    }catch(_){
+      ido.textContent='élő adat lekérése sikertelen';
+    }
+  };
+
   setTimeout(updateStatus,500);
   setInterval(updateStatus,5000);
   setTimeout(sportValasztoLetrehoz,700);
+  setTimeout(eloAdatFrissit,900);
+  setInterval(eloAdatFrissit,60000);
 });
