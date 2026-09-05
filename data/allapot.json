@@ -37,8 +37,8 @@
   "hibas_azonositoju_sorok": 0,
   "szamlalo_egyezik": true,
   "integritas_ok": true,
-  "frissitve": "2026-09-05T07:05:42.304531+00:00",
-  "kanonikus_statusz_frissitve": "2026-09-05T07:01:49.283329+00:00",
+  "frissitve": "2026-09-05T07:10:21.602767+00:00",
+  "kanonikus_statusz_frissitve": "2026-09-05T07:08:22.382282+00:00",
   "uzemmod": "PAPER VALIDÁCIÓ",
   "allapot": "MINTAGYŰJTÉS",
   "ontanulas": {
@@ -47,6 +47,6 @@
     "forraskod_modositas_javasolt": false,
     "automatikus_forraskod_atiras": false,
     "jovahagyas_szukseges": false,
-    "frissitve": "2026-09-05T07:01:49.188134+00:00"
+    "frissitve": "2026-09-05T07:08:22.287684+00:00"
   }
 }
