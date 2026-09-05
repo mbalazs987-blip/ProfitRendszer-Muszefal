@@ -1132,5 +1132,32 @@
     "varhato_ertek_szazalek": 24.522782,
     "megbizhatosag": 0.6937500000000001,
     "szorzo_elony_szazalek": 0.0
+  },
+  {
+    "id": "d69cabd7ed766be7",
+    "esemeny_id": "6ea611cab3d9ef9d",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Kansas City Royals",
+    "vendeg": "Toronto Blue Jays",
+    "resztvevok": [
+      "Kansas City Royals",
+      "Toronto Blue Jays"
+    ],
+    "kimenetel": "Kansas City Royals",
+    "szorzo": 2.0,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-09-05T23:40:05.047264+00:00",
+    "esemeny_ideje": "2026-09-06T18:10:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.619036,
+    "piaci_esely": 0.4782608695652174,
+    "varhato_ertek_szazalek": 23.8072,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0
   }
 ]
