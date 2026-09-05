@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded',()=>{
     const txt=(status.textContent||'').trim();
     const bad=status.classList.contains('bad')||/HIBA|BLOKK|ELTÉR/i.test(txt);
     const newText=bad
-      ?'A rendszer hibát jelez. A részletek a Rendszer fülön láthatók.'
+      ?'A rendszer hibát jelez. A részletek a Program állapota fülön láthatók.'
       :'A rendszer működik, az adatok betöltődtek.';
     const newClass='card notice '+(bad?'bad':'ok');
     const newColor=bad?'var(--bad)':'var(--ok)';
@@ -117,9 +117,63 @@ document.addEventListener('DOMContentLoaded',()=>{
     }
   };
 
+  const ontanuloKartyakLetrehoz=()=>{
+    const rendszerGrid=document.querySelector('#rendszer .grid');
+    if(rendszerGrid&&!document.getElementById('ontanulo-kartya')){
+      const card=document.createElement('div');
+      card.id='ontanulo-kartya';
+      card.className='card';
+      card.innerHTML='<h2>Öntanuló saját esélybecslés</h2><div class="value" id="ontanulo-allapot">BETÖLTÉS</div><p class="muted" id="ontanulo-info">Tanulási állapot betöltése…</p><p class="muted mini" id="forraskod-info"></p>';
+      rendszerGrid.prepend(card);
+    }
+    const attekintes=document.getElementById('attekintes');
+    if(attekintes&&!document.getElementById('forraskod-riasztas')){
+      const warn=document.createElement('div');
+      warn.id='forraskod-riasztas';
+      warn.className='card notice bad';
+      warn.style.display='none';
+      warn.textContent='FORRÁSKÓD-MÓDOSÍTÁSI JAVASLAT — a rendszer nem írja át automatikusan a kódot; kézi jóváhagyás szükséges.';
+      attekintes.appendChild(warn);
+    }
+  };
+
+  const ontanuloFrissit=async()=>{
+    ontanuloKartyakLetrehoz();
+    const allapotElem=document.getElementById('ontanulo-allapot');
+    const info=document.getElementById('ontanulo-info');
+    const kodInfo=document.getElementById('forraskod-info');
+    const riasztas=document.getElementById('forraskod-riasztas');
+    const card=document.getElementById('ontanulo-kartya');
+    if(!allapotElem||!info||!kodInfo||!riasztas||!card) return;
+    try{
+      const r=await fetch('data/allapot.json?t='+Date.now(),{cache:'no-store'});
+      if(!r.ok) throw new Error('allapot HTTP '+r.status);
+      const adat=await r.json();
+      const o=adat?.ontanulas||{};
+      const kod=Boolean(o.forraskod_modositas_javasolt);
+      const db=Number(o.paper_korrekciok)||0;
+      allapotElem.textContent=kod?'KÓDVÁLTOZTATÁST JAVASOL':'TANULÁS AKTÍV';
+      allapotElem.className='value '+(kod?'bad':'ok');
+      info.textContent=`Aktív, validált PAPER-korrekciók: ${db}`;
+      kodInfo.textContent=kod
+        ?'FORRÁSKÓD-MÓDOSÍTÁS: JAVASOLT — automatikus átírás TILTVA, kézi jóváhagyás kell.'
+        :'FORRÁSKÓD-MÓDOSÍTÁS: NEM • automatikus átírás: TILTVA';
+      card.className='card '+(kod?'notice bad':'');
+      riasztas.style.display=kod?'':'none';
+    }catch(_){
+      allapotElem.textContent='NINCS ADAT';
+      allapotElem.className='value';
+      info.textContent='Az öntanuló állapot még nem érkezett meg.';
+      kodInfo.textContent='Automatikus forráskód-átírás továbbra is tiltva.';
+      riasztas.style.display='none';
+    }
+  };
+
   setTimeout(updateStatus,500);
   setInterval(updateStatus,5000);
   setTimeout(sportValasztoLetrehoz,700);
   setTimeout(eloAdatFrissit,900);
   setInterval(eloAdatFrissit,60000);
+  setTimeout(ontanuloFrissit,1100);
+  setInterval(ontanuloFrissit,60000);
 });
