@@ -1042,5 +1042,23 @@
     "megbizhatosag": 0.9057013073152096,
     "becsult_elony_szazalek": 20.43174,
     "iroda": "FanDuel"
+  },
+  {
+    "tet_id": "ab46a02b5519d671",
+    "esemeny_id": "14cd4545ebe9d94c",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Cincinnati Reds",
+    "vendeg": "Milwaukee Brewers",
+    "kimenetel": "Cincinnati Reds",
+    "meresi_pont_ora": 1,
+    "adat_ideje": "2026-09-05T21:36:45.676517+00:00",
+    "esemeny_ideje": "2026-09-05T22:40:00+00:00",
+    "szorzo": 2.29,
+    "becsult_esely": 0.552892,
+    "piaci_esely": 0.4174548300828387,
+    "megbizhatosag": 0.6937500000000001,
+    "becsult_elony_szazalek": 26.612268,
+    "iroda": "DraftKings"
   }
 ]
