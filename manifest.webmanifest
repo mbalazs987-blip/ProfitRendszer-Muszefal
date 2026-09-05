@@ -3,7 +3,7 @@
   "name": "ProfitRendszer",
   "short_name": "ProfitRendszer",
   "description": "ProfitRendszer PAPER és sportág-készültségi telefonos alkalmazás",
-  "start_url": "./mobil.html",
+  "start_url": "./mobil.html?v=14",
   "scope": "./",
   "display": "standalone",
   "display_override": ["standalone", "minimal-ui"],
