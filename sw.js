@@ -1,5 +1,5 @@
-const CACHE='profitrendszer-pwa-v14';
-const SHELL=['./','./index.html','./mobil.html','./app.js?v=14','./markets.js?v=14','./ui.js?v=14','./style.css?v=14','./manifest.webmanifest?v=14','./ikon.svg'];
+const CACHE='profitrendszer-pwa-v15';
+const SHELL=['./','./index.html','./mobil.html','./app.js?v=15','./markets.js?v=15','./ui.js?v=15','./style.css?v=15','./manifest.webmanifest?v=15','./ikon.svg'];
 
 self.addEventListener('install',event=>{
   event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL)).then(()=>self.skipWaiting()));
