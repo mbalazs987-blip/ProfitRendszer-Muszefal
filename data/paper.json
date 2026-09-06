@@ -1159,5 +1159,32 @@
     "varhato_ertek_szazalek": 23.8072,
     "megbizhatosag": 0.6937500000000001,
     "szorzo_elony_szazalek": 0.0
+  },
+  {
+    "id": "dcc37b9ee30aff77",
+    "esemeny_id": "50c20c36d6deaeb1",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Seattle Mariners",
+    "vendeg": "Athletics",
+    "resztvevok": [
+      "Seattle Mariners",
+      "Athletics"
+    ],
+    "kimenetel": "Athletics",
+    "szorzo": 2.98,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-09-06T00:50:07.301523+00:00",
+    "esemeny_ideje": "2026-09-06T01:40:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.451488,
+    "piaci_esely": 0.32090038135987353,
+    "varhato_ertek_szazalek": 34.543424,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0
   }
 ]
