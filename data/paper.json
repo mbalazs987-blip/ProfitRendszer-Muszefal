@@ -1213,5 +1213,59 @@
     "varhato_ertek_szazalek": 19.689476,
     "megbizhatosag": 0.6937500000000001,
     "szorzo_elony_szazalek": 0.0
+  },
+  {
+    "id": "d4dc03b15eaf19fb",
+    "esemeny_id": "495e160470c3e79e",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "San Diego Padres",
+    "vendeg": "New York Yankees",
+    "resztvevok": [
+      "San Diego Padres",
+      "New York Yankees"
+    ],
+    "kimenetel": "San Diego Padres",
+    "szorzo": 1.8928571428571428,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-09-06T17:40:21.992314+00:00",
+    "esemeny_ideje": "2026-09-06T20:10:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.582184,
+    "piaci_esely": 0.5043297540699689,
+    "varhato_ertek_szazalek": 10.199114,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0
+  },
+  {
+    "id": "4aa81ba4a9c369ce",
+    "esemeny_id": "01182a43e40a6c57",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Chicago White Sox",
+    "vendeg": "Minnesota Twins",
+    "resztvevok": [
+      "Chicago White Sox",
+      "Minnesota Twins"
+    ],
+    "kimenetel": "Chicago White Sox",
+    "szorzo": 1.6666666666666665,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-09-06T17:40:21.992344+00:00",
+    "esemeny_ideje": "2026-09-06T22:20:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.650413,
+    "piaci_esely": 0.5733788395904438,
+    "varhato_ertek_szazalek": 8.402167,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0
   }
 ]
