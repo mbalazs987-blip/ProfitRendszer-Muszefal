@@ -21,7 +21,7 @@
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "ILLESZTES_HIANYZIK",
       "odds": 52,
-      "sportadat": 30,
+      "sportadat": 31,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
@@ -91,10 +91,10 @@
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "PAPER_UTVONAL_ELO_BIZONYITOTT",
       "odds": 190,
-      "sportadat": 261,
-      "ellenorzott": 18,
-      "aktiv_modell": 33,
-      "portfolio": 10,
+      "sportadat": 276,
+      "ellenorzott": 17,
+      "aktiv_modell": 32,
+      "portfolio": 9,
       "kovetkezo_teendo": "élő esemény portfólióig jutott"
     },
     {
