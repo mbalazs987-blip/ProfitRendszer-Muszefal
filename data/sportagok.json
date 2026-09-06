@@ -90,11 +90,11 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "PAPER_UTVONAL_ELO_BIZONYITOTT",
-      "odds": 189,
+      "odds": 190,
       "sportadat": 261,
-      "ellenorzott": 25,
-      "aktiv_modell": 37,
-      "portfolio": 15,
+      "ellenorzott": 18,
+      "aktiv_modell": 33,
+      "portfolio": 10,
       "kovetkezo_teendo": "élő esemény portfólióig jutott"
     },
     {
