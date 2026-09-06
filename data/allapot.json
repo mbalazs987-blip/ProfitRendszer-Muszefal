@@ -10,15 +10,15 @@
   "lezart_tet_osszeg": 67.1604,
   "roi": -0.268617,
   "talalati_arany": 0.264706,
-  "meresek": 68,
+  "meresek": 72,
   "meresi_pontok": {
     "72": 2,
     "48": 7,
     "24": 11,
     "12": 15,
     "6": 18,
-    "3": 7,
-    "1": 8
+    "3": 10,
+    "1": 9
   },
   "sportag_db": 6,
   "sportagak": [
@@ -37,8 +37,8 @@
   "hibas_azonositoju_sorok": 0,
   "szamlalo_egyezik": true,
   "integritas_ok": true,
-  "frissitve": "2026-09-06T14:24:16.395653+00:00",
-  "kanonikus_statusz_frissitve": "2026-09-06T13:41:57.513407+00:00",
+  "frissitve": "2026-09-06T15:24:31.327504+00:00",
+  "kanonikus_statusz_frissitve": "2026-09-06T14:42:03.000910+00:00",
   "uzemmod": "PAPER VALIDÁCIÓ",
   "allapot": "MINTAGYŰJTÉS",
   "ontanulas": {
@@ -47,6 +47,6 @@
     "forraskod_modositas_javasolt": false,
     "automatikus_forraskod_atiras": false,
     "jovahagyas_szukseges": false,
-    "frissitve": "2026-09-06T13:41:57.424473+00:00"
+    "frissitve": "2026-09-06T14:42:02.913982+00:00"
   }
 }
