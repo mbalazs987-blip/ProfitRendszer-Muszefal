@@ -1,15 +1,15 @@
 {
   "cel": 500,
-  "lezart": 32,
-  "hatralevo": 468,
-  "teljesites_szazalek": 6.4,
-  "nyitott": 12,
-  "nyert": 7,
+  "lezart": 34,
+  "hatralevo": 466,
+  "teljesites_szazalek": 6.8,
+  "nyitott": 10,
+  "nyert": 9,
   "vesztett": 25,
-  "profit": -24.5804,
-  "lezart_tet_osszeg": 63.1604,
-  "roi": -0.389174,
-  "talalati_arany": 0.21875,
+  "profit": -18.0404,
+  "lezart_tet_osszeg": 67.1604,
+  "roi": -0.268617,
+  "talalati_arany": 0.264706,
   "meresek": 60,
   "meresi_pontok": {
     "72": 2,
@@ -37,8 +37,8 @@
   "hibas_azonositoju_sorok": 0,
   "szamlalo_egyezik": true,
   "integritas_ok": true,
-  "frissitve": "2026-09-06T03:45:07.942767+00:00",
-  "kanonikus_statusz_frissitve": "2026-09-06T03:43:07.092831+00:00",
+  "frissitve": "2026-09-06T04:13:07.727225+00:00",
+  "kanonikus_statusz_frissitve": "2026-09-06T04:11:10.325398+00:00",
   "uzemmod": "PAPER VALIDÁCIÓ",
   "allapot": "MINTAGYŰJTÉS",
   "ontanulas": {
@@ -47,6 +47,6 @@
     "forraskod_modositas_javasolt": false,
     "automatikus_forraskod_atiras": false,
     "jovahagyas_szukseges": false,
-    "frissitve": "2026-09-06T03:43:07.004996+00:00"
+    "frissitve": "2026-09-06T04:11:10.251615+00:00"
   }
 }
