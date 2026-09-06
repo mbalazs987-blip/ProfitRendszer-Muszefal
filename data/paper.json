@@ -1186,5 +1186,32 @@
     "varhato_ertek_szazalek": 34.543424,
     "megbizhatosag": 0.6937500000000001,
     "szorzo_elony_szazalek": 0.0
+  },
+  {
+    "id": "41526652faf33947",
+    "esemeny_id": "adb9e7b82d17a63b",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Colorado Rockies",
+    "vendeg": "St. Louis Cardinals",
+    "resztvevok": [
+      "Colorado Rockies",
+      "St. Louis Cardinals"
+    ],
+    "kimenetel": "Colorado Rockies",
+    "szorzo": 2.12,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-09-06T16:42:25.503780+00:00",
+    "esemeny_ideje": "2026-09-06T19:10:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.564573,
+    "piaci_esely": 0.45088257866462006,
+    "varhato_ertek_szazalek": 19.689476,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0
   }
 ]
