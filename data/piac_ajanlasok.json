@@ -1,5 +1,5 @@
 {
-  "frissitve": "2026-09-06T10:24:55.223212+00:00",
+  "frissitve": "2026-09-06T11:23:47.793554+00:00",
   "osszesito": {
     "osszes": 36,
     "elegendo_adatu": 30,
@@ -17,9 +17,9 @@
       "valasztas": "Draw",
       "kimenetel": "Draw",
       "vonal": null,
-      "szorzo": 3.7,
+      "szorzo": 3.75,
       "becsult_esely": null,
-      "piaci_esely": 0.2558316451692865,
+      "piaci_esely": 0.25505443234836706,
       "varhato_ertek_szazalek": null,
       "megbizhatosag": null,
       "elegendo_adat": false,
@@ -27,7 +27,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:28.012114+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:09.473505+00:00",
       "esemeny_ideje": "2026-09-06T13:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -52,7 +52,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:28.012114+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:09.473505+00:00",
       "esemeny_ideje": "2026-09-06T15:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -67,9 +67,9 @@
       "valasztas": "Everton",
       "kimenetel": "Everton",
       "vonal": null,
-      "szorzo": 3.65,
+      "szorzo": 3.75,
       "becsult_esely": null,
-      "piaci_esely": 0.2593361882537973,
+      "piaci_esely": 0.25505443234836706,
       "varhato_ertek_szazalek": null,
       "megbizhatosag": null,
       "elegendo_adat": false,
@@ -77,7 +77,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:28.012114+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:09.473505+00:00",
       "esemeny_ideje": "2026-09-06T13:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -94,7 +94,7 @@
       "vonal": null,
       "szorzo": 1.9523809523809523,
       "becsult_esely": null,
-      "piaci_esely": 0.48483216657691625,
+      "piaci_esely": 0.489891135303266,
       "varhato_ertek_szazalek": null,
       "megbizhatosag": null,
       "elegendo_adat": false,
@@ -102,7 +102,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:28.012114+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:09.473505+00:00",
       "esemeny_ideje": "2026-09-06T13:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -127,7 +127,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:28.012114+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:09.473505+00:00",
       "esemeny_ideje": "2026-09-06T15:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -152,7 +152,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:28.012114+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:09.473505+00:00",
       "esemeny_ideje": "2026-09-06T15:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -177,7 +177,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T16:10:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -202,7 +202,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T16:10:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -227,7 +227,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T17:10:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -252,7 +252,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T17:10:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -277,7 +277,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T17:35:00+00:00",
       "kizarasi_ok": "egyik vizsgált fogadási forma sem érte el az aktuális rangsorolási szabályt, az engedélyezett PAPER mérési irodaszámot vagy a teljes modell/piaci szerződést; a 25 százalékpontnál nagyobb modell–piac eltérés automatikusan kiesik",
       "indoklas": "egyik vizsgált fogadási forma sem érte el az aktuális rangsorolási szabályt, az engedélyezett PAPER mérési irodaszámot vagy a teljes modell/piaci szerződést; a 25 százalékpontnál nagyobb modell–piac eltérés automatikusan kiesik"
@@ -302,7 +302,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T17:35:00+00:00",
       "kizarasi_ok": "egyik vizsgált fogadási forma sem érte el az aktuális rangsorolási szabályt, az engedélyezett PAPER mérési irodaszámot vagy a teljes modell/piaci szerződést; a 25 százalékpontnál nagyobb modell–piac eltérés automatikusan kiesik",
       "indoklas": "egyik vizsgált fogadási forma sem érte el az aktuális rangsorolási szabályt, az engedélyezett PAPER mérési irodaszámot vagy a teljes modell/piaci szerződést; a 25 százalékpontnál nagyobb modell–piac eltérés automatikusan kiesik"
@@ -327,7 +327,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T17:35:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -352,7 +352,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T17:35:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -377,7 +377,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T17:40:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -402,7 +402,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T17:40:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -427,7 +427,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T17:40:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -452,7 +452,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T17:40:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -477,7 +477,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T18:10:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -502,7 +502,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T18:10:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -527,7 +527,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T18:10:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -552,7 +552,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T18:10:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -567,17 +567,17 @@
       "valasztas": "Texas Rangers",
       "kimenetel": "Texas Rangers",
       "vonal": null,
-      "szorzo": 1.8849557522123894,
+      "szorzo": 1.9090909090909092,
       "becsult_esely": 0.539405,
-      "piaci_esely": 0.5064960374171755,
-      "varhato_ertek_szazalek": 1.6755,
+      "piaci_esely": 0.5,
+      "varhato_ertek_szazalek": 2.9773,
       "megbizhatosag": 0.62,
       "elegendo_adat": true,
       "ajanlhato": true,
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T18:35:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -592,17 +592,17 @@
       "valasztas": "Tampa Bay Rays",
       "kimenetel": "Tampa Bay Rays",
       "vonal": null,
-      "szorzo": 1.9345794392523366,
+      "szorzo": 1.9090909090909092,
       "becsult_esely": 0.460595,
-      "piaci_esely": 0.4935039625828245,
-      "varhato_ertek_szazalek": -10.8942,
+      "piaci_esely": 0.5,
+      "varhato_ertek_szazalek": -12.0682,
       "megbizhatosag": 0.62,
       "elegendo_adat": true,
       "ajanlhato": false,
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T18:35:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -627,7 +627,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T19:10:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -652,7 +652,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T19:10:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -677,7 +677,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T20:10:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -702,7 +702,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T20:10:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -727,7 +727,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T20:10:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -752,7 +752,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T20:10:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -777,7 +777,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T22:20:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -802,7 +802,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T22:20:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -827,7 +827,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-07T02:10:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -852,7 +852,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-07T02:10:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -877,7 +877,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T17:40:00+00:00",
       "kizarasi_ok": "egyik vizsgált fogadási forma sem érte el az aktuális rangsorolási szabályt, az engedélyezett PAPER mérési irodaszámot vagy a teljes modell/piaci szerződést; a 25 százalékpontnál nagyobb modell–piac eltérés automatikusan kiesik",
       "indoklas": "egyik vizsgált fogadási forma sem érte el az aktuális rangsorolási szabályt, az engedélyezett PAPER mérési irodaszámot vagy a teljes modell/piaci szerződést; a 25 százalékpontnál nagyobb modell–piac eltérés automatikusan kiesik"
@@ -902,7 +902,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-09-06T09:39:19.504776+00:00",
+      "piaci_adat_ideje": "2026-09-06T10:39:07.009446+00:00",
       "esemeny_ideje": "2026-09-06T17:40:00+00:00",
       "kizarasi_ok": "egyik vizsgált fogadási forma sem érte el az aktuális rangsorolási szabályt, az engedélyezett PAPER mérési irodaszámot vagy a teljes modell/piaci szerződést; a 25 százalékpontnál nagyobb modell–piac eltérés automatikusan kiesik",
       "indoklas": "egyik vizsgált fogadási forma sem érte el az aktuális rangsorolási szabályt, az engedélyezett PAPER mérési irodaszámot vagy a teljes modell/piaci szerződést; a 25 százalékpontnál nagyobb modell–piac eltérés automatikusan kiesik"
