@@ -10,13 +10,13 @@
   "lezart_tet_osszeg": 67.1604,
   "roi": -0.268617,
   "talalati_arany": 0.264706,
-  "meresek": 64,
+  "meresek": 67,
   "meresi_pontok": {
     "72": 2,
     "48": 7,
     "24": 11,
     "12": 15,
-    "6": 15,
+    "6": 18,
     "3": 6,
     "1": 8
   },
@@ -37,8 +37,8 @@
   "hibas_azonositoju_sorok": 0,
   "szamlalo_egyezik": true,
   "integritas_ok": true,
-  "frissitve": "2026-09-06T11:23:43.454245+00:00",
-  "kanonikus_statusz_frissitve": "2026-09-06T10:42:31.979421+00:00",
+  "frissitve": "2026-09-06T12:29:24.708113+00:00",
+  "kanonikus_statusz_frissitve": "2026-09-06T11:41:23.502300+00:00",
   "uzemmod": "PAPER VALIDÁCIÓ",
   "allapot": "MINTAGYŰJTÉS",
   "ontanulas": {
@@ -47,6 +47,6 @@
     "forraskod_modositas_javasolt": false,
     "automatikus_forraskod_atiras": false,
     "jovahagyas_szukseges": false,
-    "frissitve": "2026-09-06T10:42:31.888289+00:00"
+    "frissitve": "2026-09-06T11:41:23.399926+00:00"
   }
 }
