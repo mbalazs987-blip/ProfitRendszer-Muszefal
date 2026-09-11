@@ -1546,5 +1546,41 @@
     "megbizhatosag": 0.6937500000000001,
     "becsult_elony_szazalek": 25.926962,
     "iroda": "DraftKings"
+  },
+  {
+    "tet_id": "cabcce7658f2e0a2",
+    "esemeny_id": "97f308400124e10a",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Boston Red Sox",
+    "vendeg": "Kansas City Royals",
+    "kimenetel": "Kansas City Royals",
+    "meresi_pont_ora": 12,
+    "adat_ideje": "2026-09-11T10:42:10.523074+00:00",
+    "esemeny_ideje": "2026-09-11T23:10:00+00:00",
+    "szorzo": 2.69,
+    "becsult_esely": 0.500936,
+    "piaci_esely": 0.35575603971446507,
+    "megbizhatosag": 0.6937500000000001,
+    "becsult_elony_szazalek": 34.751784,
+    "iroda": "DraftKings"
+  },
+  {
+    "tet_id": "f6823061431899c2",
+    "esemeny_id": "d61ad34601637ce9",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Miami Marlins",
+    "vendeg": "Los Angeles Dodgers",
+    "kimenetel": "Miami Marlins",
+    "meresi_pont_ora": 12,
+    "adat_ideje": "2026-09-11T10:42:10.523074+00:00",
+    "esemeny_ideje": "2026-09-11T23:10:00+00:00",
+    "szorzo": 2.7,
+    "becsult_esely": 0.516701,
+    "piaci_esely": 0.35383029886636896,
+    "megbizhatosag": 0.6937500000000001,
+    "becsult_elony_szazalek": 39.50927,
+    "iroda": "DraftKings"
   }
 ]
