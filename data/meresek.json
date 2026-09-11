@@ -1582,5 +1582,41 @@
     "megbizhatosag": 0.6937500000000001,
     "becsult_elony_szazalek": 39.50927,
     "iroda": "DraftKings"
+  },
+  {
+    "tet_id": "3591e235d1a3c8cc",
+    "esemeny_id": "f48664cd4b7febff",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Milwaukee Brewers",
+    "vendeg": "Cincinnati Reds",
+    "kimenetel": "Cincinnati Reds",
+    "meresi_pont_ora": 12,
+    "adat_ideje": "2026-09-11T11:41:06.463554+00:00",
+    "esemeny_ideje": "2026-09-11T23:40:00+00:00",
+    "szorzo": 2.55,
+    "becsult_esely": 0.457272,
+    "piaci_esely": 0.3752931978107897,
+    "megbizhatosag": 0.6937500000000001,
+    "becsult_elony_szazalek": 16.604359999999986,
+    "iroda": null
+  },
+  {
+    "tet_id": "6d8e726266b373e3",
+    "esemeny_id": "797ad23da7224dc8",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Chicago Cubs",
+    "vendeg": "Pittsburgh Pirates",
+    "kimenetel": "Pittsburgh Pirates",
+    "meresi_pont_ora": 6,
+    "adat_ideje": "2026-09-11T11:41:06.463554+00:00",
+    "esemeny_ideje": "2026-09-11T18:20:00+00:00",
+    "szorzo": 2.63,
+    "becsult_esely": 0.482023,
+    "piaci_esely": 0.3635833019200604,
+    "megbizhatosag": 0.6937500000000001,
+    "becsult_elony_szazalek": 26.772049,
+    "iroda": "DraftKings"
   }
 ]
