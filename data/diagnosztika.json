@@ -1,9 +1,11 @@
 {
-  "frissitve": "2026-09-10T13:06:28.755013+00:00",
-  "integritas_ok": true,
-  "szamlalo_egyezik": true,
+  "frissitve": "2026-09-11T10:21:42.681080+00:00",
+  "integritas_ok": false,
+  "szamlalo_egyezik": false,
   "duplikalt_sorok": 0,
   "hibas_azonositoju_sorok": 0,
+  "aktualis_snapshot_hibas_sorok": 0,
+  "aktualis_integritas_hibas_lezart_tetek": 0,
   "registry_sportag_db": 48,
   "statikus_sportag_ok": 48,
   "elo_allapotok": {
@@ -12,5 +14,7 @@
     "SPORTADAT_HIANYZIK": 7,
     "VAR_AKTIV_ODDSRA": 36
   },
-  "kanonikus_statusz_frissitve": "2026-09-06T21:40:54.837565+00:00"
+  "kanonikus_statusz_frissitve": "2026-09-11T10:17:32.449559+00:00",
+  "aktualis_modellkorszak_lezart": 1,
+  "torteneti_lezart": 45
 }
