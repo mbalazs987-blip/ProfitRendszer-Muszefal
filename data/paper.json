@@ -1651,5 +1651,34 @@
     "szorzo_elony_szazalek": 0.0,
     "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
     "aktualis_modellkorszak": true
+  },
+  {
+    "id": "cf6525bde55687ea",
+    "esemeny_id": "dc95f1058a55ff77",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Boston Red Sox",
+    "vendeg": "Kansas City Royals",
+    "resztvevok": [
+      "Boston Red Sox",
+      "Kansas City Royals"
+    ],
+    "kimenetel": "Kansas City Royals",
+    "szorzo": 2.5700000000000003,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-09-11T22:49:17.481409+00:00",
+    "esemeny_ideje": "2026-09-12T20:10:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.500936,
+    "piaci_esely": 0.3717661438174781,
+    "varhato_ertek_szazalek": 28.740552,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
+    "aktualis_modellkorszak": true
   }
 ]
