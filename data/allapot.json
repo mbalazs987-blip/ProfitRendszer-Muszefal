@@ -14,14 +14,14 @@
   "torteneti_nyitott": 12,
   "torteneti_profit": -10.831,
   "torteneti_roi": -0.121478,
-  "meresek": 101,
+  "meresek": 102,
   "meresi_pontok": {
     "72": 2,
     "48": 7,
     "24": 14,
     "12": 20,
     "6": 24,
-    "3": 17,
+    "3": 18,
     "1": 17
   },
   "sportag_db": 5,
@@ -42,8 +42,8 @@
   "aktualis_integritas_hibas_lezart_tetek": 0,
   "szamlalo_egyezik": false,
   "integritas_ok": false,
-  "frissitve": "2026-09-11T20:37:28.998835+00:00",
-  "kanonikus_statusz_frissitve": "2026-09-11T19:48:35.910278+00:00",
+  "frissitve": "2026-09-11T21:06:03.755981+00:00",
+  "kanonikus_statusz_frissitve": "2026-09-11T20:50:36.708047+00:00",
   "uzemmod": "PAPER VALIDÁCIÓ",
   "allapot": "MINTAGYŰJTÉS",
   "minta_tipus": "AKTUÁLIS MODELLKORSZAK",
@@ -53,6 +53,6 @@
     "forraskod_modositas_javasolt": false,
     "automatikus_forraskod_atiras": false,
     "jovahagyas_szukseges": false,
-    "frissitve": "2026-09-11T19:48:35.543083+00:00"
+    "frissitve": "2026-09-11T20:50:36.351176+00:00"
   }
 }
