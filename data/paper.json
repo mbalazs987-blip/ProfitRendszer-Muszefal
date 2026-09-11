@@ -24,7 +24,9 @@
     "piaci_esely": 0.20125373622401044,
     "varhato_ertek_szazalek": 44.783639,
     "megbizhatosag": 0.7800250069483051,
-    "szorzo_elony_szazalek": 3.397028
+    "szorzo_elony_szazalek": 3.397028,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "ae70c07f0004a4fe",
@@ -51,7 +53,9 @@
     "piaci_esely": 0.42999999999999994,
     "varhato_ertek_szazalek": 15.656138,
     "megbizhatosag": 0.989762739024166,
-    "szorzo_elony_szazalek": 4.0
+    "szorzo_elony_szazalek": 4.0,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "522db4e4279186cb",
@@ -78,7 +82,9 @@
     "piaci_esely": 0.323394495412844,
     "varhato_ertek_szazalek": 85.00559,
     "megbizhatosag": 0.9745223750125723,
-    "szorzo_elony_szazalek": 11.864407
+    "szorzo_elony_szazalek": 11.864407,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "7b5ec975496d8a68",
@@ -105,7 +111,9 @@
     "piaci_esely": 0.2986425339366516,
     "varhato_ertek_szazalek": 56.9389,
     "megbizhatosag": 0.9748410042081948,
-    "szorzo_elony_szazalek": 7.936508
+    "szorzo_elony_szazalek": 7.936508,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "22df15cd60927e3d",
@@ -132,7 +140,9 @@
     "piaci_esely": 0.4352331606217616,
     "varhato_ertek_szazalek": 24.31256,
     "megbizhatosag": 0.9911095556916429,
-    "szorzo_elony_szazalek": 5.454545
+    "szorzo_elony_szazalek": 5.454545,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "6aa155e10f5e6fa4",
@@ -159,7 +169,9 @@
     "piaci_esely": 0.4101265822784811,
     "varhato_ertek_szazalek": 37.819637,
     "megbizhatosag": 0.9892077760046675,
-    "szorzo_elony_szazalek": 4.291845
+    "szorzo_elony_szazalek": 4.291845,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "fba443954a5f672f",
@@ -186,7 +198,9 @@
     "piaci_esely": 0.13473423980222496,
     "varhato_ertek_szazalek": 322.45896,
     "megbizhatosag": 0.8495808070964679,
-    "szorzo_elony_szazalek": 25.714286
+    "szorzo_elony_szazalek": 25.714286,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "2d06fe777b761ed7",
@@ -213,7 +227,9 @@
     "piaci_esely": 0.44121107487691025,
     "varhato_ertek_szazalek": 21.6773,
     "megbizhatosag": 0.9918589005656484,
-    "szorzo_elony_szazalek": 4.651163
+    "szorzo_elony_szazalek": 4.651163,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "80c550a0bc5e5b2e",
@@ -240,7 +256,9 @@
     "piaci_esely": 0.4166666666666667,
     "varhato_ertek_szazalek": 18.791279,
     "megbizhatosag": 0.9874327521899487,
-    "szorzo_elony_szazalek": 5.652174
+    "szorzo_elony_szazalek": 5.652174,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "717aa35051e2dcce",
@@ -267,7 +285,9 @@
     "piaci_esely": 0.28416691489073626,
     "varhato_ertek_szazalek": 16.4186,
     "megbizhatosag": 0.9791319077841967,
-    "szorzo_elony_szazalek": 9.090909
+    "szorzo_elony_szazalek": 9.090909,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "7975575f40775664",
@@ -294,7 +314,9 @@
     "piaci_esely": 0.32558139534883723,
     "varhato_ertek_szazalek": 36.7049,
     "megbizhatosag": 0.9791987654687351,
-    "szorzo_elony_szazalek": 3.626943
+    "szorzo_elony_szazalek": 3.626943,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "bdff09b5c0a19e5f",
@@ -321,7 +343,9 @@
     "piaci_esely": 0.04282800815771584,
     "varhato_ertek_szazalek": 1169.9854,
     "megbizhatosag": 0.75625,
-    "szorzo_elony_szazalek": 45.0
+    "szorzo_elony_szazalek": 45.0,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "114d6efa31a046d5",
@@ -348,7 +372,9 @@
     "piaci_esely": 0.04466501240694789,
     "varhato_ertek_szazalek": 949.0116,
     "megbizhatosag": 0.75625,
-    "szorzo_elony_szazalek": 15.0
+    "szorzo_elony_szazalek": 15.0,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "153537e3d1459a37",
@@ -375,7 +401,9 @@
     "piaci_esely": 0.045655375552282766,
     "varhato_ertek_szazalek": 1084.0497,
     "megbizhatosag": 0.75625,
-    "szorzo_elony_szazalek": 52.631579
+    "szorzo_elony_szazalek": 52.631579,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "ccfb4284966e9e23",
@@ -402,7 +430,9 @@
     "piaci_esely": 0.038433933826168096,
     "varhato_ertek_szazalek": 1188.176,
     "megbizhatosag": 0.75625,
-    "szorzo_elony_szazalek": 30.434783
+    "szorzo_elony_szazalek": 30.434783,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "14355607f14037e7",
@@ -429,7 +459,9 @@
     "piaci_esely": 0.2642226075468582,
     "varhato_ertek_szazalek": 39.10688,
     "megbizhatosag": 0.9255804349195783,
-    "szorzo_elony_szazalek": 12.5
+    "szorzo_elony_szazalek": 12.5,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "10b17e1b51c19551",
@@ -456,7 +488,9 @@
     "piaci_esely": 0.39702233250620345,
     "varhato_ertek_szazalek": 38.202848,
     "megbizhatosag": 0.9449833456607563,
-    "szorzo_elony_szazalek": 6.113537
+    "szorzo_elony_szazalek": 6.113537,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "3fba9894c6e80767",
@@ -483,7 +517,9 @@
     "piaci_esely": 0.2697302697302697,
     "varhato_ertek_szazalek": 58.95054,
     "megbizhatosag": 0.9240268889011491,
-    "szorzo_elony_szazalek": 12.698413
+    "szorzo_elony_szazalek": 12.698413,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "46df9eaf38731915",
@@ -510,7 +546,9 @@
     "piaci_esely": 0.3742620917046202,
     "varhato_ertek_szazalek": 24.1316,
     "megbizhatosag": 0.9303304663965143,
-    "szorzo_elony_szazalek": 5.241935
+    "szorzo_elony_szazalek": 5.241935,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "18a29b5d4b922c48",
@@ -537,7 +575,9 @@
     "piaci_esely": 0.3356643356643357,
     "varhato_ertek_szazalek": 58.300772,
     "megbizhatosag": 0.9828562730889473,
-    "szorzo_elony_szazalek": 3.157895
+    "szorzo_elony_szazalek": 3.157895,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "25962e49c8b0c76b",
@@ -564,7 +604,9 @@
     "piaci_esely": 0.35374941779226826,
     "varhato_ertek_szazalek": 32.242538,
     "megbizhatosag": 0.9758681488872067,
-    "szorzo_elony_szazalek": 8.730159
+    "szorzo_elony_szazalek": 8.730159,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "c39a0b19e280510e",
@@ -591,7 +633,9 @@
     "piaci_esely": 0.24405260096747197,
     "varhato_ertek_szazalek": 68.983636,
     "megbizhatosag": 0.9741905618024521,
-    "szorzo_elony_szazalek": 4.736842
+    "szorzo_elony_szazalek": 4.736842,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "170d98fb9c470db8",
@@ -618,7 +662,9 @@
     "piaci_esely": 0.16816816816816815,
     "varhato_ertek_szazalek": 128.4022,
     "megbizhatosag": 0.919780182399843,
-    "szorzo_elony_szazalek": 18.181818
+    "szorzo_elony_szazalek": 18.181818,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "66172c8ef11fac28",
@@ -645,7 +691,9 @@
     "piaci_esely": 0.3470986116055536,
     "varhato_ertek_szazalek": 40.222016,
     "megbizhatosag": 0.9767440000007442,
-    "szorzo_elony_szazalek": 7.26257
+    "szorzo_elony_szazalek": 7.26257,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "7a851632b4042e55",
@@ -672,7 +720,9 @@
     "piaci_esely": 0.16220036558700263,
     "varhato_ertek_szazalek": 97.8875,
     "megbizhatosag": 0.9334466542832973,
-    "szorzo_elony_szazalek": 8.695652
+    "szorzo_elony_szazalek": 8.695652,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "eb4a86f2f5277eb5",
@@ -699,7 +749,9 @@
     "piaci_esely": 0.11991199119911994,
     "varhato_ertek_szazalek": 240.07026,
     "megbizhatosag": 0.8248561476995888,
-    "szorzo_elony_szazalek": 32.5
+    "szorzo_elony_szazalek": 32.5,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "f308d0feeec633f2",
@@ -726,7 +778,9 @@
     "piaci_esely": 0.3478260869565217,
     "varhato_ertek_szazalek": 48.38867,
     "megbizhatosag": 0.9817865121806406,
-    "szorzo_elony_szazalek": 3.636364
+    "szorzo_elony_szazalek": 3.636364,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "72c83b80bf0cbf7b",
@@ -753,7 +807,9 @@
     "piaci_esely": 0.2178370066632496,
     "varhato_ertek_szazalek": 120.43232,
     "megbizhatosag": 0.9568635727765655,
-    "szorzo_elony_szazalek": 14.285714
+    "szorzo_elony_szazalek": 14.285714,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "60f3d507fc29736e",
@@ -780,7 +836,9 @@
     "piaci_esely": 0.33962264150943394,
     "varhato_ertek_szazalek": 58.0331,
     "megbizhatosag": 0.9839438014372227,
-    "szorzo_elony_szazalek": 7.142857
+    "szorzo_elony_szazalek": 7.142857,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "afbd72e24dd3a7a5",
@@ -807,7 +865,9 @@
     "piaci_esely": 0.4186046511627907,
     "varhato_ertek_szazalek": 27.093666,
     "megbizhatosag": 0.9904197653299525,
-    "szorzo_elony_szazalek": 3.478261
+    "szorzo_elony_szazalek": 3.478261,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "14df1b424f296ea0",
@@ -834,7 +894,9 @@
     "piaci_esely": 0.3808353808353808,
     "varhato_ertek_szazalek": 38.404995,
     "megbizhatosag": 0.9865119136115306,
-    "szorzo_elony_szazalek": 6.0
+    "szorzo_elony_szazalek": 6.0,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "e11cb0a986e19c45",
@@ -861,7 +923,9 @@
     "piaci_esely": 0.19068437594803248,
     "varhato_ertek_szazalek": 85.57504,
     "megbizhatosag": 0.9473906320129201,
-    "szorzo_elony_szazalek": 12.0
+    "szorzo_elony_szazalek": 12.0,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "e8323c58f62541cd",
@@ -888,7 +952,9 @@
     "piaci_esely": 0.32305127136306794,
     "varhato_ertek_szazalek": 105.46707,
     "megbizhatosag": 0.9784247054867533,
-    "szorzo_elony_szazalek": 8.77193
+    "szorzo_elony_szazalek": 8.77193,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "56f20f8befc219c2",
@@ -915,7 +981,9 @@
     "piaci_esely": 0.326923076923077,
     "varhato_ertek_szazalek": 53.74326,
     "megbizhatosag": 0.9832677438741296,
-    "szorzo_elony_szazalek": 6.896552
+    "szorzo_elony_szazalek": 6.896552,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "7e3a99742c4870e6",
@@ -942,7 +1010,9 @@
     "piaci_esely": 0.06557377049180328,
     "varhato_ertek_szazalek": 270.3392,
     "megbizhatosag": 0.8,
-    "szorzo_elony_szazalek": 28.571429
+    "szorzo_elony_szazalek": 28.571429,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "7ad30f09938e3b3f",
@@ -969,7 +1039,9 @@
     "piaci_esely": 0.23364485981308414,
     "varhato_ertek_szazalek": 106.6814,
     "megbizhatosag": 0.9597783970514601,
-    "szorzo_elony_szazalek": 11.111111
+    "szorzo_elony_szazalek": 11.111111,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "4035bf89692e66bd",
@@ -996,7 +1068,9 @@
     "piaci_esely": 0.2286494873178629,
     "varhato_ertek_szazalek": 101.39858,
     "megbizhatosag": 0.9642552997809466,
-    "szorzo_elony_szazalek": 9.52381
+    "szorzo_elony_szazalek": 9.52381,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "1bf988c77ebab604",
@@ -1023,7 +1097,9 @@
     "piaci_esely": 0.5106951871657753,
     "varhato_ertek_szazalek": 20.43174,
     "megbizhatosag": 0.9057013073152096,
-    "szorzo_elony_szazalek": 1.630435
+    "szorzo_elony_szazalek": 1.630435,
+    "modell_verzio": null,
+    "aktualis_modellkorszak": false
   },
   {
     "id": "ab46a02b5519d671",
@@ -1050,7 +1126,9 @@
     "piaci_esely": 0.4174548300828387,
     "varhato_ertek_szazalek": 26.612268,
     "megbizhatosag": 0.6937500000000001,
-    "szorzo_elony_szazalek": 0.0
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.7-team-strength",
+    "aktualis_modellkorszak": false
   },
   {
     "id": "354e605137b31314",
@@ -1077,7 +1155,9 @@
     "piaci_esely": 0.4086853434828727,
     "varhato_ertek_szazalek": 29.376728,
     "megbizhatosag": 0.6937500000000001,
-    "szorzo_elony_szazalek": 0.0
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.7-team-strength",
+    "aktualis_modellkorszak": false
   },
   {
     "id": "8ebf141cf99644e4",
@@ -1104,7 +1184,9 @@
     "piaci_esely": 0.42837235708018645,
     "varhato_ertek_szazalek": 34.627107,
     "megbizhatosag": 0.6937500000000001,
-    "szorzo_elony_szazalek": 0.0
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.7-team-strength",
+    "aktualis_modellkorszak": false
   },
   {
     "id": "ec21a1d7259eb94f",
@@ -1131,7 +1213,9 @@
     "piaci_esely": 0.44894232232536907,
     "varhato_ertek_szazalek": 24.522782,
     "megbizhatosag": 0.6937500000000001,
-    "szorzo_elony_szazalek": 0.0
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.7-team-strength",
+    "aktualis_modellkorszak": false
   },
   {
     "id": "d69cabd7ed766be7",
@@ -1158,7 +1242,9 @@
     "piaci_esely": 0.4782608695652174,
     "varhato_ertek_szazalek": 23.8072,
     "megbizhatosag": 0.6937500000000001,
-    "szorzo_elony_szazalek": 0.0
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.7-team-strength",
+    "aktualis_modellkorszak": false
   },
   {
     "id": "dcc37b9ee30aff77",
@@ -1185,7 +1271,9 @@
     "piaci_esely": 0.32090038135987353,
     "varhato_ertek_szazalek": 34.543424,
     "megbizhatosag": 0.6937500000000001,
-    "szorzo_elony_szazalek": 0.0
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.7-team-strength",
+    "aktualis_modellkorszak": false
   },
   {
     "id": "41526652faf33947",
@@ -1202,9 +1290,9 @@
     "szorzo": 2.12,
     "tet_szazalek": 0.02,
     "tet_osszeg": 2.0,
-    "statusz": "NYITOTT",
-    "eredmeny": null,
-    "nyereseg_veszteseg": 0.0,
+    "statusz": "LEZART",
+    "eredmeny": "VESZTETT",
+    "nyereseg_veszteseg": -2.0,
     "dontesi_ido": "2026-09-06T16:42:25.503780+00:00",
     "esemeny_ideje": "2026-09-06T19:10:00+00:00",
     "iroda": "DraftKings",
@@ -1212,7 +1300,9 @@
     "piaci_esely": 0.45088257866462006,
     "varhato_ertek_szazalek": 19.689476,
     "megbizhatosag": 0.6937500000000001,
-    "szorzo_elony_szazalek": 0.0
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.7-team-strength",
+    "aktualis_modellkorszak": false
   },
   {
     "id": "d4dc03b15eaf19fb",
@@ -1229,9 +1319,9 @@
     "szorzo": 1.8928571428571428,
     "tet_szazalek": 0.02,
     "tet_osszeg": 2.0,
-    "statusz": "NYITOTT",
-    "eredmeny": null,
-    "nyereseg_veszteseg": 0.0,
+    "statusz": "LEZART",
+    "eredmeny": "NYERT",
+    "nyereseg_veszteseg": 1.7857,
     "dontesi_ido": "2026-09-06T17:40:21.992314+00:00",
     "esemeny_ideje": "2026-09-06T20:10:00+00:00",
     "iroda": "DraftKings",
@@ -1239,7 +1329,9 @@
     "piaci_esely": 0.5043297540699689,
     "varhato_ertek_szazalek": 10.199114,
     "megbizhatosag": 0.6937500000000001,
-    "szorzo_elony_szazalek": 0.0
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.7-team-strength",
+    "aktualis_modellkorszak": false
   },
   {
     "id": "4aa81ba4a9c369ce",
@@ -1256,9 +1348,9 @@
     "szorzo": 1.6666666666666665,
     "tet_szazalek": 0.02,
     "tet_osszeg": 2.0,
-    "statusz": "NYITOTT",
-    "eredmeny": null,
-    "nyereseg_veszteseg": 0.0,
+    "statusz": "LEZART",
+    "eredmeny": "NYERT",
+    "nyereseg_veszteseg": 1.3333,
     "dontesi_ido": "2026-09-06T17:40:21.992344+00:00",
     "esemeny_ideje": "2026-09-06T22:20:00+00:00",
     "iroda": "DraftKings",
@@ -1266,7 +1358,9 @@
     "piaci_esely": 0.5733788395904438,
     "varhato_ertek_szazalek": 8.402167,
     "megbizhatosag": 0.6937500000000001,
-    "szorzo_elony_szazalek": 0.0
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.7-team-strength",
+    "aktualis_modellkorszak": false
   },
   {
     "id": "769c0738c1745e23",
@@ -1283,9 +1377,9 @@
     "szorzo": 1.7751937984496124,
     "tet_szazalek": 0.02,
     "tet_osszeg": 2.0,
-    "statusz": "NYITOTT",
-    "eredmeny": null,
-    "nyereseg_veszteseg": 0.0,
+    "statusz": "LEZART",
+    "eredmeny": "NYERT",
+    "nyereseg_veszteseg": 1.5504,
     "dontesi_ido": "2026-09-06T19:39:55.396116+00:00",
     "esemeny_ideje": "2026-09-07T18:10:00+00:00",
     "iroda": "DraftKings",
@@ -1293,7 +1387,9 @@
     "piaci_esely": 0.5383343749369999,
     "varhato_ertek_szazalek": 12.853685,
     "megbizhatosag": 0.6937500000000001,
-    "szorzo_elony_szazalek": 0.0
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.7-team-strength",
+    "aktualis_modellkorszak": false
   },
   {
     "id": "ff1d81b4a516451a",
@@ -1310,9 +1406,9 @@
     "szorzo": 1.7936507936507935,
     "tet_szazalek": 0.02,
     "tet_osszeg": 2.0,
-    "statusz": "NYITOTT",
-    "eredmeny": null,
-    "nyereseg_veszteseg": 0.0,
+    "statusz": "LEZART",
+    "eredmeny": "VESZTETT",
+    "nyereseg_veszteseg": -2.0,
     "dontesi_ido": "2026-09-06T19:39:55.396175+00:00",
     "esemeny_ideje": "2026-09-07T17:10:00+00:00",
     "iroda": "DraftKings",
@@ -1320,7 +1416,9 @@
     "piaci_esely": 0.5321298443193111,
     "varhato_ertek_szazalek": 10.968152,
     "megbizhatosag": 0.6937500000000001,
-    "szorzo_elony_szazalek": 0.0
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.7-team-strength",
+    "aktualis_modellkorszak": false
   },
   {
     "id": "3163f8685ad6e1e8",
@@ -1337,9 +1435,9 @@
     "szorzo": 2.7,
     "tet_szazalek": 0.02,
     "tet_osszeg": 2.0,
-    "statusz": "NYITOTT",
-    "eredmeny": null,
-    "nyereseg_veszteseg": 0.0,
+    "statusz": "LEZART",
+    "eredmeny": "NYERT",
+    "nyereseg_veszteseg": 3.4,
     "dontesi_ido": "2026-09-06T21:40:39.944926+00:00",
     "esemeny_ideje": "2026-09-08T02:05:00+00:00",
     "iroda": "DraftKings",
@@ -1347,6 +1445,182 @@
     "piaci_esely": 0.3541858325666973,
     "varhato_ertek_szazalek": 59.75738,
     "megbizhatosag": 0.6937500000000001,
-    "szorzo_elony_szazalek": 0.0
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.7-team-strength",
+    "aktualis_modellkorszak": false
+  },
+  {
+    "id": "0f732a574922e6d8",
+    "esemeny_id": "21e1c3083e9d6cb7",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "New York Yankees",
+    "vendeg": "Colorado Rockies",
+    "resztvevok": [
+      "New York Yankees",
+      "Colorado Rockies"
+    ],
+    "kimenetel": "Colorado Rockies",
+    "szorzo": 3.42,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "LEZART",
+    "eredmeny": "VESZTETT",
+    "nyereseg_veszteseg": -2.0,
+    "dontesi_ido": "2026-09-10T22:05:44.588147+00:00",
+    "esemeny_ideje": "2026-09-10T23:05:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.44713,
+    "piaci_esely": 0.2796768178993163,
+    "varhato_ertek_szazalek": 52.91846,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
+    "aktualis_modellkorszak": true
+  },
+  {
+    "id": "cabcce7658f2e0a2",
+    "esemeny_id": "97f308400124e10a",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Boston Red Sox",
+    "vendeg": "Kansas City Royals",
+    "resztvevok": [
+      "Boston Red Sox",
+      "Kansas City Royals"
+    ],
+    "kimenetel": "Kansas City Royals",
+    "szorzo": 2.6799999999999997,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-09-10T22:05:44.588147+00:00",
+    "esemeny_ideje": "2026-09-11T23:10:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.500936,
+    "piaci_esely": 0.35697565543071164,
+    "varhato_ertek_szazalek": 34.250848,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
+    "aktualis_modellkorszak": true
+  },
+  {
+    "id": "a7d65328b1d486d4",
+    "esemeny_id": "8b2119f1e1ad7cd6",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Athletics",
+    "vendeg": "Seattle Mariners",
+    "resztvevok": [
+      "Athletics",
+      "Seattle Mariners"
+    ],
+    "kimenetel": "Athletics",
+    "szorzo": 2.25,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-09-10T22:05:44.588147+00:00",
+    "esemeny_ideje": "2026-09-12T01:40:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.534282,
+    "piaci_esely": 0.4248836225137536,
+    "varhato_ertek_szazalek": 20.21345,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
+    "aktualis_modellkorszak": true
+  },
+  {
+    "id": "3591e235d1a3c8cc",
+    "esemeny_id": "f48664cd4b7febff",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Milwaukee Brewers",
+    "vendeg": "Cincinnati Reds",
+    "resztvevok": [
+      "Milwaukee Brewers",
+      "Cincinnati Reds"
+    ],
+    "kimenetel": "Cincinnati Reds",
+    "szorzo": 2.58,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-09-10T22:27:57.038054+00:00",
+    "esemeny_ideje": "2026-09-11T23:40:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.457272,
+    "piaci_esely": 0.37085958138589714,
+    "varhato_ertek_szazalek": 17.976176,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
+    "aktualis_modellkorszak": true
+  },
+  {
+    "id": "d4162d9ccd355c6a",
+    "esemeny_id": "3f987d736cc0521f",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Detroit Tigers",
+    "vendeg": "Colorado Rockies",
+    "resztvevok": [
+      "Detroit Tigers",
+      "Colorado Rockies"
+    ],
+    "kimenetel": "Colorado Rockies",
+    "szorzo": 2.49,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-09-10T23:44:39.311192+00:00",
+    "esemeny_ideje": "2026-09-11T22:40:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.488158,
+    "piaci_esely": 0.3840424223373286,
+    "varhato_ertek_szazalek": 21.551342,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
+    "aktualis_modellkorszak": true
+  },
+  {
+    "id": "f6823061431899c2",
+    "esemeny_id": "d61ad34601637ce9",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Miami Marlins",
+    "vendeg": "Los Angeles Dodgers",
+    "resztvevok": [
+      "Miami Marlins",
+      "Los Angeles Dodgers"
+    ],
+    "kimenetel": "Miami Marlins",
+    "szorzo": 2.7,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-09-11T07:26:43.646672+00:00",
+    "esemeny_ideje": "2026-09-11T23:10:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.516701,
+    "piaci_esely": 0.3541858325666973,
+    "varhato_ertek_szazalek": 39.50927,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
+    "aktualis_modellkorszak": true
   }
 ]
