@@ -2284,5 +2284,23 @@
     "megbizhatosag": 0.6937500000000001,
     "becsult_elony_szazalek": 23.4224,
     "iroda": "DraftKings"
+  },
+  {
+    "tet_id": "4cbe699fbe1df250",
+    "esemeny_id": "a8b772515c582c5f",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Milwaukee Brewers",
+    "vendeg": "Cincinnati Reds",
+    "kimenetel": "Cincinnati Reds",
+    "meresi_pont_ora": 1,
+    "adat_ideje": "2026-09-12T21:39:28.613436+00:00",
+    "esemeny_ideje": "2026-09-12T23:10:00+00:00",
+    "szorzo": 2.7800000000000002,
+    "becsult_esely": 0.45712,
+    "piaci_esely": 0.34381668858183695,
+    "megbizhatosag": 0.6937500000000001,
+    "becsult_elony_szazalek": 27.07936,
+    "iroda": "DraftKings"
   }
 ]
