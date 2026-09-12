@@ -1738,5 +1738,34 @@
     "szorzo_elony_szazalek": 0.0,
     "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
     "aktualis_modellkorszak": true
+  },
+  {
+    "id": "1040168738a49f92",
+    "esemeny_id": "c323b0f77ebf2e96",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "San Francisco Giants",
+    "vendeg": "San Diego Padres",
+    "resztvevok": [
+      "San Francisco Giants",
+      "San Diego Padres"
+    ],
+    "kimenetel": "San Francisco Giants",
+    "szorzo": 2.3200000000000003,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-09-12T03:50:45.778447+00:00",
+    "esemeny_ideje": "2026-09-12T20:05:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.508854,
+    "piaci_esely": 0.41191381495564006,
+    "varhato_ertek_szazalek": 18.054128,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
+    "aktualis_modellkorszak": true
   }
 ]
