@@ -1680,5 +1680,34 @@
     "szorzo_elony_szazalek": 0.0,
     "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
     "aktualis_modellkorszak": true
+  },
+  {
+    "id": "44c2dc7c3630c84a",
+    "esemeny_id": "9d6a937a838b6067",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Athletics",
+    "vendeg": "Seattle Mariners",
+    "resztvevok": [
+      "Athletics",
+      "Seattle Mariners"
+    ],
+    "kimenetel": "Athletics",
+    "szorzo": 2.44,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-09-11T23:47:40.083966+00:00",
+    "esemeny_ideje": "2026-09-13T01:40:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.534187,
+    "piaci_esely": 0.3922354557947778,
+    "varhato_ertek_szazalek": 30.341628,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
+    "aktualis_modellkorszak": true
   }
 ]
