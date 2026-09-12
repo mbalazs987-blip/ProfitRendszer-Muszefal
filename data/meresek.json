@@ -2122,5 +2122,23 @@
     "megbizhatosag": 0.6937500000000001,
     "becsult_elony_szazalek": 19.541380000000007,
     "iroda": null
+  },
+  {
+    "tet_id": "d779235a34b96bf0",
+    "esemeny_id": "03e5e373345fffde",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Detroit Tigers",
+    "vendeg": "Colorado Rockies",
+    "kimenetel": "Colorado Rockies",
+    "meresi_pont_ora": 1,
+    "adat_ideje": "2026-09-12T15:39:59.715515+00:00",
+    "esemeny_ideje": "2026-09-12T17:10:00+00:00",
+    "szorzo": 2.38,
+    "becsult_esely": 0.487924,
+    "piaci_esely": 0.40129372304743655,
+    "megbizhatosag": 0.6937500000000001,
+    "becsult_elony_szazalek": 16.125912,
+    "iroda": null
   }
 ]
