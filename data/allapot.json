@@ -3,7 +3,7 @@
   "lezart": 2,
   "hatralevo": 498,
   "teljesites_szazalek": 0.4,
-  "nyitott": 12,
+  "nyitott": 13,
   "nyert": 16,
   "vesztett": 30,
   "profit": -12.831,
@@ -11,7 +11,7 @@
   "roi": -0.140752,
   "talalati_arany": 0.347826,
   "torteneti_lezart": 46,
-  "torteneti_nyitott": 12,
+  "torteneti_nyitott": 13,
   "torteneti_profit": -12.831,
   "torteneti_roi": -0.140752,
   "meresek": 107,
@@ -42,8 +42,8 @@
   "aktualis_integritas_hibas_lezart_tetek": 0,
   "szamlalo_egyezik": false,
   "integritas_ok": false,
-  "frissitve": "2026-09-11T23:34:48.995486+00:00",
-  "kanonikus_statusz_frissitve": "2026-09-11T22:49:55.749898+00:00",
+  "frissitve": "2026-09-12T00:08:22.966345+00:00",
+  "kanonikus_statusz_frissitve": "2026-09-11T23:48:19.019344+00:00",
   "uzemmod": "PAPER VALIDÁCIÓ",
   "allapot": "MINTAGYŰJTÉS",
   "minta_tipus": "AKTUÁLIS MODELLKORSZAK",
@@ -53,6 +53,6 @@
     "forraskod_modositas_javasolt": false,
     "automatikus_forraskod_atiras": false,
     "jovahagyas_szukseges": false,
-    "frissitve": "2026-09-11T22:49:55.290793+00:00"
+    "frissitve": "2026-09-11T23:48:18.573768+00:00"
   }
 }
