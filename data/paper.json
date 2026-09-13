@@ -2057,5 +2057,34 @@
     "szorzo_elony_szazalek": 0.0,
     "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
     "aktualis_modellkorszak": true
+  },
+  {
+    "id": "c9135d2902ed2a87",
+    "esemeny_id": "56ecad1e77dace4f",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Chicago Cubs",
+    "vendeg": "Pittsburgh Pirates",
+    "resztvevok": [
+      "Chicago Cubs",
+      "Pittsburgh Pirates"
+    ],
+    "kimenetel": "Pittsburgh Pirates",
+    "szorzo": 2.41,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-09-13T17:49:07.160084+00:00",
+    "esemeny_ideje": "2026-09-13T18:20:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.481685,
+    "piaci_esely": 0.3967150239346518,
+    "varhato_ertek_szazalek": 16.086085,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
+    "aktualis_modellkorszak": true
   }
 ]
