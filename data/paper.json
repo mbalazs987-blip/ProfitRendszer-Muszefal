@@ -2028,5 +2028,34 @@
     "szorzo_elony_szazalek": 0.0,
     "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
     "aktualis_modellkorszak": true
+  },
+  {
+    "id": "8ccbba0c1244ed36",
+    "esemeny_id": "8bfbca9c9d717b21",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Detroit Tigers",
+    "vendeg": "Colorado Rockies",
+    "resztvevok": [
+      "Detroit Tigers",
+      "Colorado Rockies"
+    ],
+    "kimenetel": "Colorado Rockies",
+    "szorzo": 2.4299999999999997,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-09-13T13:49:20.406625+00:00",
+    "esemeny_ideje": "2026-09-13T16:10:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.487761,
+    "piaci_esely": 0.39321489050256886,
+    "varhato_ertek_szazalek": 18.525923,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
+    "aktualis_modellkorszak": true
   }
 ]
