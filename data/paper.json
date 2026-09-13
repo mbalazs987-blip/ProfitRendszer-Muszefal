@@ -1912,5 +1912,63 @@
     "szorzo_elony_szazalek": 0.0,
     "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
     "aktualis_modellkorszak": true
+  },
+  {
+    "id": "cb39e53397c739d4",
+    "esemeny_id": "83c7b6fbf44d5dad",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "New York Yankees",
+    "vendeg": "New York Mets",
+    "resztvevok": [
+      "New York Yankees",
+      "New York Mets"
+    ],
+    "kimenetel": "New York Mets",
+    "szorzo": 2.5300000000000002,
+    "tet_szazalek": 0.018635205120915013,
+    "tet_osszeg": 1.8635,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-09-13T01:50:04.938052+00:00",
+    "esemeny_ideje": "2026-09-13T17:35:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.456009,
+    "piaci_esely": 0.3780168653678394,
+    "varhato_ertek_szazalek": 15.370277,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
+    "aktualis_modellkorszak": true
+  },
+  {
+    "id": "4ad04e54179d0234",
+    "esemeny_id": "f38b3e62f5b21e12",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Toronto Blue Jays",
+    "vendeg": "Baltimore Orioles",
+    "resztvevok": [
+      "Toronto Blue Jays",
+      "Baltimore Orioles"
+    ],
+    "kimenetel": "Baltimore Orioles",
+    "szorzo": 2.2800000000000002,
+    "tet_szazalek": 0.0013647948790849879,
+    "tet_osszeg": 0.1365,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-09-13T01:50:04.938052+00:00",
+    "esemeny_ideje": "2026-09-13T17:37:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.495368,
+    "piaci_esely": 0.4191321499013806,
+    "varhato_ertek_szazalek": 12.943904,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
+    "aktualis_modellkorszak": true
   }
 ]
