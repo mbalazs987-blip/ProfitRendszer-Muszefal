@@ -1999,5 +1999,34 @@
     "szorzo_elony_szazalek": 0.0,
     "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
     "aktualis_modellkorszak": true
+  },
+  {
+    "id": "638db37299bdd46a",
+    "esemeny_id": "51326eaa1cf1d802",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Minnesota Twins",
+    "vendeg": "Cleveland Guardians",
+    "resztvevok": [
+      "Minnesota Twins",
+      "Cleveland Guardians"
+    ],
+    "kimenetel": "Cleveland Guardians",
+    "szorzo": 2.1399999999999997,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-09-13T08:51:52.085346+00:00",
+    "esemeny_ideje": "2026-09-13T18:10:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.554267,
+    "piaci_esely": 0.4470179938888679,
+    "varhato_ertek_szazalek": 18.613138,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
+    "aktualis_modellkorszak": true
   }
 ]
