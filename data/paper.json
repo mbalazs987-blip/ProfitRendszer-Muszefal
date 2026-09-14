@@ -2202,5 +2202,63 @@
     "szorzo_elony_szazalek": 0.0,
     "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
     "aktualis_modellkorszak": true
+  },
+  {
+    "id": "b8e634ae8393602e",
+    "esemeny_id": "2acb322a9cf8ad96",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Tampa Bay Rays",
+    "vendeg": "Athletics",
+    "resztvevok": [
+      "Tampa Bay Rays",
+      "Athletics"
+    ],
+    "kimenetel": "Athletics",
+    "szorzo": 2.88,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-09-14T18:56:21.480586+00:00",
+    "esemeny_ideje": "2026-09-15T22:40:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.473593,
+    "piaci_esely": 0.3322359176135223,
+    "varhato_ertek_szazalek": 36.394784,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
+    "aktualis_modellkorszak": true
+  },
+  {
+    "id": "c977737eaf8010c9",
+    "esemeny_id": "6216851b42b50698",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Cincinnati Reds",
+    "vendeg": "Los Angeles Dodgers",
+    "resztvevok": [
+      "Cincinnati Reds",
+      "Los Angeles Dodgers"
+    ],
+    "kimenetel": "Cincinnati Reds",
+    "szorzo": 2.8,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-09-14T18:56:21.480586+00:00",
+    "esemeny_ideje": "2026-09-15T22:40:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.515572,
+    "piaci_esely": 0.3415620344754203,
+    "varhato_ertek_szazalek": 44.36016,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
+    "aktualis_modellkorszak": true
   }
 ]
