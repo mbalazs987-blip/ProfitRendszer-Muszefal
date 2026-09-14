@@ -93,7 +93,7 @@
       "odds": 252,
       "sportadat": 269,
       "ellenorzott": 10,
-      "aktiv_modell": 24,
+      "aktiv_modell": 23,
       "portfolio": 3,
       "kovetkezo_teendo": "élő esemény portfólióig jutott"
     },
@@ -651,7 +651,7 @@
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "ILLESZTES_HIANYZIK",
       "odds": 18,
-      "sportadat": 884,
+      "sportadat": 905,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
