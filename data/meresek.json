@@ -2932,5 +2932,23 @@
     "megbizhatosag": 0.6937500000000001,
     "becsult_elony_szazalek": 23.868688,
     "iroda": "DraftKings"
+  },
+  {
+    "tet_id": "ad6ff7beb5351f0e",
+    "esemeny_id": "137e609078259b72",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Cincinnati Reds",
+    "vendeg": "Los Angeles Dodgers",
+    "kimenetel": "Cincinnati Reds",
+    "meresi_pont_ora": 6,
+    "adat_ideje": "2026-09-14T16:44:38.350847+00:00",
+    "esemeny_ideje": "2026-09-14T22:40:00+00:00",
+    "szorzo": 2.79,
+    "becsult_esely": 0.515572,
+    "piaci_esely": 0.34268579995716425,
+    "megbizhatosag": 0.6937500000000001,
+    "becsult_elony_szazalek": 43.844588,
+    "iroda": "DraftKings"
   }
 ]
