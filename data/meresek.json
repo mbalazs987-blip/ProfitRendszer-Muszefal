@@ -2968,5 +2968,23 @@
     "megbizhatosag": 0.6937500000000001,
     "becsult_elony_szazalek": 15.680087,
     "iroda": "DraftKings"
+  },
+  {
+    "tet_id": "ff47b349a6557d44",
+    "esemeny_id": "19c3bcb161787d43",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Colorado Rockies",
+    "vendeg": "San Diego Padres",
+    "kimenetel": "Colorado Rockies",
+    "meresi_pont_ora": 6,
+    "adat_ideje": "2026-09-14T18:46:57.642622+00:00",
+    "esemeny_ideje": "2026-09-15T00:40:00+00:00",
+    "szorzo": 2.7,
+    "becsult_esely": 0.487672,
+    "piaci_esely": 0.3545444046656657,
+    "megbizhatosag": 0.6937500000000001,
+    "becsult_elony_szazalek": 31.67144,
+    "iroda": "DraftKings"
   }
 ]
