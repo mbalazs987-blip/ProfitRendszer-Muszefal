@@ -2260,5 +2260,34 @@
     "szorzo_elony_szazalek": 0.0,
     "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
     "aktualis_modellkorszak": true
+  },
+  {
+    "id": "60896b1989471528",
+    "esemeny_id": "bb2a216964d8e5dd",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Washington Nationals",
+    "vendeg": "Philadelphia Phillies",
+    "resztvevok": [
+      "Washington Nationals",
+      "Philadelphia Phillies"
+    ],
+    "kimenetel": "Washington Nationals",
+    "szorzo": 2.6799999999999997,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-09-14T23:22:41.241659+00:00",
+    "esemeny_ideje": "2026-09-15T22:45:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.488876,
+    "piaci_esely": 0.3566101062837964,
+    "varhato_ertek_szazalek": 31.018768,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
+    "aktualis_modellkorszak": true
   }
 ]
