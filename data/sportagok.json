@@ -7,8 +7,8 @@
     "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR": 14
   },
   "elo_allapotok": {
-    "ILLESZTES_HIANYZIK": 4,
-    "PAPER_UTVONAL_ELO_BIZONYITOTT": 1,
+    "ILLESZTES_HIANYZIK": 3,
+    "PAPER_UTVONAL_ELO_BIZONYITOTT": 2,
     "SPORTADAT_HIANYZIK": 7,
     "VAR_AKTIV_ODDSRA": 36
   },
@@ -579,13 +579,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "ILLESZTES_HIANYZIK",
-      "odds": 391,
+      "elo_allapot": "PAPER_UTVONAL_ELO_BIZONYITOTT",
+      "odds": 392,
       "sportadat": 29,
-      "ellenorzott": 0,
-      "aktiv_modell": 0,
-      "portfolio": 0,
-      "kovetkezo_teendo": "esemény- és résztvevőillesztés javítása/regressziós teszt"
+      "ellenorzott": 1,
+      "aktiv_modell": 1,
+      "portfolio": 1,
+      "kovetkezo_teendo": "élő esemény portfólióig jutott"
     },
     {
       "sportag": "speed_skating",
