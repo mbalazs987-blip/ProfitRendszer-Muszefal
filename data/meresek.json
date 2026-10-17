@@ -3436,5 +3436,23 @@
     "megbizhatosag": 0.6937500000000001,
     "becsult_elony_szazalek": 16.336145,
     "iroda": "DraftKings"
+  },
+  {
+    "tet_id": "ff378ffddda593bf",
+    "esemeny_id": "a83c18c30a848123",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Cleveland Guardians",
+    "vendeg": "Tampa Bay Rays",
+    "kimenetel": "Cleveland Guardians",
+    "meresi_pont_ora": 6,
+    "adat_ideje": "2026-10-17T17:28:49.567385+00:00",
+    "esemeny_ideje": "2026-10-18T00:00:00+00:00",
+    "szorzo": 1.9345794392523366,
+    "becsult_esely": 0.533593,
+    "piaci_esely": 0.49454957704717883,
+    "megbizhatosag": 0.6937500000000001,
+    "becsult_elony_szazalek": 3.227805,
+    "iroda": "DraftKings"
   }
 ]
