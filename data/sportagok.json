@@ -8,7 +8,7 @@
   },
   "elo_allapotok": {
     "ILLESZTES_HIANYZIK": 6,
-    "PAPER_UTVONAL_ELO_BIZONYITOTT": 1,
+    "MODELL_ELO_BIZONYITOTT": 1,
     "SPORTADAT_HIANYZIK": 6,
     "VAR_AKTIV_ODDSRA": 35
   },
@@ -20,7 +20,7 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "ILLESZTES_HIANYZIK",
-      "odds": 80,
+      "odds": 81,
       "sportadat": 43,
       "ellenorzott": 0,
       "aktiv_modell": 0,
@@ -89,13 +89,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "PAPER_UTVONAL_ELO_BIZONYITOTT",
+      "elo_allapot": "MODELL_ELO_BIZONYITOTT",
       "odds": 268,
       "sportadat": 223,
-      "ellenorzott": 1,
+      "ellenorzott": 0,
       "aktiv_modell": 1,
-      "portfolio": 1,
-      "kovetkezo_teendo": "élő esemény portfólióig jutott"
+      "portfolio": 0,
+      "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
     {
       "sportag": "basketball",
@@ -105,7 +105,7 @@
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "ILLESZTES_HIANYZIK",
       "odds": 23,
-      "sportadat": 44,
+      "sportadat": 45,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
@@ -399,7 +399,7 @@
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "ILLESZTES_HIANYZIK",
       "odds": 16,
-      "sportadat": 22,
+      "sportadat": 31,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
