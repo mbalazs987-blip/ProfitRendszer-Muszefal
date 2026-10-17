@@ -7,10 +7,10 @@
     "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR": 14
   },
   "elo_allapotok": {
-    "ILLESZTES_HIANYZIK": 3,
-    "PAPER_UTVONAL_ELO_BIZONYITOTT": 2,
-    "SPORTADAT_HIANYZIK": 7,
-    "VAR_AKTIV_ODDSRA": 36
+    "ILLESZTES_HIANYZIK": 6,
+    "PAPER_UTVONAL_ELO_BIZONYITOTT": 1,
+    "SPORTADAT_HIANYZIK": 6,
+    "VAR_AKTIV_ODDSRA": 35
   },
   "sportagak": [
     {
@@ -20,8 +20,8 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "ILLESZTES_HIANYZIK",
-      "odds": 68,
-      "sportadat": 31,
+      "odds": 80,
+      "sportadat": 43,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
@@ -90,11 +90,11 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "PAPER_UTVONAL_ELO_BIZONYITOTT",
-      "odds": 267,
-      "sportadat": 274,
-      "ellenorzott": 15,
-      "aktiv_modell": 25,
-      "portfolio": 11,
+      "odds": 268,
+      "sportadat": 223,
+      "ellenorzott": 1,
+      "aktiv_modell": 1,
+      "portfolio": 1,
       "kovetkezo_teendo": "élő esemény portfólióig jutott"
     },
     {
@@ -103,13 +103,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "SPORTADAT_HIANYZIK",
-      "odds": 11,
-      "sportadat": 0,
+      "elo_allapot": "ILLESZTES_HIANYZIK",
+      "odds": 23,
+      "sportadat": 44,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "odds-független sportadat út létezik-e/történeti lefedettség hiányzik-e diagnosztizálandó"
+      "kovetkezo_teendo": "esemény- és résztvevőillesztés javítása/regressziós teszt"
     },
     {
       "sportag": "beach_soccer",
@@ -397,13 +397,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
-      "odds": 0,
-      "sportadat": 0,
+      "elo_allapot": "ILLESZTES_HIANYZIK",
+      "odds": 16,
+      "sportadat": 22,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges"
+      "kovetkezo_teendo": "esemény- és résztvevőillesztés javítása/regressziós teszt"
     },
     {
       "sportag": "horse_racing",
@@ -469,7 +469,7 @@
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "ILLESZTES_HIANYZIK",
       "odds": 34,
-      "sportadat": 55,
+      "sportadat": 63,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
@@ -579,13 +579,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "PAPER_UTVONAL_ELO_BIZONYITOTT",
-      "odds": 392,
-      "sportadat": 29,
-      "ellenorzott": 1,
-      "aktiv_modell": 1,
-      "portfolio": 1,
-      "kovetkezo_teendo": "élő esemény portfólióig jutott"
+      "elo_allapot": "ILLESZTES_HIANYZIK",
+      "odds": 402,
+      "sportadat": 38,
+      "ellenorzott": 0,
+      "aktiv_modell": 0,
+      "portfolio": 0,
+      "kovetkezo_teendo": "esemény- és résztvevőillesztés javítása/regressziós teszt"
     },
     {
       "sportag": "speed_skating",
@@ -651,7 +651,7 @@
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "ILLESZTES_HIANYZIK",
       "odds": 18,
-      "sportadat": 930,
+      "sportadat": 1160,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
