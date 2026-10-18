@@ -2492,5 +2492,34 @@
     "szorzo_elony_szazalek": 0.0,
     "modell_verzio": "sportmodell-2.8-soccer-calibrated-coverage-shrink",
     "aktualis_modellkorszak": true
+  },
+  {
+    "id": "c4bb01b4952d434d",
+    "esemeny_id": "627ee6590d766505",
+    "sportag": "baseball",
+    "piac": "moneyline",
+    "hazai": "Cleveland Guardians",
+    "vendeg": "Tampa Bay Rays",
+    "resztvevok": [
+      "Cleveland Guardians",
+      "Tampa Bay Rays"
+    ],
+    "kimenetel": "Cleveland Guardians",
+    "szorzo": 2.13,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-10-18T10:10:46.032289+00:00",
+    "esemeny_ideje": "2026-10-18T21:00:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.533593,
+    "piaci_esely": 0.44894232232536907,
+    "varhato_ertek_szazalek": 13.655309,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
+    "aktualis_modellkorszak": true
   }
 ]
