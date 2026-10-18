@@ -3454,5 +3454,23 @@
     "megbizhatosag": 0.6937500000000001,
     "becsult_elony_szazalek": 3.227805,
     "iroda": "DraftKings"
+  },
+  {
+    "tet_id": "39f98d059da38f96",
+    "esemeny_id": "824ad46c81f49695",
+    "sportag": "soccer",
+    "piac": "moneyline",
+    "hazai": "Tottenham Hotspur",
+    "vendeg": "Coventry City",
+    "kimenetel": "Coventry City",
+    "meresi_pont_ora": 24,
+    "adat_ideje": "2026-10-18T18:47:54.816942+00:00",
+    "esemeny_ideje": "2026-10-19T19:00:00+00:00",
+    "szorzo": 6.0,
+    "becsult_esely": 0.380671,
+    "piaci_esely": 0.1586206896551724,
+    "megbizhatosag": 0.6937500000000001,
+    "becsult_elony_szazalek": 128.4026,
+    "iroda": "DraftKings"
   }
 ]
