@@ -2479,9 +2479,9 @@
     "szorzo": 6.0,
     "tet_szazalek": 0.02,
     "tet_osszeg": 2.0,
-    "statusz": "NYITOTT",
-    "eredmeny": null,
-    "nyereseg_veszteseg": 0.0,
+    "statusz": "LEZART",
+    "eredmeny": "VESZTETT",
+    "nyereseg_veszteseg": -2.0,
     "dontesi_ido": "2026-10-18T01:36:00.013993+00:00",
     "esemeny_ideje": "2026-10-19T19:00:00+00:00",
     "iroda": "DraftKings",
@@ -2520,6 +2520,35 @@
     "megbizhatosag": 0.6937500000000001,
     "szorzo_elony_szazalek": 0.0,
     "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
+    "aktualis_modellkorszak": true
+  },
+  {
+    "id": "cc1c46777fbcffea",
+    "esemeny_id": "5ebbfb5476faf55b",
+    "sportag": "soccer",
+    "piac": "moneyline",
+    "hazai": "Goiás",
+    "vendeg": "Nautico PE",
+    "resztvevok": [
+      "Goiás",
+      "Nautico PE"
+    ],
+    "kimenetel": "Nautico PE",
+    "szorzo": 5.6,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-10-19T22:25:10.304450+00:00",
+    "esemeny_ideje": "2026-10-19T22:30:00+00:00",
+    "iroda": "Unibet (SE)",
+    "becsult_esely": 0.347507,
+    "piaci_esely": 0.1904722352223427,
+    "varhato_ertek_szazalek": 94.60392,
+    "megbizhatosag": 0.933985915328621,
+    "szorzo_elony_szazalek": 16.303219,
+    "modell_verzio": "sportmodell-2.8-soccer-calibrated-coverage-shrink",
     "aktualis_modellkorszak": true
   }
 ]
