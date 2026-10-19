@@ -2550,5 +2550,34 @@
     "szorzo_elony_szazalek": 16.303219,
     "modell_verzio": "sportmodell-2.8-soccer-calibrated-coverage-shrink",
     "aktualis_modellkorszak": true
+  },
+  {
+    "id": "c1b09d2d5ea38078",
+    "esemeny_id": "905fa53f3f51d992",
+    "sportag": "soccer",
+    "piac": "moneyline",
+    "hazai": "Deportivo Riestra",
+    "vendeg": "Union Santa Fe",
+    "resztvevok": [
+      "Deportivo Riestra",
+      "Union Santa Fe"
+    ],
+    "kimenetel": "Union Santa Fe",
+    "szorzo": 3.75,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-10-19T22:51:55.531784+00:00",
+    "esemeny_ideje": "2026-10-20T00:15:00+00:00",
+    "iroda": "Betfair",
+    "becsult_esely": 0.386191,
+    "piaci_esely": 0.26840473182496843,
+    "varhato_ertek_szazalek": 44.821625,
+    "megbizhatosag": 0.9666096487656156,
+    "szorzo_elony_szazalek": 8.695652,
+    "modell_verzio": "sportmodell-2.8-soccer-calibrated-coverage-shrink",
+    "aktualis_modellkorszak": true
   }
 ]
