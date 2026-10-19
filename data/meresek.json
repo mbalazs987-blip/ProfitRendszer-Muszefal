@@ -3490,5 +3490,23 @@
     "megbizhatosag": 0.6937500000000001,
     "becsult_elony_szazalek": 118.885825,
     "iroda": "DraftKings"
+  },
+  {
+    "tet_id": "c1b09d2d5ea38078",
+    "esemeny_id": "905fa53f3f51d992",
+    "sportag": "soccer",
+    "piac": "moneyline",
+    "hazai": "Deportivo Riestra",
+    "vendeg": "Union Santa Fe",
+    "kimenetel": "Union Santa Fe",
+    "meresi_pont_ora": 1,
+    "adat_ideje": "2026-10-19T22:36:57+00:00",
+    "esemeny_ideje": "2026-10-20T00:15:00+00:00",
+    "szorzo": 3.75,
+    "becsult_esely": 0.386191,
+    "piaci_esely": 0.26840473182496843,
+    "megbizhatosag": 0.9666096487656156,
+    "becsult_elony_szazalek": 44.821625,
+    "iroda": "Betfair"
   }
 ]
