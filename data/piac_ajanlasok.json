@@ -1,10 +1,10 @@
 {
-  "frissitve": "2026-10-21T05:46:25.078791+00:00",
+  "frissitve": "2026-10-21T07:05:18.285234+00:00",
   "osszesito": {
     "osszes": 899,
     "elegendo_adatu": 52,
-    "ajanlhato": 23,
-    "kizart": 876
+    "ajanlhato": 22,
+    "kizart": 877
   },
   "ajanlasok": [
     {
@@ -1097,11 +1097,11 @@
       "valasztas": "Levante",
       "kimenetel": "Levante",
       "vonal": null,
-      "szorzo": 3.65,
+      "szorzo": 3.55,
       "becsult_esely": null,
       "visszajar_valoszinuseg": 0.0,
       "tenyleges_nyeresi_valoszinuseg": null,
-      "piaci_esely": 0.2605320458203162,
+      "piaci_esely": 0.2683180485960102,
       "varhato_ertek_szazalek": null,
       "megbizhatosag": null,
       "elegendo_adat": false,
@@ -1109,7 +1109,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:17.725090+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:59.917536+00:00",
       "esemeny_ideje": "2026-10-21T18:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -1128,7 +1128,7 @@
       "becsult_esely": null,
       "visszajar_valoszinuseg": 0.0,
       "tenyleges_nyeresi_valoszinuseg": null,
-      "piaci_esely": 0.4422985894158857,
+      "piaci_esely": 0.44303677791434243,
       "varhato_ertek_szazalek": null,
       "megbizhatosag": null,
       "elegendo_adat": false,
@@ -1136,7 +1136,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:17.725090+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:59.917536+00:00",
       "esemeny_ideje": "2026-10-21T18:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -1151,11 +1151,11 @@
       "valasztas": "Draw",
       "kimenetel": "Draw",
       "vonal": null,
-      "szorzo": 3.2,
+      "szorzo": 3.3,
       "becsult_esely": null,
       "visszajar_valoszinuseg": 0.0,
       "tenyleges_nyeresi_valoszinuseg": null,
-      "piaci_esely": 0.2971693647637982,
+      "piaci_esely": 0.28864517348964736,
       "varhato_ertek_szazalek": null,
       "megbizhatosag": null,
       "elegendo_adat": false,
@@ -1163,7 +1163,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:17.725090+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:59.917536+00:00",
       "esemeny_ideje": "2026-10-21T18:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -1178,11 +1178,11 @@
       "valasztas": "Levante",
       "kimenetel": "Levante",
       "vonal": 0.5,
-      "szorzo": 1.6666666666666665,
+      "szorzo": 1.6896551724137931,
       "becsult_esely": null,
       "visszajar_valoszinuseg": 0.0,
       "tenyleges_nyeresi_valoszinuseg": null,
-      "piaci_esely": 0.5515695067264574,
+      "piaci_esely": 0.5481788842784694,
       "varhato_ertek_szazalek": null,
       "megbizhatosag": null,
       "elegendo_adat": false,
@@ -1190,7 +1190,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:17.725090+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:59.917536+00:00",
       "esemeny_ideje": "2026-10-21T18:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -1209,7 +1209,7 @@
       "becsult_esely": null,
       "visszajar_valoszinuseg": 0.0,
       "tenyleges_nyeresi_valoszinuseg": null,
-      "piaci_esely": 0.4484304932735426,
+      "piaci_esely": 0.4518211157215307,
       "varhato_ertek_szazalek": null,
       "megbizhatosag": null,
       "elegendo_adat": false,
@@ -1217,7 +1217,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:17.725090+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:59.917536+00:00",
       "esemeny_ideje": "2026-10-21T18:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -1236,7 +1236,7 @@
       "becsult_esely": null,
       "visszajar_valoszinuseg": 0.0,
       "tenyleges_nyeresi_valoszinuseg": null,
-      "piaci_esely": 0.4782608695652174,
+      "piaci_esely": 0.47368421052631576,
       "varhato_ertek_szazalek": null,
       "megbizhatosag": null,
       "elegendo_adat": false,
@@ -1244,7 +1244,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:17.725090+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:59.917536+00:00",
       "esemeny_ideje": "2026-10-21T18:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -1259,11 +1259,11 @@
       "valasztas": "Under",
       "kimenetel": "Under",
       "vonal": 2.5,
-      "szorzo": 1.8333333333333335,
+      "szorzo": 1.8,
       "becsult_esely": null,
       "visszajar_valoszinuseg": 0.0,
       "tenyleges_nyeresi_valoszinuseg": null,
-      "piaci_esely": 0.5217391304347826,
+      "piaci_esely": 0.5263157894736842,
       "varhato_ertek_szazalek": null,
       "megbizhatosag": null,
       "elegendo_adat": false,
@@ -1271,7 +1271,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:17.725090+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:59.917536+00:00",
       "esemeny_ideje": "2026-10-21T18:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -1298,7 +1298,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -1325,7 +1325,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -1406,7 +1406,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:00:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -1433,7 +1433,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:00:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -1460,7 +1460,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -1487,7 +1487,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -1622,7 +1622,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -1649,7 +1649,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -1676,7 +1676,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -1703,7 +1703,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -1730,7 +1730,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -1757,7 +1757,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -1772,11 +1772,11 @@
       "valasztas": "Brooklyn Nets",
       "kimenetel": "Brooklyn Nets",
       "vonal": null,
-      "szorzo": 1.704225352112676,
+      "szorzo": 1.8,
       "becsult_esely": null,
       "visszajar_valoszinuseg": 0.0,
       "tenyleges_nyeresi_valoszinuseg": null,
-      "piaci_esely": 0.5634920634920635,
+      "piaci_esely": 0.5324675324675325,
       "varhato_ertek_szazalek": null,
       "megbizhatosag": null,
       "elegendo_adat": false,
@@ -1784,7 +1784,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -1799,11 +1799,11 @@
       "valasztas": "Charlotte Hornets",
       "kimenetel": "Charlotte Hornets",
       "vonal": null,
-      "szorzo": 2.2,
+      "szorzo": 2.05,
       "becsult_esely": null,
       "visszajar_valoszinuseg": 0.0,
       "tenyleges_nyeresi_valoszinuseg": null,
-      "piaci_esely": 0.43650793650793646,
+      "piaci_esely": 0.4675324675324676,
       "varhato_ertek_szazalek": null,
       "megbizhatosag": null,
       "elegendo_adat": false,
@@ -1811,7 +1811,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -1946,7 +1946,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -1973,7 +1973,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -2000,7 +2000,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -2027,7 +2027,7 @@
       "rangsor_pont": 998,
       "rangsor": 2,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -2054,7 +2054,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -2081,7 +2081,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -2108,7 +2108,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -2135,7 +2135,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -2270,7 +2270,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -2297,7 +2297,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -2324,7 +2324,7 @@
       "rangsor_pont": 998,
       "rangsor": 2,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -2351,7 +2351,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -2432,7 +2432,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -2459,7 +2459,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -2540,7 +2540,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -2567,7 +2567,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -4581,18 +4581,18 @@
       "kimenetel": "Brooklyn Nets",
       "vonal": -1.5,
       "szorzo": 1.8695652173913042,
-      "becsult_esely": 0.23,
+      "becsult_esely": 0.365194,
       "visszajar_valoszinuseg": 0.0,
-      "tenyleges_nyeresi_valoszinuseg": 0.23,
+      "tenyleges_nyeresi_valoszinuseg": 0.365194,
       "piaci_esely": 0.25552009252145175,
-      "varhato_ertek_szazalek": -57.0,
+      "varhato_ertek_szazalek": -31.7246,
       "megbizhatosag": 0.6,
       "elegendo_adat": false,
       "ajanlhato": false,
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-20T10:37:03.791405+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "a sportmodell-szerződés hiányos, eltér a piaci kimenetelekkel, vagy a valószínűségek összege nem 100%",
       "indoklas": "a sportmodell-szerződés hiányos, eltér a piaci kimenetelekkel, vagy a valószínűségek összege nem 100%"
@@ -4608,18 +4608,18 @@
       "kimenetel": "Charlotte Hornets",
       "vonal": 1.5,
       "szorzo": 1.9523809523809523,
-      "becsult_esely": 0.77,
+      "becsult_esely": 0.634806,
       "visszajar_valoszinuseg": 0.0,
-      "tenyleges_nyeresi_valoszinuseg": 0.77,
+      "tenyleges_nyeresi_valoszinuseg": 0.634806,
       "piaci_esely": 0.2446814883848048,
-      "varhato_ertek_szazalek": 50.3333,
+      "varhato_ertek_szazalek": 23.9383,
       "megbizhatosag": 0.6,
       "elegendo_adat": false,
       "ajanlhato": false,
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-20T10:37:03.791405+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "a modell és a piac becslése több mint 25 százalékponttal eltér; biztonsági kizárás",
       "indoklas": "a modell és a piac becslése több mint 25 százalékponttal eltér; biztonsági kizárás"
@@ -4700,7 +4700,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T00:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -4727,7 +4727,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T00:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -4796,19 +4796,19 @@
       "valasztas": "Over",
       "kimenetel": "Over",
       "vonal": 229.5,
-      "szorzo": 1.9523809523809523,
+      "szorzo": 1.8928571428571428,
       "becsult_esely": 0.55,
       "visszajar_valoszinuseg": 0.0,
       "tenyleges_nyeresi_valoszinuseg": 0.55,
-      "piaci_esely": 0.4891657638136511,
-      "varhato_ertek_szazalek": 7.381,
+      "piaci_esely": 0.5043297540699689,
+      "varhato_ertek_szazalek": 4.1071,
       "megbizhatosag": 0.6,
       "elegendo_adat": true,
       "ajanlhato": true,
       "rangsor_pont": 998,
       "rangsor": 2,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T00:30:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -4823,19 +4823,19 @@
       "valasztas": "Under",
       "kimenetel": "Under",
       "vonal": 229.5,
-      "szorzo": 1.8695652173913042,
+      "szorzo": 1.925925925925926,
       "becsult_esely": 0.45,
       "visszajar_valoszinuseg": 0.0,
       "tenyleges_nyeresi_valoszinuseg": 0.45,
-      "piaci_esely": 0.5108342361863489,
-      "varhato_ertek_szazalek": -15.8696,
+      "piaci_esely": 0.4956702459300312,
+      "varhato_ertek_szazalek": -13.3333,
       "megbizhatosag": 0.6,
       "elegendo_adat": true,
       "ajanlhato": false,
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T00:30:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -4862,7 +4862,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T02:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -4889,7 +4889,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T02:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -5024,7 +5024,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T02:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -5051,7 +5051,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T02:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -5186,7 +5186,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T02:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -5213,7 +5213,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T02:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -5240,7 +5240,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T02:30:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -5267,7 +5267,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T02:30:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -5294,7 +5294,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T02:30:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -5321,7 +5321,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T02:30:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -5618,7 +5618,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": "a modell és a piac becslése több mint 25 százalékponttal eltér; biztonsági kizárás",
       "indoklas": "a modell és a piac becslése több mint 25 százalékponttal eltér; biztonsági kizárás"
@@ -5645,7 +5645,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": "a sportmodell-szerződés hiányos, eltér a piaci kimenetelekkel, vagy a valószínűségek összege nem 100%",
       "indoklas": "a sportmodell-szerződés hiányos, eltér a piaci kimenetelekkel, vagy a valószínűségek összege nem 100%"
@@ -6212,7 +6212,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:00:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -6239,7 +6239,7 @@
       "rangsor_pont": 998,
       "rangsor": 2,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:00:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -15149,7 +15149,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T02:00:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -15176,7 +15176,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T02:00:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -16931,7 +16931,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -16958,7 +16958,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -16985,7 +16985,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T23:00:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -17012,7 +17012,7 @@
       "rangsor_pont": 998,
       "rangsor": 2,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T23:00:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -17039,7 +17039,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T23:00:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -17066,7 +17066,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T23:00:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -17093,7 +17093,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-23T01:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -17120,7 +17120,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-23T01:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -17147,7 +17147,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-23T01:30:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -17174,7 +17174,7 @@
       "rangsor_pont": 998,
       "rangsor": 2,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-23T01:30:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -17201,7 +17201,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-23T01:30:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -17228,7 +17228,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-23T01:30:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -17244,21 +17244,21 @@
       "kimenetel": "Chicago Bears",
       "vonal": null,
       "szorzo": 1.6451612903225805,
-      "becsult_esely": 0.503318,
+      "becsult_esely": 0.47755,
       "visszajar_valoszinuseg": 0.0,
-      "tenyleges_nyeresi_valoszinuseg": 0.503318,
+      "tenyleges_nyeresi_valoszinuseg": 0.47755,
       "piaci_esely": 0.5829926410466066,
-      "varhato_ertek_szazalek": -17.1961,
+      "varhato_ertek_szazalek": -21.4353,
       "megbizhatosag": 0.6162,
       "elegendo_adat": true,
       "ajanlhato": false,
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:45.180976+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:25.992637+00:00",
       "esemeny_ideje": "2026-10-23T00:15:00+00:00",
-      "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
-      "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
+      "kizarasi_ok": "Javasolt fogadási forma: moneyline; Javasolt kimenetel: New England Patriots; Szorzó: 2.30; Becsült esély: 52.2%; Becsült előny: +10.5 százalékpont; Megbízhatóság: erős",
+      "indoklas": "Javasolt fogadási forma: moneyline; Javasolt kimenetel: New England Patriots; Szorzó: 2.30; Becsült esély: 52.2%; Becsült előny: +10.5 százalékpont; Megbízhatóság: erős"
     },
     {
       "esemeny_id": "8e70821102ff1e9e",
@@ -17271,21 +17271,21 @@
       "kimenetel": "New England Patriots",
       "vonal": null,
       "szorzo": 2.3,
-      "becsult_esely": 0.496682,
+      "becsult_esely": 0.52245,
       "visszajar_valoszinuseg": 0.0,
-      "tenyleges_nyeresi_valoszinuseg": 0.496682,
+      "tenyleges_nyeresi_valoszinuseg": 0.52245,
       "piaci_esely": 0.41700735895339325,
-      "varhato_ertek_szazalek": 14.2369,
+      "varhato_ertek_szazalek": 20.1635,
       "megbizhatosag": 0.6162,
       "elegendo_adat": true,
-      "ajanlhato": true,
-      "rangsor_pont": 999,
-      "rangsor": 1,
+      "ajanlhato": false,
+      "rangsor_pont": null,
+      "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:45.180976+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:25.992637+00:00",
       "esemeny_ideje": "2026-10-23T00:15:00+00:00",
-      "kizarasi_ok": null,
-      "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
+      "kizarasi_ok": "Javasolt fogadási forma: moneyline; Javasolt kimenetel: New England Patriots; Szorzó: 2.30; Becsült esély: 52.2%; Becsült előny: +10.5 százalékpont; Megbízhatóság: erős",
+      "indoklas": "Javasolt fogadási forma: moneyline; Javasolt kimenetel: New England Patriots; Szorzó: 2.30; Becsült esély: 52.2%; Becsült előny: +10.5 százalékpont; Megbízhatóság: erős"
     },
     {
       "esemeny_id": "8e70821102ff1e9e",
@@ -17309,7 +17309,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:45.180976+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:25.992637+00:00",
       "esemeny_ideje": "2026-10-23T00:15:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -17336,7 +17336,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:45.180976+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:25.992637+00:00",
       "esemeny_ideje": "2026-10-23T00:15:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -17363,7 +17363,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:45.180976+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:25.992637+00:00",
       "esemeny_ideje": "2026-10-23T00:15:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -17390,7 +17390,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:45.180976+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:25.992637+00:00",
       "esemeny_ideje": "2026-10-23T00:15:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -17417,7 +17417,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -17444,7 +17444,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -17471,7 +17471,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -17498,7 +17498,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -17525,7 +17525,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -17552,7 +17552,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -17579,7 +17579,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -17606,7 +17606,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -17741,7 +17741,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -17768,7 +17768,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -17849,7 +17849,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -17876,7 +17876,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -19901,7 +19901,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:50:04.717146+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:46.445887+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -19928,7 +19928,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:50:04.717146+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:46.445887+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -19955,7 +19955,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:50:04.717146+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:46.445887+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -19982,7 +19982,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:50:04.717146+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:46.445887+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -20699,11 +20699,11 @@
       "valasztas": "Over",
       "kimenetel": "Over",
       "vonal": 151.5,
-      "szorzo": 1.925925925925926,
+      "szorzo": 1.8928571428571428,
       "becsult_esely": null,
       "visszajar_valoszinuseg": 0.0,
       "tenyleges_nyeresi_valoszinuseg": null,
-      "piaci_esely": 0.4956702459300312,
+      "piaci_esely": 0.5043297540699689,
       "varhato_ertek_szazalek": null,
       "megbizhatosag": null,
       "elegendo_adat": false,
@@ -20711,7 +20711,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:50:04.717146+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:46.445887+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -20726,11 +20726,11 @@
       "valasztas": "Under",
       "kimenetel": "Under",
       "vonal": 151.5,
-      "szorzo": 1.8928571428571428,
+      "szorzo": 1.925925925925926,
       "becsult_esely": null,
       "visszajar_valoszinuseg": 0.0,
       "tenyleges_nyeresi_valoszinuseg": null,
-      "piaci_esely": 0.5043297540699689,
+      "piaci_esely": 0.4956702459300312,
       "varhato_ertek_szazalek": null,
       "megbizhatosag": null,
       "elegendo_adat": false,
@@ -20738,7 +20738,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:50:04.717146+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:46.445887+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -20819,7 +20819,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -20846,7 +20846,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -20873,7 +20873,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:00:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -20900,7 +20900,7 @@
       "rangsor_pont": 998,
       "rangsor": 2,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:00:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -20981,7 +20981,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -21008,7 +21008,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -21035,7 +21035,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:52.915308+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:34.706820+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -21062,7 +21062,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:52.915308+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:34.706820+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -21089,7 +21089,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:52.915308+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:34.706820+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -21116,7 +21116,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:52.915308+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:34.706820+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -21143,7 +21143,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:52.915308+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:34.706820+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -21170,7 +21170,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:52.915308+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:34.706820+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -21197,7 +21197,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:52.915308+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:34.706820+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -21224,7 +21224,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:52.915308+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:34.706820+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -21305,7 +21305,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:52.915308+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:34.706820+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -21332,7 +21332,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:52.915308+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:34.706820+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -21359,7 +21359,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:26.901741+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:08.351750+00:00",
       "esemeny_ideje": "2026-10-23T18:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -21386,7 +21386,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:26.901741+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:08.351750+00:00",
       "esemeny_ideje": "2026-10-23T18:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -21413,7 +21413,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:26.901741+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:08.351750+00:00",
       "esemeny_ideje": "2026-10-23T18:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -21440,7 +21440,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:26.901741+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:08.351750+00:00",
       "esemeny_ideje": "2026-10-23T18:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -21467,7 +21467,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:26.901741+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:08.351750+00:00",
       "esemeny_ideje": "2026-10-23T18:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -21494,7 +21494,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:26.901741+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:08.351750+00:00",
       "esemeny_ideje": "2026-10-23T18:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -21521,7 +21521,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:26.901741+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:08.351750+00:00",
       "esemeny_ideje": "2026-10-23T18:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -21548,7 +21548,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -21575,7 +21575,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -21602,7 +21602,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -21629,7 +21629,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -21656,7 +21656,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:00:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -21683,7 +21683,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:00:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -21764,7 +21764,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -21791,7 +21791,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -21818,7 +21818,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -21845,7 +21845,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -21926,7 +21926,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T03:39:18.533476+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:34.706820+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -21953,7 +21953,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T03:39:18.533476+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:34.706820+00:00",
       "esemeny_ideje": "2026-10-21T23:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -21980,7 +21980,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:09.450702+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:51.243106+00:00",
       "esemeny_ideje": "2026-10-23T19:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22007,7 +22007,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:09.450702+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:51.243106+00:00",
       "esemeny_ideje": "2026-10-23T19:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22034,7 +22034,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:09.450702+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:51.243106+00:00",
       "esemeny_ideje": "2026-10-23T19:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22061,7 +22061,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:09.450702+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:51.243106+00:00",
       "esemeny_ideje": "2026-10-23T19:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22088,7 +22088,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:09.450702+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:51.243106+00:00",
       "esemeny_ideje": "2026-10-23T19:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22115,7 +22115,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:09.450702+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:51.243106+00:00",
       "esemeny_ideje": "2026-10-23T19:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22142,7 +22142,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:09.450702+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:51.243106+00:00",
       "esemeny_ideje": "2026-10-23T19:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22169,7 +22169,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:17.725090+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:59.917536+00:00",
       "esemeny_ideje": "2026-10-23T19:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22196,7 +22196,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:17.725090+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:59.917536+00:00",
       "esemeny_ideje": "2026-10-23T19:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22223,7 +22223,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:17.725090+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:59.917536+00:00",
       "esemeny_ideje": "2026-10-23T19:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22250,7 +22250,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:17.725090+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:59.917536+00:00",
       "esemeny_ideje": "2026-10-23T19:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22277,7 +22277,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:17.725090+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:59.917536+00:00",
       "esemeny_ideje": "2026-10-23T19:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22304,7 +22304,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:17.725090+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:59.917536+00:00",
       "esemeny_ideje": "2026-10-23T19:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22331,7 +22331,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:17.725090+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:59.917536+00:00",
       "esemeny_ideje": "2026-10-23T19:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22358,7 +22358,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:35.673568+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:16.394271+00:00",
       "esemeny_ideje": "2026-10-23T18:45:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22385,7 +22385,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:35.673568+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:16.394271+00:00",
       "esemeny_ideje": "2026-10-23T18:45:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22412,7 +22412,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:35.673568+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:16.394271+00:00",
       "esemeny_ideje": "2026-10-23T18:45:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22439,7 +22439,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:35.673568+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:16.394271+00:00",
       "esemeny_ideje": "2026-10-23T18:45:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22466,7 +22466,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:35.673568+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:16.394271+00:00",
       "esemeny_ideje": "2026-10-23T18:45:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22493,7 +22493,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:35.673568+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:16.394271+00:00",
       "esemeny_ideje": "2026-10-23T18:45:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22520,7 +22520,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:35.673568+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:16.394271+00:00",
       "esemeny_ideje": "2026-10-23T18:45:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22547,7 +22547,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:43.251835+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:24.762374+00:00",
       "esemeny_ideje": "2026-10-23T18:45:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22574,7 +22574,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:43.251835+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:24.762374+00:00",
       "esemeny_ideje": "2026-10-23T18:45:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22601,7 +22601,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:43.251835+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:24.762374+00:00",
       "esemeny_ideje": "2026-10-23T18:45:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22628,7 +22628,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:43.251835+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:24.762374+00:00",
       "esemeny_ideje": "2026-10-23T18:45:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22655,7 +22655,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:43.251835+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:24.762374+00:00",
       "esemeny_ideje": "2026-10-23T18:45:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22682,7 +22682,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:43.251835+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:24.762374+00:00",
       "esemeny_ideje": "2026-10-23T18:45:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22709,7 +22709,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:43.251835+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:24.762374+00:00",
       "esemeny_ideje": "2026-10-23T18:45:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22736,7 +22736,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22763,7 +22763,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-22T00:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22790,7 +22790,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:16.636279+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:11:55.048579+00:00",
       "esemeny_ideje": "2026-10-24T00:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22817,7 +22817,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:16.636279+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:11:55.048579+00:00",
       "esemeny_ideje": "2026-10-24T00:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22844,7 +22844,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:16.636279+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:11:55.048579+00:00",
       "esemeny_ideje": "2026-10-24T00:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22871,7 +22871,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:16.636279+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:11:55.048579+00:00",
       "esemeny_ideje": "2026-10-24T00:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -22952,7 +22952,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T00:30:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -22979,7 +22979,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T00:30:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -23006,7 +23006,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T02:00:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -23033,7 +23033,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T02:00:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -23060,7 +23060,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T02:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23087,7 +23087,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T02:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23114,7 +23114,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-23T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23141,7 +23141,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-23T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23168,7 +23168,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-23T23:00:00+00:00",
       "kizarasi_ok": "egyik vizsgált fogadási forma sem érte el az aktuális rangsorolási szabályt, az engedélyezett PAPER mérési irodaszámot vagy a teljes modell/piaci szerződést; a 25 százalékpontnál nagyobb modell–piac eltérés automatikusan kiesik",
       "indoklas": "egyik vizsgált fogadási forma sem érte el az aktuális rangsorolási szabályt, az engedélyezett PAPER mérési irodaszámot vagy a teljes modell/piaci szerződést; a 25 százalékpontnál nagyobb modell–piac eltérés automatikusan kiesik"
@@ -23195,7 +23195,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-23T23:00:00+00:00",
       "kizarasi_ok": "egyik vizsgált fogadási forma sem érte el az aktuális rangsorolási szabályt, az engedélyezett PAPER mérési irodaszámot vagy a teljes modell/piaci szerződést; a 25 százalékpontnál nagyobb modell–piac eltérés automatikusan kiesik",
       "indoklas": "egyik vizsgált fogadási forma sem érte el az aktuális rangsorolási szabályt, az engedélyezett PAPER mérési irodaszámot vagy a teljes modell/piaci szerződést; a 25 százalékpontnál nagyobb modell–piac eltérés automatikusan kiesik"
@@ -23222,7 +23222,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-23T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23249,7 +23249,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-23T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23276,7 +23276,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-24T01:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23303,7 +23303,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-24T01:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23330,7 +23330,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-24T01:30:00+00:00",
       "kizarasi_ok": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé",
       "indoklas": "a piac nem került be az esemény biztonságosan ajánlott lehetőségei közé"
@@ -23357,7 +23357,7 @@
       "rangsor_pont": 999,
       "rangsor": 1,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-24T01:30:00+00:00",
       "kizarasi_ok": null,
       "indoklas": "az eseményszintű piacválasztó ezt a lehetőséget ajánlotta"
@@ -23384,7 +23384,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-24T01:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23411,7 +23411,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-24T01:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23438,7 +23438,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-23T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23465,7 +23465,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-23T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23492,7 +23492,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-23T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23519,7 +23519,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-23T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23546,7 +23546,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-23T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23573,7 +23573,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-23T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23600,7 +23600,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-23T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23627,7 +23627,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-23T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23654,7 +23654,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-23T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23681,7 +23681,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-23T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23708,7 +23708,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-23T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23735,7 +23735,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-23T23:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23762,7 +23762,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-24T00:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23789,7 +23789,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-24T00:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23816,7 +23816,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-24T00:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23843,7 +23843,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-24T00:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23870,7 +23870,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-24T00:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23897,7 +23897,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-24T00:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23924,7 +23924,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-24T01:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23951,7 +23951,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-24T01:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -23978,7 +23978,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-24T01:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -24005,7 +24005,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-24T01:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -24032,7 +24032,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-24T01:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -24059,7 +24059,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-24T01:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -24086,7 +24086,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T02:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -24113,7 +24113,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:48:23.592180+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:12:03.604415+00:00",
       "esemeny_ideje": "2026-10-22T02:00:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -24140,7 +24140,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-24T02:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -24167,7 +24167,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-24T02:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -24194,7 +24194,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-24T02:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -24221,7 +24221,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-24T02:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -24248,7 +24248,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-24T02:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
@@ -24275,7 +24275,7 @@
       "rangsor_pont": null,
       "rangsor": null,
       "iroda_db": 1,
-      "piaci_adat_ideje": "2026-10-21T04:49:51.438746+00:00",
+      "piaci_adat_ideje": "2026-10-21T06:13:33.304576+00:00",
       "esemeny_ideje": "2026-10-24T02:30:00+00:00",
       "kizarasi_ok": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség",
       "indoklas": "nincs friss, ellenőrzött, sportágazonos sportmodell-valószínűség"
