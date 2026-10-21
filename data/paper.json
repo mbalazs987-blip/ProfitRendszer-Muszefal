@@ -2811,5 +2811,34 @@
     "szorzo_elony_szazalek": 0.0,
     "modell_verzio": "sportmodell-2.12-basketball-score-distribution-push",
     "aktualis_modellkorszak": false
+  },
+  {
+    "id": "7e23e74af1acea0f",
+    "esemeny_id": "8e70821102ff1e9e",
+    "sportag": "american_football",
+    "piac": "moneyline",
+    "hazai": "Chicago Bears",
+    "vendeg": "New England Patriots",
+    "resztvevok": [
+      "Chicago Bears",
+      "New England Patriots"
+    ],
+    "kimenetel": "New England Patriots",
+    "szorzo": 2.3,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-10-21T12:32:29.159414+00:00",
+    "esemeny_ideje": "2026-10-23T00:15:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.563607,
+    "piaci_esely": 0.41700735895339325,
+    "varhato_ertek_szazalek": 29.62961,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
+    "aktualis_modellkorszak": true
   }
 ]
