@@ -7,9 +7,11 @@
     "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR": 14
   },
   "elo_allapotok": {
-    "ILLESZTES_HIANYZIK": 5,
-    "MODELL_ELO_BIZONYITOTT": 1,
-    "VAR_AKTIV_ODDSRA": 42
+    "AKTIV_MODELL_HIANYZIK": 1,
+    "MODELLBEMENET_KAPUN_ELAKADT": 5,
+    "MODELL_ELO_BIZONYITOTT": 2,
+    "SPORTADAT_HIANYZIK": 2,
+    "VAR_AKTIV_ODDSRA": 38
   },
   "sportagak": [
     {
@@ -19,10 +21,10 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 10,
-      "sportadat": 5,
-      "ellenorzott": 1,
-      "aktiv_modell": 1,
+      "odds": 40,
+      "sportadat": 31,
+      "ellenorzott": 4,
+      "aktiv_modell": 4,
       "portfolio": 0,
       "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
@@ -88,13 +90,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "ILLESZTES_HIANYZIK",
-      "odds": 1,
-      "sportadat": 2,
+      "elo_allapot": "MODELLBEMENET_KAPUN_ELAKADT",
+      "odds": 2,
+      "sportadat": 3,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "esemény- és résztvevőillesztés javítása/regressziós teszt"
+      "kovetkezo_teendo": "az eseményillesztés kész, de a modell előzmény-/tanítási kapuja nem engedte tovább"
     },
     {
       "sportag": "basketball",
@@ -102,13 +104,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "ILLESZTES_HIANYZIK",
-      "odds": 16,
-      "sportadat": 43,
+      "elo_allapot": "MODELLBEMENET_KAPUN_ELAKADT",
+      "odds": 44,
+      "sportadat": 49,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "esemény- és résztvevőillesztés javítása/regressziós teszt"
+      "kovetkezo_teendo": "az eseményillesztés kész, de a modell előzmény-/tanítási kapuja nem engedte tovább"
     },
     {
       "sportag": "beach_soccer",
@@ -186,13 +188,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
-      "odds": 0,
+      "elo_allapot": "SPORTADAT_HIANYZIK",
+      "odds": 2,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "odds-független sportadat út létezik-e/történeti lefedettség hiányzik-e diagnosztizálandó"
     },
     {
       "sportag": "chess",
@@ -214,13 +216,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
-      "odds": 0,
+      "elo_allapot": "SPORTADAT_HIANYZIK",
+      "odds": 4,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: FORRASHIBA"
+      "kovetkezo_teendo": "odds-független sportadat út létezik-e/történeti lefedettség hiányzik-e diagnosztizálandó"
     },
     {
       "sportag": "curling",
@@ -382,13 +384,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
-      "odds": 0,
+      "elo_allapot": "MODELLBEMENET_KAPUN_ELAKADT",
+      "odds": 4,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "az eseményillesztés kész, de a modell előzmény-/tanítási kapuja nem engedte tovább"
     },
     {
       "sportag": "hockey",
@@ -396,13 +398,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "ILLESZTES_HIANYZIK",
-      "odds": 2,
-      "sportadat": 39,
+      "elo_allapot": "MODELLBEMENET_KAPUN_ELAKADT",
+      "odds": 54,
+      "sportadat": 54,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "esemény- és résztvevőillesztés javítása/regressziós teszt"
+      "kovetkezo_teendo": "az eseményillesztés kész, de a modell előzmény-/tanítási kapuja nem engedte tovább"
     },
     {
       "sportag": "horse_racing",
@@ -466,13 +468,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "ILLESZTES_HIANYZIK",
-      "odds": 5,
+      "elo_allapot": "AKTIV_MODELL_HIANYZIK",
+      "odds": 26,
       "sportadat": 14,
-      "ellenorzott": 0,
+      "ellenorzott": 5,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "esemény- és résztvevőillesztés javítása/regressziós teszt"
+      "kovetkezo_teendo": "modelljellemző/minőség/szerződés-kapu diagnózis és javítás"
     },
     {
       "sportag": "motogp",
@@ -578,13 +580,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "ILLESZTES_HIANYZIK",
-      "odds": 16,
-      "sportadat": 20,
+      "elo_allapot": "MODELLBEMENET_KAPUN_ELAKADT",
+      "odds": 47,
+      "sportadat": 45,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "esemény- és résztvevőillesztés javítása/regressziós teszt"
+      "kovetkezo_teendo": "az eseményillesztés kész, de a modell előzmény-/tanítási kapuja nem engedte tovább"
     },
     {
       "sportag": "speed_skating",
@@ -648,13 +650,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
-      "odds": 0,
-      "sportadat": 24,
-      "ellenorzott": 0,
-      "aktiv_modell": 0,
+      "elo_allapot": "MODELL_ELO_BIZONYITOTT",
+      "odds": 6,
+      "sportadat": 22,
+      "ellenorzott": 2,
+      "aktiv_modell": 2,
       "portfolio": 0,
-      "kovetkezo_teendo": "sportadat van, de jelenleg nincs aktív odds-esemény; ingyenes odds-forrás: NINCS_KOZOLT_AR"
+      "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
     {
       "sportag": "volleyball",
