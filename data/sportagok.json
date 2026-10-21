@@ -7,9 +7,9 @@
     "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR": 14
   },
   "elo_allapotok": {
-    "ILLESZTES_HIANYZIK": 4,
+    "ILLESZTES_HIANYZIK": 5,
     "MODELL_ELO_BIZONYITOTT": 1,
-    "VAR_AKTIV_ODDSRA": 43
+    "VAR_AKTIV_ODDSRA": 42
   },
   "sportagak": [
     {
@@ -466,13 +466,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
-      "odds": 0,
+      "elo_allapot": "ILLESZTES_HIANYZIK",
+      "odds": 5,
       "sportadat": 14,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "sportadat van, de jelenleg nincs aktív odds-esemény; ingyenes odds-forrás: NINCS_JOVOBELI_ESEMENY"
+      "kovetkezo_teendo": "esemény- és résztvevőillesztés javítása/regressziós teszt"
     },
     {
       "sportag": "motogp",
@@ -579,8 +579,8 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "ILLESZTES_HIANYZIK",
-      "odds": 8,
-      "sportadat": 14,
+      "odds": 16,
+      "sportadat": 20,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
@@ -650,7 +650,7 @@
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "VAR_AKTIV_ODDSRA",
       "odds": 0,
-      "sportadat": 20,
+      "sportadat": 24,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
