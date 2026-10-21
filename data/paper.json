@@ -2840,5 +2840,34 @@
     "szorzo_elony_szazalek": 0.0,
     "modell_verzio": "sportmodell-2.8-team-strength-coverage-shrink",
     "aktualis_modellkorszak": true
+  },
+  {
+    "id": "f62cb45d1fe5a220",
+    "esemeny_id": "b17c007e4dac0cfc",
+    "sportag": "tennis",
+    "piac": "moneyline",
+    "hazai": "Alexandra Eala",
+    "vendeg": "Diana Shnaider",
+    "resztvevok": [
+      "Alexandra Eala",
+      "Diana Shnaider"
+    ],
+    "kimenetel": "Alexandra Eala",
+    "szorzo": 2.3,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-10-21T22:50:21.867071+00:00",
+    "esemeny_ideje": "2026-10-22T08:00:00+00:00",
+    "iroda": "Betfair",
+    "becsult_esely": 0.504232,
+    "piaci_esely": 0.423076923076923,
+    "varhato_ertek_szazalek": 15.97336,
+    "megbizhatosag": 0.9892941624125549,
+    "szorzo_elony_szazalek": 2.222222,
+    "modell_verzio": "sportmodell-2.8-coverage-shrink",
+    "aktualis_modellkorszak": true
   }
 ]
