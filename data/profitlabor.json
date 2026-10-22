@@ -1,16 +1,16 @@
 {
   "teljes": {
-    "tetek": 90,
+    "tetek": 91,
     "nyert": 30,
-    "vesztett": 60,
+    "vesztett": 61,
     "visszajar": 0,
-    "megforgatott_toke": 175.2826,
-    "nyereseg_veszteseg": -21.5284,
-    "megterules_szazalek": -12.2821,
-    "talalati_arany_szazalek": 33.3333,
-    "atlag_szorzo": 4.446,
+    "megforgatott_toke": 177.2826,
+    "nyereseg_veszteseg": -23.5284,
+    "megterules_szazalek": -13.2717,
+    "talalati_arany_szazalek": 32.967,
+    "atlag_szorzo": 4.4184,
     "max_visszaeses": 47.0132,
-    "brier_pontszam": 0.222946
+    "brier_pontszam": 0.225662
   },
   "teljes_torteneti": {
     "tetek": null,
@@ -46,17 +46,17 @@
       "brier_pontszam": 0.242813
     },
     "basketball": {
-      "tetek": 7,
+      "tetek": 8,
       "nyert": 3,
-      "vesztett": 4,
+      "vesztett": 5,
       "visszajar": 0,
-      "megforgatott_toke": 14.0,
-      "nyereseg_veszteseg": 2.2048,
-      "megterules_szazalek": 15.7486,
-      "talalati_arany_szazalek": 42.8571,
-      "atlag_szorzo": 5.2289,
-      "max_visszaeses": 4.0,
-      "brier_pontszam": 0.180407
+      "megforgatott_toke": 16.0,
+      "nyereseg_veszteseg": 0.2048,
+      "megterules_szazalek": 1.28,
+      "talalati_arany_szazalek": 37.5,
+      "atlag_szorzo": 4.816,
+      "max_visszaeses": 4.3952,
+      "brier_pontszam": 0.216626
     },
     "lacrosse": {
       "tetek": 1,
