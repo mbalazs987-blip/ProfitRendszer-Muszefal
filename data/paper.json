@@ -3188,5 +3188,34 @@
     "szorzo_elony_szazalek": 0.0,
     "modell_verzio": "sportmodell-3.0-baseball-retrospektiv-v1",
     "aktualis_modellkorszak": false
+  },
+  {
+    "id": "f556bae6b0875fbf",
+    "esemeny_id": "2b9636750c0483d0",
+    "sportag": "tennis",
+    "piac": "moneyline",
+    "hazai": "Marie Bouzkova",
+    "vendeg": "Sara Bejlek",
+    "resztvevok": [
+      "Marie Bouzkova",
+      "Sara Bejlek"
+    ],
+    "kimenetel": "Sara Bejlek",
+    "szorzo": 2.48,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-10-22T10:32:33.117283+00:00",
+    "esemeny_ideje": "2026-10-23T05:00:00+00:00",
+    "iroda": "Betfair",
+    "becsult_esely": 0.495315,
+    "piaci_esely": 0.4029850746268657,
+    "varhato_ertek_szazalek": 22.83812,
+    "megbizhatosag": 0.98321060881063,
+    "szorzo_elony_szazalek": 6.437768,
+    "modell_verzio": "sportmodell-2.8-coverage-shrink",
+    "aktualis_modellkorszak": true
   }
 ]
