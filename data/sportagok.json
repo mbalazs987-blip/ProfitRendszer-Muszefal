@@ -7,9 +7,10 @@
     "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR": 14
   },
   "elo_allapotok": {
-    "AKTIV_MODELL_HIANYZIK": 1,
-    "MODELL_ELO_BIZONYITOTT": 6,
-    "VAR_AKTIV_ODDSRA": 41
+    "ILLESZTES_HIANYZIK": 1,
+    "MODELL_ELO_BIZONYITOTT": 5,
+    "SPORTADAT_HIANYZIK": 3,
+    "VAR_AKTIV_ODDSRA": 39
   },
   "sportagak": [
     {
@@ -19,10 +20,10 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 61,
-      "sportadat": 100,
-      "ellenorzott": 12,
-      "aktiv_modell": 12,
+      "odds": 126,
+      "sportadat": 101,
+      "ellenorzott": 27,
+      "aktiv_modell": 27,
       "portfolio": 0,
       "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
@@ -89,10 +90,10 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 1,
+      "odds": 2,
       "sportadat": 4,
-      "ellenorzott": 1,
-      "aktiv_modell": 1,
+      "ellenorzott": 2,
+      "aktiv_modell": 2,
       "portfolio": 0,
       "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
@@ -103,7 +104,7 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 16,
+      "odds": 29,
       "sportadat": 49,
       "ellenorzott": 12,
       "aktiv_modell": 12,
@@ -186,13 +187,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
-      "odds": 0,
+      "elo_allapot": "SPORTADAT_HIANYZIK",
+      "odds": 8,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "odds-független sportadat út létezik-e/történeti lefedettség hiányzik-e diagnosztizálandó"
     },
     {
       "sportag": "chess",
@@ -214,13 +215,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
-      "odds": 0,
+      "elo_allapot": "SPORTADAT_HIANYZIK",
+      "odds": 4,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: FORRASHIBA"
+      "kovetkezo_teendo": "odds-független sportadat út létezik-e/történeti lefedettség hiányzik-e diagnosztizálandó"
     },
     {
       "sportag": "curling",
@@ -382,13 +383,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
-      "odds": 0,
+      "elo_allapot": "SPORTADAT_HIANYZIK",
+      "odds": 8,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "odds-független sportadat út létezik-e/történeti lefedettség hiányzik-e diagnosztizálandó"
     },
     {
       "sportag": "hockey",
@@ -397,7 +398,7 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 2,
+      "odds": 33,
       "sportadat": 37,
       "ellenorzott": 2,
       "aktiv_modell": 2,
@@ -466,13 +467,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "AKTIV_MODELL_HIANYZIK",
-      "odds": 32,
+      "elo_allapot": "ILLESZTES_HIANYZIK",
+      "odds": 14,
       "sportadat": 14,
-      "ellenorzott": 4,
+      "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "modelljellemző/minőség/szerződés-kapu diagnózis és javítás"
+      "kovetkezo_teendo": "esemény- és résztvevőillesztés javítása/regressziós teszt"
     },
     {
       "sportag": "motogp",
@@ -579,10 +580,10 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 216,
-      "sportadat": 354,
-      "ellenorzott": 64,
-      "aktiv_modell": 64,
+      "odds": 94,
+      "sportadat": 358,
+      "ellenorzott": 43,
+      "aktiv_modell": 43,
       "portfolio": 0,
       "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
@@ -648,13 +649,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 4,
-      "sportadat": 20,
-      "ellenorzott": 3,
-      "aktiv_modell": 3,
+      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "odds": 0,
+      "sportadat": 17,
+      "ellenorzott": 0,
+      "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "élő eseményhez aktív modell készült"
+      "kovetkezo_teendo": "sportadat van, de jelenleg nincs aktív odds-esemény; ingyenes odds-forrás: NINCS_KOZOLT_AR"
     },
     {
       "sportag": "volleyball",
