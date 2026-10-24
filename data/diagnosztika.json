@@ -1,7 +1,7 @@
 {
-  "frissitve": "2026-10-24T04:51:51.622003+00:00",
-  "integritas_ok": false,
-  "szamlalo_egyezik": false,
+  "frissitve": "2026-10-24T06:58:09.306695+00:00",
+  "integritas_ok": true,
+  "szamlalo_egyezik": true,
   "duplikalt_sorok": 0,
   "hibas_azonositoju_sorok": 0,
   "aktualis_snapshot_hibas_sorok": 0,
