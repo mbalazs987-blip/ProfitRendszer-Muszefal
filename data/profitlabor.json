@@ -124,5 +124,25 @@
       "brier_pontszam": 0.237664
     }
   },
+  "uj_modell_bizonyitasi_minta": {
+    "teljes": {
+      "tetek": 2,
+      "nyert": 0,
+      "vesztett": 2,
+      "visszajar": 0,
+      "megforgatott_toke": 4.0,
+      "nyereseg_veszteseg": -4.0,
+      "megterules_szazalek": -100.0,
+      "talalati_arany_szazalek": 0.0
+    },
+    "sportag_szerint": {
+      "american_football": {
+        "tetek": 1
+      },
+      "basketball": {
+        "tetek": 1
+      }
+    }
+  },
   "modellkorszak": {}
 }
