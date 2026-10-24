@@ -2875,11 +2875,11 @@
     "esemeny_id": "d32556f94846b0ad",
     "sportag": "american_football",
     "piac": "moneyline",
-    "hazai": "Edmonton Elks",
-    "vendeg": "Saskatchewan Roughriders",
+    "hazai": "Saskatchewan Roughriders",
+    "vendeg": "Edmonton Elks",
     "resztvevok": [
-      "Edmonton Elks",
-      "Saskatchewan Roughriders"
+      "Saskatchewan Roughriders",
+      "Edmonton Elks"
     ],
     "kimenetel": "Edmonton Elks",
     "szorzo": 2.2,
