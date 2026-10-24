@@ -1,16 +1,16 @@
 {
   "teljes": {
-    "tetek": 107,
+    "tetek": 109,
     "nyert": 37,
-    "vesztett": 70,
+    "vesztett": 72,
     "visszajar": 0,
-    "megforgatott_toke": 207.0741,
-    "nyereseg_veszteseg": -20.6719,
-    "megterules_szazalek": -9.9829,
-    "talalati_arany_szazalek": 34.5794,
-    "atlag_szorzo": 4.1457,
+    "megforgatott_toke": 211.0725,
+    "nyereseg_veszteseg": -24.6703,
+    "megterules_szazalek": -11.6881,
+    "talalati_arany_szazalek": 33.945,
+    "atlag_szorzo": 4.2256,
     "max_visszaeses": 47.0132,
-    "brier_pontszam": 0.227203
+    "brier_pontszam": 0.224227
   },
   "teljes_torteneti": {
     "tetek": null,
@@ -98,17 +98,17 @@
       "brier_pontszam": 0.212391
     },
     "soccer": {
-      "tetek": 22,
+      "tetek": 24,
       "nyert": 3,
-      "vesztett": 19,
+      "vesztett": 21,
       "visszajar": 0,
-      "megforgatott_toke": 42.783,
-      "nyereseg_veszteseg": -15.083,
-      "megterules_szazalek": -35.2547,
-      "talalati_arany_szazalek": 13.6364,
-      "atlag_szorzo": 5.1805,
+      "megforgatott_toke": 46.7814,
+      "nyereseg_veszteseg": -19.0814,
+      "megterules_szazalek": -40.7884,
+      "talalati_arany_szazalek": 12.5,
+      "atlag_szorzo": 5.4571,
       "max_visszaeses": 26.783,
-      "brier_pontszam": 0.200683
+      "brier_pontszam": 0.18938
     },
     "tennis": {
       "tetek": 3,
@@ -126,14 +126,14 @@
   },
   "uj_modell_bizonyitasi_minta": {
     "teljes": {
-      "tetek": 11,
+      "tetek": 13,
       "nyert": 4,
-      "vesztett": 7,
+      "vesztett": 9,
       "visszajar": 0,
-      "megforgatott_toke": 19.7915,
-      "nyereseg_veszteseg": 1.3944,
-      "megterules_szazalek": 7.0454,
-      "talalati_arany_szazalek": 36.3636
+      "megforgatott_toke": 23.7899,
+      "nyereseg_veszteseg": -2.604,
+      "megterules_szazalek": -10.9458,
+      "talalati_arany_szazalek": 30.7692
     },
     "sportag_szerint": {
       "american_football": {
@@ -146,7 +146,7 @@
         "tetek": 4
       },
       "soccer": {
-        "tetek": 4
+        "tetek": 6
       }
     }
   },
