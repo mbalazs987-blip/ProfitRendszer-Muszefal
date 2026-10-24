@@ -3508,5 +3508,41 @@
     "megbizhatosag": 0.9666096487656156,
     "becsult_elony_szazalek": 44.821625,
     "iroda": "Betfair"
+  },
+  {
+    "tet_id": "f40d679d577b8344",
+    "esemeny_id": "2e702df3e9deebde",
+    "sportag": "soccer",
+    "piac": "moneyline",
+    "hazai": "Lazio",
+    "vendeg": "Parma",
+    "kimenetel": "Parma",
+    "meresi_pont_ora": 1,
+    "adat_ideje": "2026-10-24T17:09:56.879166+00:00",
+    "esemeny_ideje": "2026-10-24T18:45:00+00:00",
+    "szorzo": 7.0,
+    "becsult_esely": 0.236077,
+    "piaci_esely": 0.13181995323460638,
+    "megbizhatosag": 0.6937500000000001,
+    "becsult_elony_szazalek": 65.2539,
+    "iroda": "DraftKings"
+  },
+  {
+    "tet_id": "c2c2180d0b392d7d",
+    "esemeny_id": "cb7ae72cac06f29b",
+    "sportag": "soccer",
+    "piac": "moneyline",
+    "hazai": "New England Revolution",
+    "vendeg": "Philadelphia Union",
+    "kimenetel": "New England Revolution",
+    "meresi_pont_ora": 6,
+    "adat_ideje": "2026-10-24T17:09:07+00:00",
+    "esemeny_ideje": "2026-10-24T23:30:00+00:00",
+    "szorzo": 6.0,
+    "becsult_esely": 0.322611,
+    "piaci_esely": 0.16405110553643312,
+    "megbizhatosag": 0.9313518050551426,
+    "becsult_elony_szazalek": 93.5666,
+    "iroda": "LeoVegas (SE)"
   }
 ]
