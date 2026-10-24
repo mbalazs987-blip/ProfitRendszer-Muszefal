@@ -1,16 +1,16 @@
 {
   "teljes": {
-    "tetek": 98,
-    "nyert": 33,
-    "vesztett": 65,
+    "tetek": 104,
+    "nyert": 36,
+    "vesztett": 68,
     "visszajar": 0,
-    "megforgatott_toke": 191.2826,
-    "nyereseg_veszteseg": -26.0663,
-    "megterules_szazalek": -13.6271,
-    "talalati_arany_szazalek": 33.6735,
-    "atlag_szorzo": 4.2611,
+    "megforgatott_toke": 201.0741,
+    "nyereseg_veszteseg": -23.8719,
+    "megterules_szazalek": -11.8722,
+    "talalati_arany_szazalek": 34.6154,
+    "atlag_szorzo": 4.1609,
     "max_visszaeses": 47.0132,
-    "brier_pontszam": 0.226447
+    "brier_pontszam": 0.225807
   },
   "teljes_torteneti": {
     "tetek": null,
@@ -33,43 +33,43 @@
   },
   "sportag_szerint": {
     "american_football": {
-      "tetek": 1,
-      "nyert": 0,
+      "tetek": 2,
+      "nyert": 1,
       "vesztett": 1,
       "visszajar": 0,
-      "megforgatott_toke": 2.0,
-      "nyereseg_veszteseg": -2.0,
-      "megterules_szazalek": -100.0,
-      "talalati_arany_szazalek": 0.0,
-      "atlag_szorzo": 2.3,
+      "megforgatott_toke": 3.1043,
+      "nyereseg_veszteseg": -0.8184,
+      "megterules_szazalek": -26.3634,
+      "talalati_arany_szazalek": 50.0,
+      "atlag_szorzo": 2.185,
       "max_visszaeses": 2.0,
-      "brier_pontszam": 0.317653
+      "brier_pontszam": 0.276963
     },
     "baseball": {
-      "tetek": 53,
+      "tetek": 54,
       "nyert": 21,
-      "vesztett": 32,
+      "vesztett": 33,
       "visszajar": 0,
-      "megforgatott_toke": 102.4996,
-      "nyereseg_veszteseg": -3.8502,
-      "megterules_szazalek": -3.7563,
-      "talalati_arany_szazalek": 39.6226,
-      "atlag_szorzo": 2.4498,
+      "megforgatott_toke": 103.1868,
+      "nyereseg_veszteseg": -4.5374,
+      "megterules_szazalek": -4.3973,
+      "talalati_arany_szazalek": 38.8889,
+      "atlag_szorzo": 2.4476,
       "max_visszaeses": 16.5196,
-      "brier_pontszam": 0.242813
+      "brier_pontszam": 0.242075
     },
     "basketball": {
-      "tetek": 14,
-      "nyert": 6,
-      "vesztett": 8,
+      "tetek": 17,
+      "nyert": 8,
+      "vesztett": 9,
       "visszajar": 0,
-      "megforgatott_toke": 28.0,
-      "nyereseg_veszteseg": -0.3331,
-      "megterules_szazalek": -1.1896,
-      "talalati_arany_szazalek": 42.8571,
-      "atlag_szorzo": 3.6961,
+      "megforgatott_toke": 34.0,
+      "nyereseg_veszteseg": 3.3669,
+      "megterules_szazalek": 9.9026,
+      "talalati_arany_szazalek": 47.0588,
+      "atlag_szorzo": 3.4879,
       "max_visszaeses": 4.9331,
-      "brier_pontszam": 0.21942
+      "brier_pontszam": 0.21946
     },
     "lacrosse": {
       "tetek": 1,
@@ -98,17 +98,17 @@
       "brier_pontszam": 0.212391
     },
     "soccer": {
-      "tetek": 18,
+      "tetek": 19,
       "nyert": 2,
-      "vesztett": 16,
+      "vesztett": 17,
       "visszajar": 0,
-      "megforgatott_toke": 34.783,
-      "nyereseg_veszteseg": -16.283,
-      "megterules_szazalek": -46.8131,
-      "talalati_arany_szazalek": 11.1111,
-      "atlag_szorzo": 5.5511,
+      "megforgatott_toke": 36.783,
+      "nyereseg_veszteseg": -18.283,
+      "megterules_szazalek": -49.705,
+      "talalati_arany_szazalek": 10.5263,
+      "atlag_szorzo": 5.4274,
       "max_visszaeses": 26.783,
-      "brier_pontszam": 0.188574
+      "brier_pontszam": 0.188856
     },
     "tennis": {
       "tetek": 3,
@@ -126,20 +126,26 @@
   },
   "uj_modell_bizonyitasi_minta": {
     "teljes": {
-      "tetek": 2,
-      "nyert": 0,
-      "vesztett": 2,
+      "tetek": 8,
+      "nyert": 3,
+      "vesztett": 5,
       "visszajar": 0,
-      "megforgatott_toke": 4.0,
-      "nyereseg_veszteseg": -4.0,
-      "megterules_szazalek": -100.0,
-      "talalati_arany_szazalek": 0.0
+      "megforgatott_toke": 13.7915,
+      "nyereseg_veszteseg": -1.8056,
+      "megterules_szazalek": -13.0921,
+      "talalati_arany_szazalek": 37.5
     },
     "sportag_szerint": {
       "american_football": {
+        "tetek": 2
+      },
+      "baseball": {
         "tetek": 1
       },
       "basketball": {
+        "tetek": 4
+      },
+      "soccer": {
         "tetek": 1
       }
     }
