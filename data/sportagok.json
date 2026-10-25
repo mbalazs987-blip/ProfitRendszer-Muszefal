@@ -7,10 +7,8 @@
     "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR": 14
   },
   "elo_allapotok": {
-    "ILLESZTES_HIANYZIK": 1,
-    "MODELL_ELO_BIZONYITOTT": 4,
-    "SPORTADAT_HIANYZIK": 1,
-    "VAR_AKTIV_ODDSRA": 42
+    "MODELL_ELO_BIZONYITOTT": 5,
+    "VAR_AKTIV_ODDSRA": 43
   },
   "sportagak": [
     {
@@ -21,7 +19,7 @@
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
       "odds": 15,
-      "sportadat": 30,
+      "sportadat": 26,
       "ellenorzott": 13,
       "aktiv_modell": 13,
       "portfolio": 0,
@@ -89,13 +87,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "ILLESZTES_HIANYZIK",
+      "elo_allapot": "MODELL_ELO_BIZONYITOTT",
       "odds": 1,
       "sportadat": 3,
-      "ellenorzott": 0,
-      "aktiv_modell": 0,
+      "ellenorzott": 1,
+      "aktiv_modell": 1,
       "portfolio": 0,
-      "kovetkezo_teendo": "esemény- és résztvevőillesztés javítása/regressziós teszt"
+      "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
     {
       "sportag": "basketball",
@@ -105,9 +103,9 @@
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
       "odds": 8,
-      "sportadat": 36,
-      "ellenorzott": 6,
-      "aktiv_modell": 6,
+      "sportadat": 34,
+      "ellenorzott": 7,
+      "aktiv_modell": 7,
       "portfolio": 0,
       "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
@@ -215,13 +213,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "SPORTADAT_HIANYZIK",
-      "odds": 1,
+      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "odds-független sportadat út létezik-e/történeti lefedettség hiányzik-e diagnosztizálandó"
+      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: FORRASHIBA"
     },
     {
       "sportag": "curling",
@@ -398,8 +396,8 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 14,
-      "sportadat": 33,
+      "odds": 5,
+      "sportadat": 29,
       "ellenorzott": 5,
       "aktiv_modell": 5,
       "portfolio": 0,
@@ -580,10 +578,10 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 73,
-      "sportadat": 163,
-      "ellenorzott": 32,
-      "aktiv_modell": 32,
+      "odds": 123,
+      "sportadat": 156,
+      "ellenorzott": 40,
+      "aktiv_modell": 40,
       "portfolio": 0,
       "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
@@ -651,7 +649,7 @@
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "VAR_AKTIV_ODDSRA",
       "odds": 0,
-      "sportadat": 38,
+      "sportadat": 28,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
