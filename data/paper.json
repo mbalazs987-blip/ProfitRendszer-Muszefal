@@ -3887,12 +3887,9 @@
     "esemeny_id": "e292cfa7af3f14f7",
     "sportag": "soccer",
     "piac": "moneyline",
-    "hazai": "AS Roma",
-    "vendeg": "Cagliari",
-    "resztvevok": [
-      "AS Roma",
-      "Cagliari"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Cagliari",
     "szorzo": 11.0,
     "tet_szazalek": 0.02,
@@ -3916,12 +3913,9 @@
     "esemeny_id": "61470db9bf1dc3b9",
     "sportag": "soccer",
     "piac": "moneyline",
-    "hazai": "Como",
-    "vendeg": "Torino",
-    "resztvevok": [
-      "Como",
-      "Torino"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Torino",
     "szorzo": 5.1,
     "tet_szazalek": 0.02,
