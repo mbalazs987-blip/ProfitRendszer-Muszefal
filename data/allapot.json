@@ -41,8 +41,8 @@
   "aktualis_integritas_hibas_lezart_tetek": 0,
   "szamlalo_egyezik": true,
   "integritas_ok": true,
-  "frissitve": "2026-10-27T18:51:14.953473+00:00",
-  "kanonikus_statusz_frissitve": "2026-10-27T14:29:01.397792+00:00",
+  "frissitve": "2026-10-27T20:11:03.457050+00:00",
+  "kanonikus_statusz_frissitve": "2026-10-27T20:01:50.846847+00:00",
   "uzemmod": "PAPER VALIDÁCIÓ",
   "allapot": "MINTAGYŰJTÉS",
   "minta_tipus": "AKTUÁLIS MODELLKORSZAK",
@@ -52,6 +52,6 @@
     "forraskod_modositas_javasolt": false,
     "automatikus_forraskod_atiras": false,
     "jovahagyas_szukseges": false,
-    "frissitve": "2026-10-27T14:29:01.206906+00:00"
+    "frissitve": "2026-10-27T20:01:50.635145+00:00"
   }
 }
