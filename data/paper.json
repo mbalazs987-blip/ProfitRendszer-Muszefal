@@ -3771,12 +3771,9 @@
     "esemeny_id": "07aaa54eb1dbd4de",
     "sportag": "tennis",
     "piac": "moneyline",
-    "hazai": "Casper Ruud",
-    "vendeg": "Nuno Borges",
-    "resztvevok": [
-      "Casper Ruud",
-      "Nuno Borges"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Nuno Borges",
     "szorzo": 2.85,
     "tet_szazalek": 0.02,
