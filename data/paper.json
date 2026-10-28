@@ -3971,12 +3971,9 @@
     "esemeny_id": "16963a774fd63574",
     "sportag": "soccer",
     "piac": "moneyline",
-    "hazai": "Parma",
-    "vendeg": "Udinese",
-    "resztvevok": [
-      "Parma",
-      "Udinese"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Parma",
     "szorzo": 3.17,
     "tet_szazalek": 0.02,
