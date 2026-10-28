@@ -3829,12 +3829,9 @@
     "esemeny_id": "b1f6633bf4b719a7",
     "sportag": "basketball",
     "piac": "moneyline",
-    "hazai": "New York Knicks",
-    "vendeg": "Detroit Pistons",
-    "resztvevok": [
-      "New York Knicks",
-      "Detroit Pistons"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Detroit Pistons",
     "szorzo": 2.3,
     "tet_szazalek": 0.02,
@@ -4032,12 +4029,9 @@
     "esemeny_id": "850d6bd04144d0c3",
     "sportag": "basketball",
     "piac": "moneyline",
-    "hazai": "Boston Celtics",
-    "vendeg": "Brooklyn Nets",
-    "resztvevok": [
-      "Boston Celtics",
-      "Brooklyn Nets"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Boston Celtics",
     "szorzo": 1.1739130434782608,
     "tet_szazalek": 0.02,
@@ -4061,12 +4055,9 @@
     "esemeny_id": "10331a6ba12d555c",
     "sportag": "baseball",
     "piac": "moneyline",
-    "hazai": "Milwaukee Brewers",
-    "vendeg": "Tampa Bay Rays",
-    "resztvevok": [
-      "Milwaukee Brewers",
-      "Tampa Bay Rays"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Tampa Bay Rays",
     "szorzo": 2.12,
     "tet_szazalek": 0.013115969999999992,
