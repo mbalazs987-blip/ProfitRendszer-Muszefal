@@ -7,10 +7,10 @@
     "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR": 14
   },
   "elo_allapotok": {
-    "MODELLBEMENET_KAPUN_ELAKADT": 1,
+    "ILLESZTES_HIANYZIK": 1,
     "MODELL_ELO_BIZONYITOTT": 6,
-    "SPORTADAT_HIANYZIK": 2,
-    "VAR_AKTIV_ODDSRA": 39
+    "SPORTADAT_HIANYZIK": 3,
+    "VAR_AKTIV_ODDSRA": 38
   },
   "sportagak": [
     {
@@ -89,13 +89,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
-      "odds": 0,
+      "elo_allapot": "SPORTADAT_HIANYZIK",
+      "odds": 1,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_JOVOBELI_ESEMENY"
+      "kovetkezo_teendo": "odds-független sportadat út létezik-e/történeti lefedettség hiányzik-e diagnosztizálandó"
     },
     {
       "sportag": "basketball",
@@ -104,10 +104,10 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 21,
-      "sportadat": 29,
-      "ellenorzott": 3,
-      "aktiv_modell": 3,
+      "odds": 41,
+      "sportadat": 36,
+      "ellenorzott": 13,
+      "aktiv_modell": 13,
       "portfolio": 0,
       "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
@@ -188,7 +188,7 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "SPORTADAT_HIANYZIK",
-      "odds": 10,
+      "odds": 9,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
@@ -216,7 +216,7 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "SPORTADAT_HIANYZIK",
-      "odds": 3,
+      "odds": 5,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
@@ -383,13 +383,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "MODELLBEMENET_KAPUN_ELAKADT",
-      "odds": 7,
-      "sportadat": 1,
+      "elo_allapot": "ILLESZTES_HIANYZIK",
+      "odds": 9,
+      "sportadat": 2,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "az eseményillesztés kész, de a modell előzmény-/tanítási kapuja nem engedte tovább"
+      "kovetkezo_teendo": "esemény- és résztvevőillesztés javítása/regressziós teszt"
     },
     {
       "sportag": "hockey",
@@ -398,10 +398,10 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 50,
-      "sportadat": 52,
-      "ellenorzott": 11,
-      "aktiv_modell": 11,
+      "odds": 59,
+      "sportadat": 55,
+      "ellenorzott": 14,
+      "aktiv_modell": 14,
       "portfolio": 0,
       "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
@@ -580,10 +580,10 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 272,
-      "sportadat": 235,
-      "ellenorzott": 63,
-      "aktiv_modell": 63,
+      "odds": 332,
+      "sportadat": 296,
+      "ellenorzott": 78,
+      "aktiv_modell": 78,
       "portfolio": 0,
       "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
@@ -650,10 +650,10 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 16,
-      "sportadat": 30,
-      "ellenorzott": 4,
-      "aktiv_modell": 4,
+      "odds": 8,
+      "sportadat": 18,
+      "ellenorzott": 2,
+      "aktiv_modell": 2,
       "portfolio": 0,
       "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
