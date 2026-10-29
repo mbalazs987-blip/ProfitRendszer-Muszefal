@@ -3580,5 +3580,41 @@
     "megbizhatosag": 0.9529716397620898,
     "becsult_elony_szazalek": 73.56269,
     "iroda": "Matchbook"
+  },
+  {
+    "tet_id": "dd06889dcd95abc5",
+    "esemeny_id": "9c6c529183c0de31",
+    "sportag": "soccer",
+    "piac": "moneyline",
+    "hazai": "Austin FC",
+    "vendeg": "Real Salt Lake",
+    "kimenetel": "Austin FC",
+    "meresi_pont_ora": 1,
+    "adat_ideje": "2026-10-28T23:32:11+00:00",
+    "esemeny_ideje": "2026-10-29T00:30:00+00:00",
+    "szorzo": 3.2,
+    "becsult_esely": 0.428949,
+    "piaci_esely": 0.31867789211100717,
+    "megbizhatosag": 0.9697758843890968,
+    "becsult_elony_szazalek": 37.26368,
+    "iroda": "Betfair"
+  },
+  {
+    "tet_id": "f50c434641d2f3d8",
+    "esemeny_id": "31d6714403543a6a",
+    "sportag": "soccer",
+    "piac": "moneyline",
+    "hazai": "Minnesota United FC",
+    "vendeg": "Sporting Kansas City",
+    "kimenetel": "Sporting Kansas City",
+    "meresi_pont_ora": 1,
+    "adat_ideje": "2026-10-28T23:32:11+00:00",
+    "esemeny_ideje": "2026-10-29T00:30:00+00:00",
+    "szorzo": 7.0,
+    "becsult_esely": 0.26891,
+    "piaci_esely": 0.14746721027731838,
+    "megbizhatosag": 0.908403696593522,
+    "becsult_elony_szazalek": 88.237,
+    "iroda": "LeoVegas (SE)"
   }
 ]
