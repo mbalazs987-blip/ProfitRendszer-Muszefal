@@ -1,16 +1,16 @@
 {
   "teljes": {
-    "tetek": 146,
-    "nyert": 48,
+    "tetek": 147,
+    "nyert": 49,
     "vesztett": 98,
     "visszajar": 0,
-    "megforgatott_toke": 283.1329,
-    "nyereseg_veszteseg": -29.6827,
-    "megterules_szazalek": -10.4837,
-    "talalati_arany_szazalek": 32.8767,
-    "atlag_szorzo": 4.0475,
+    "megforgatott_toke": 285.1329,
+    "nyereseg_veszteseg": -25.5827,
+    "megterules_szazalek": -8.9722,
+    "talalati_arany_szazalek": 33.3333,
+    "atlag_szorzo": 4.0408,
     "max_visszaeses": 47.0132,
-    "brier_pontszam": 0.229725
+    "brier_pontszam": 0.23039
   },
   "teljes_torteneti": {
     "tetek": null,
@@ -98,17 +98,17 @@
       "brier_pontszam": 0.212391
     },
     "soccer": {
-      "tetek": 36,
-      "nyert": 6,
+      "tetek": 37,
+      "nyert": 7,
       "vesztett": 30,
       "visszajar": 0,
-      "megforgatott_toke": 70.7814,
-      "nyereseg_veszteseg": -12.2814,
-      "megterules_szazalek": -17.3512,
-      "talalati_arany_szazalek": 16.6667,
-      "atlag_szorzo": 5.4192,
+      "megforgatott_toke": 72.7814,
+      "nyereseg_veszteseg": -8.1814,
+      "megterules_szazalek": -11.2411,
+      "talalati_arany_szazalek": 18.9189,
+      "atlag_szorzo": 5.3551,
       "max_visszaeses": 26.783,
-      "brier_pontszam": 0.193724
+      "brier_pontszam": 0.197338
     },
     "tennis": {
       "tetek": 3,
@@ -126,14 +126,14 @@
   },
   "uj_modell_bizonyitasi_minta": {
     "teljes": {
-      "tetek": 50,
-      "nyert": 15,
+      "tetek": 51,
+      "nyert": 16,
       "vesztett": 35,
       "visszajar": 0,
-      "megforgatott_toke": 95.8503,
-      "nyereseg_veszteseg": -7.6164,
-      "megterules_szazalek": -7.9461,
-      "talalati_arany_szazalek": 30.0
+      "megforgatott_toke": 97.8503,
+      "nyereseg_veszteseg": -3.5164,
+      "megterules_szazalek": -3.5937,
+      "talalati_arany_szazalek": 31.3725
     },
     "sportag_szerint": {
       "american_football": {
@@ -146,7 +146,7 @@
         "tetek": 21
       },
       "soccer": {
-        "tetek": 18
+        "tetek": 19
       }
     }
   },
