@@ -4435,12 +4435,9 @@
     "esemeny_id": "e11a0fb45d5e82fd",
     "sportag": "soccer",
     "piac": "moneyline",
-    "hazai": "Birmingham City",
-    "vendeg": "Lincoln City",
-    "resztvevok": [
-      "Birmingham City",
-      "Lincoln City"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Lincoln City",
     "szorzo": 3.5,
     "tet_szazalek": 0.02,
@@ -4464,12 +4461,9 @@
     "esemeny_id": "b00841f11091403d",
     "sportag": "soccer",
     "piac": "moneyline",
-    "hazai": "Norwich City",
-    "vendeg": "Watford",
-    "resztvevok": [
-      "Norwich City",
-      "Watford"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Watford",
     "szorzo": 5.8,
     "tet_szazalek": 0.02,
@@ -4667,12 +4661,9 @@
     "esemeny_id": "e6d546a133bb81f9",
     "sportag": "soccer",
     "piac": "moneyline",
-    "hazai": "Atlético Madrid",
-    "vendeg": "Levante",
-    "resztvevok": [
-      "Atlético Madrid",
-      "Levante"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Levante",
     "szorzo": 6.2,
     "tet_szazalek": 0.02,
