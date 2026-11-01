@@ -3652,5 +3652,23 @@
     "megbizhatosag": 0.8247338531768835,
     "becsult_elony_szazalek": 152.1068,
     "iroda": "Matchbook"
+  },
+  {
+    "tet_id": "18a3832627fb7ef2",
+    "esemeny_id": "ff26facdf6fbed31",
+    "sportag": "soccer",
+    "piac": "moneyline",
+    "hazai": "Sassuolo",
+    "vendeg": "Fiorentina",
+    "kimenetel": "Sassuolo",
+    "meresi_pont_ora": 24,
+    "adat_ideje": "2026-11-01T17:48:58.276079+00:00",
+    "esemeny_ideje": "2026-11-02T17:30:00+00:00",
+    "szorzo": 2.7,
+    "becsult_esely": 0.452097,
+    "piaci_esely": 0.3432134096484055,
+    "megbizhatosag": 0.6937500000000001,
+    "becsult_elony_szazalek": 22.06619,
+    "iroda": "DraftKings"
   }
 ]
