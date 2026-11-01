@@ -1,19 +1,19 @@
 {
   "cel": 500,
-  "lezart": 57,
-  "hatralevo": 443,
-  "teljesites_szazalek": 11.4,
+  "lezart": 62,
+  "hatralevo": 438,
+  "teljesites_szazalek": 12.4,
   "nyitott": 15,
-  "nyert": 18,
-  "vesztett": 39,
-  "profit": 4.5836,
-  "lezart_tet_osszeg": 109.8503,
-  "roi": 0.041726,
-  "talalati_arany": 0.315789,
-  "torteneti_lezart": 153,
+  "nyert": 19,
+  "vesztett": 43,
+  "profit": -2.942,
+  "lezart_tet_osszeg": 118.2628,
+  "roi": -0.024877,
+  "talalati_arany": 0.306452,
+  "torteneti_lezart": 158,
   "torteneti_nyitott": 15,
-  "torteneti_profit": -17.4827,
-  "torteneti_roi": -0.058838,
+  "torteneti_profit": -25.0083,
+  "torteneti_roi": -0.081848,
   "meresek": 203,
   "meresi_pontok": {
     "72": 2,
@@ -24,11 +24,12 @@
     "3": 43,
     "1": 44
   },
-  "sportag_db": 4,
+  "sportag_db": 5,
   "sportagak": [
     "american_football",
     "baseball",
     "basketball",
+    "mma",
     "soccer"
   ],
   "registry_sportag_db": 48,
@@ -41,8 +42,8 @@
   "aktualis_integritas_hibas_lezart_tetek": 0,
   "szamlalo_egyezik": true,
   "integritas_ok": true,
-  "frissitve": "2026-10-31T23:53:55.509208+00:00",
-  "kanonikus_statusz_frissitve": "2026-10-31T23:26:58.115881+00:00",
+  "frissitve": "2026-11-01T03:17:04.901524+00:00",
+  "kanonikus_statusz_frissitve": "2026-11-01T03:11:17.858515+00:00",
   "uzemmod": "PAPER VALIDÁCIÓ",
   "allapot": "MINTAGYŰJTÉS",
   "minta_tipus": "AKTUÁLIS MODELLKORSZAK",
@@ -52,6 +53,6 @@
     "forraskod_modositas_javasolt": false,
     "automatikus_forraskod_atiras": false,
     "jovahagyas_szukseges": false,
-    "frissitve": "2026-10-31T23:26:57.893348+00:00"
+    "frissitve": "2026-11-01T03:11:17.643590+00:00"
   }
 }
