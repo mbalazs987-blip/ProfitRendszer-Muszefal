@@ -1,16 +1,16 @@
 {
   "teljes": {
-    "tetek": 170,
+    "tetek": 171,
     "nyert": 56,
-    "vesztett": 114,
+    "vesztett": 115,
     "visszajar": 0,
-    "megforgatott_toke": 327.4094,
-    "nyereseg_veszteseg": -27.0212,
-    "megterules_szazalek": -8.253,
-    "talalati_arany_szazalek": 32.9412,
-    "atlag_szorzo": 4.0911,
+    "megforgatott_toke": 329.4094,
+    "nyereseg_veszteseg": -29.0212,
+    "megterules_szazalek": -8.8101,
+    "talalati_arany_szazalek": 32.7485,
+    "atlag_szorzo": 4.0865,
     "max_visszaeses": 47.0132,
-    "brier_pontszam": 0.227631
+    "brier_pontszam": 0.227811
   },
   "teljes_torteneti": {
     "tetek": null,
@@ -26,24 +26,24 @@
     "brier_pontszam": null
   },
   "clv": {
-    "merheto_tetek": 27,
-    "pozitiv_tetek": 24,
-    "atlagos_zaro_szorzo_ertek_szazalek": 10.1141,
-    "pozitiv_arany_szazalek": 88.89
+    "merheto_tetek": 28,
+    "pozitiv_tetek": 25,
+    "atlagos_zaro_szorzo_ertek_szazalek": 9.9833,
+    "pozitiv_arany_szazalek": 89.29
   },
   "sportag_szerint": {
     "american_football": {
-      "tetek": 15,
+      "tetek": 16,
       "nyert": 6,
-      "vesztett": 9,
+      "vesztett": 10,
       "visszajar": 0,
-      "megforgatott_toke": 29.1043,
-      "nyereseg_veszteseg": 6.6816,
-      "megterules_szazalek": 22.9574,
-      "talalati_arany_szazalek": 40.0,
-      "atlag_szorzo": 3.1367,
+      "megforgatott_toke": 31.1043,
+      "nyereseg_veszteseg": 4.6816,
+      "megterules_szazalek": 15.0513,
+      "talalati_arany_szazalek": 37.5,
+      "atlag_szorzo": 3.1469,
       "max_visszaeses": 6.0,
-      "brier_pontszam": 0.268213
+      "brier_pontszam": 0.267597
     },
     "baseball": {
       "tetek": 56,
@@ -139,18 +139,18 @@
   },
   "uj_modell_bizonyitasi_minta": {
     "teljes": {
-      "tetek": 17,
+      "tetek": 18,
       "nyert": 7,
-      "vesztett": 10,
+      "vesztett": 11,
       "visszajar": 0,
-      "megforgatott_toke": 31.0422,
-      "nyereseg_veszteseg": 5.6306,
-      "megterules_szazalek": 18.1385,
-      "talalati_arany_szazalek": 41.1765
+      "megforgatott_toke": 33.0422,
+      "nyereseg_veszteseg": 3.6306,
+      "megterules_szazalek": 10.9878,
+      "talalati_arany_szazalek": 38.8889
     },
     "sportag_szerint": {
       "american_football": {
-        "tetek": 15
+        "tetek": 16
       },
       "mma": {
         "tetek": 1
