@@ -8,9 +8,11 @@
   },
   "elo_allapotok": {
     "ILLESZTES_HIANYZIK": 1,
+    "MODELLBEMENET_KAPUN_ELAKADT": 1,
     "MODELL_ELO_BIZONYITOTT": 4,
-    "SPORTADAT_HIANYZIK": 2,
-    "VAR_AKTIV_ODDSRA": 41
+    "ODDS_FORRAS_BEKOETES_HIANYZIK": 28,
+    "SPORTADAT_HIANYZIK": 1,
+    "VAR_AKTIV_ODDSRA": 13
   },
   "sportagak": [
     {
@@ -20,10 +22,10 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 14,
-      "sportadat": 14,
-      "ellenorzott": 10,
-      "aktiv_modell": 10,
+      "odds": 8,
+      "sportadat": 8,
+      "ellenorzott": 4,
+      "aktiv_modell": 4,
       "portfolio": 0,
       "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
@@ -33,13 +35,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "eredményadapter kész; valódi point-in-time befutási sorrenddel élő bizonyítás kell; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "australian_rules",
@@ -61,13 +63,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "bandy",
@@ -75,13 +77,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "baseball",
@@ -104,10 +106,10 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 97,
-      "sportadat": 37,
-      "ellenorzott": 4,
-      "aktiv_modell": 4,
+      "odds": 152,
+      "sportadat": 38,
+      "ellenorzott": 10,
+      "aktiv_modell": 10,
       "portfolio": 0,
       "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
@@ -117,13 +119,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "beach_volleyball",
@@ -131,13 +133,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "biathlon",
@@ -145,13 +147,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "eredményadapter kész; valódi point-in-time befutási sorrenddel élő bizonyítás kell; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "bowling",
@@ -159,13 +161,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "eredményadapter kész; valódi point-in-time befutási sorrenddel élő bizonyítás kell; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "bowls",
@@ -173,13 +175,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "boxing",
@@ -201,13 +203,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "cricket",
@@ -215,13 +217,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "SPORTADAT_HIANYZIK",
+      "elo_allapot": "MODELLBEMENET_KAPUN_ELAKADT",
       "odds": 1,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "odds-független sportadat út létezik-e/történeti lefedettség hiányzik-e diagnosztizálandó"
+      "kovetkezo_teendo": "az eseményillesztés kész, de a modell előzmény-/tanítási kapuja nem engedte tovább"
     },
     {
       "sportag": "curling",
@@ -229,13 +231,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "cycling",
@@ -243,13 +245,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "eredményadapter kész; valódi point-in-time befutási sorrenddel élő bizonyítás kell; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "darts",
@@ -257,13 +259,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "esports",
@@ -271,13 +273,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "field_hockey",
@@ -299,13 +301,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "formula_1",
@@ -327,13 +329,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "gaelic_football",
@@ -341,13 +343,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "golf",
@@ -369,13 +371,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "eredményadapter kész; valódi point-in-time befutási sorrenddel élő bizonyítás kell; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "handball",
@@ -389,7 +391,7 @@
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_AKTIV_PROVIDER_LIGA"
     },
     {
       "sportag": "hockey",
@@ -398,10 +400,10 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 25,
-      "sportadat": 31,
-      "ellenorzott": 8,
-      "aktiv_modell": 8,
+      "odds": 11,
+      "sportadat": 25,
+      "ellenorzott": 5,
+      "aktiv_modell": 5,
       "portfolio": 0,
       "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
@@ -411,13 +413,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "eredményadapter kész; valódi point-in-time befutási sorrenddel élő bizonyítás kell; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "hurling",
@@ -425,13 +427,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "kickboxing",
@@ -439,13 +441,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "lacrosse",
@@ -481,13 +483,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "eredményadapter kész; valódi point-in-time befutási sorrenddel élő bizonyítás kell; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "motorsport",
@@ -537,13 +539,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "eredményadapter kész; valódi point-in-time befutási sorrenddel élő bizonyítás kell; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "skiing",
@@ -551,13 +553,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "eredményadapter kész; valódi point-in-time befutási sorrenddel élő bizonyítás kell; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "snooker",
@@ -565,13 +567,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "soccer",
@@ -580,10 +582,10 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 94,
-      "sportadat": 80,
-      "ellenorzott": 8,
-      "aktiv_modell": 8,
+      "odds": 87,
+      "sportadat": 64,
+      "ellenorzott": 5,
+      "aktiv_modell": 5,
       "portfolio": 0,
       "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
@@ -593,13 +595,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "eredményadapter kész; valódi point-in-time befutási sorrenddel élő bizonyítás kell; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "squash",
@@ -607,13 +609,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "swimming",
@@ -621,13 +623,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "eredményadapter kész; valódi point-in-time befutási sorrenddel élő bizonyítás kell; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "table_tennis",
@@ -635,13 +637,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "elo_allapot": "ODDS_FORRAS_BEKOETES_HIANYZIK",
       "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_REGISZTRALT_INGYENES_ODDS_UT"
+      "kovetkezo_teendo": "a jelenlegi források nem fedik a sportágat; új odds-provider szükséges; ingyenes odds-forrás: PROVIDER_NEM_KINAL_SPORTAGAT"
     },
     {
       "sportag": "tennis",
@@ -650,8 +652,8 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "ILLESZTES_HIANYZIK",
-      "odds": 17,
-      "sportadat": 36,
+      "odds": 24,
+      "sportadat": 39,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
