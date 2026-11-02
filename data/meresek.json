@@ -3670,5 +3670,41 @@
     "megbizhatosag": 0.6937500000000001,
     "becsult_elony_szazalek": 22.06619,
     "iroda": "DraftKings"
+  },
+  {
+    "tet_id": "889da37a64ebf9cd",
+    "esemeny_id": "9b7e0f12309c16c2",
+    "sportag": "american_football",
+    "piac": "moneyline",
+    "hazai": null,
+    "vendeg": null,
+    "kimenetel": "Denver Broncos",
+    "meresi_pont_ora": 1,
+    "adat_ideje": "2026-11-01T20:58:33+00:00",
+    "esemeny_ideje": "2026-11-01T21:25:00+00:00",
+    "szorzo": 2.0,
+    "becsult_esely": 0.695442,
+    "piaci_esely": 0.5,
+    "megbizhatosag": 0.9888404683166233,
+    "becsult_elony_szazalek": 39.0884,
+    "iroda": "Unibet (SE)"
+  },
+  {
+    "tet_id": "e70e5c12a957f2a2",
+    "esemeny_id": "46334efa714c4261",
+    "sportag": "basketball",
+    "piac": "moneyline",
+    "hazai": "Cleveland Cavaliers",
+    "vendeg": "Oklahoma City Thunder",
+    "kimenetel": "Oklahoma City Thunder",
+    "meresi_pont_ora": 24,
+    "adat_ideje": "2026-11-01T23:36:10.992435+00:00",
+    "esemeny_ideje": "2026-11-03T00:00:00+00:00",
+    "szorzo": 2.54,
+    "becsult_esely": 0.564703,
+    "piaci_esely": 0.37753344813882633,
+    "megbizhatosag": 0.6937500000000001,
+    "becsult_elony_szazalek": 43.434562,
+    "iroda": "DraftKings"
   }
 ]
