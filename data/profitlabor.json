@@ -1,16 +1,16 @@
 {
   "teljes": {
-    "tetek": 175,
-    "nyert": 57,
-    "vesztett": 118,
+    "tetek": 179,
+    "nyert": 58,
+    "vesztett": 121,
     "visszajar": 0,
-    "megforgatott_toke": 337.4094,
-    "nyereseg_veszteseg": -31.3212,
-    "megterules_szazalek": -9.2828,
-    "talalati_arany_szazalek": 32.5714,
-    "atlag_szorzo": 4.0601,
+    "megforgatott_toke": 342.8767,
+    "nyereseg_veszteseg": -28.3741,
+    "megterules_szazalek": -8.2753,
+    "talalati_arany_szazalek": 32.4022,
+    "atlag_szorzo": 4.0501,
     "max_visszaeses": 47.0132,
-    "brier_pontszam": 0.228241
+    "brier_pontszam": 0.229008
   },
   "teljes_torteneti": {
     "tetek": null,
@@ -111,17 +111,17 @@
       "brier_pontszam": 0.212391
     },
     "soccer": {
-      "tetek": 46,
-      "nyert": 9,
-      "vesztett": 37,
+      "tetek": 50,
+      "nyert": 10,
+      "vesztett": 40,
       "visszajar": 0,
-      "megforgatott_toke": 90.3068,
-      "nyereseg_veszteseg": -4.8068,
-      "megterules_szazalek": -5.3227,
-      "talalati_arany_szazalek": 19.5652,
-      "atlag_szorzo": 5.4585,
+      "megforgatott_toke": 95.7741,
+      "nyereseg_veszteseg": -1.8597,
+      "megterules_szazalek": -1.9418,
+      "talalati_arany_szazalek": 20.0,
+      "atlag_szorzo": 5.3108,
       "max_visszaeses": 26.783,
-      "brier_pontszam": 0.194513
+      "brier_pontszam": 0.199957
     },
     "tennis": {
       "tetek": 7,
@@ -139,17 +139,20 @@
   },
   "uj_modell_bizonyitasi_minta": {
     "teljes": {
-      "tetek": 5,
+      "tetek": 6,
       "nyert": 2,
-      "vesztett": 3,
+      "vesztett": 4,
       "visszajar": 0,
-      "megforgatott_toke": 8.4125,
-      "nyereseg_veszteseg": -1.8256,
-      "megterules_szazalek": -21.701,
-      "talalati_arany_szazalek": 40.0
+      "megforgatott_toke": 8.7114,
+      "nyereseg_veszteseg": -2.1245,
+      "megterules_szazalek": -24.3876,
+      "talalati_arany_szazalek": 33.3333
     },
     "sportag_szerint": {
       "mma": {
+        "tetek": 1
+      },
+      "soccer": {
         "tetek": 1
       },
       "tennis": {
