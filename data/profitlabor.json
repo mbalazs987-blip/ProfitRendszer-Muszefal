@@ -1,16 +1,16 @@
 {
   "teljes": {
-    "tetek": 179,
-    "nyert": 58,
-    "vesztett": 121,
+    "tetek": 186,
+    "nyert": 62,
+    "vesztett": 124,
     "visszajar": 0,
-    "megforgatott_toke": 342.8767,
-    "nyereseg_veszteseg": -28.3741,
-    "megterules_szazalek": -8.2753,
-    "talalati_arany_szazalek": 32.4022,
-    "atlag_szorzo": 4.0501,
+    "megforgatott_toke": 354.8767,
+    "nyereseg_veszteseg": -19.6741,
+    "megterules_szazalek": -5.5439,
+    "talalati_arany_szazalek": 33.3333,
+    "atlag_szorzo": 4.0068,
     "max_visszaeses": 47.0132,
-    "brier_pontszam": 0.229008
+    "brier_pontszam": 0.230445
   },
   "teljes_torteneti": {
     "tetek": null,
@@ -33,17 +33,17 @@
   },
   "sportag_szerint": {
     "american_football": {
-      "tetek": 16,
-      "nyert": 6,
+      "tetek": 18,
+      "nyert": 8,
       "vesztett": 10,
       "visszajar": 0,
-      "megforgatott_toke": 31.1043,
-      "nyereseg_veszteseg": 4.6816,
-      "megterules_szazalek": 15.0513,
-      "talalati_arany_szazalek": 37.5,
-      "atlag_szorzo": 3.1469,
+      "megforgatott_toke": 35.1043,
+      "nyereseg_veszteseg": 10.6016,
+      "megterules_szazalek": 30.2003,
+      "talalati_arany_szazalek": 44.4444,
+      "atlag_szorzo": 3.0728,
       "max_visszaeses": 6.0,
-      "brier_pontszam": 0.267597
+      "brier_pontszam": 0.264852
     },
     "baseball": {
       "tetek": 56,
@@ -59,17 +59,17 @@
       "brier_pontszam": 0.242362
     },
     "basketball": {
-      "tetek": 40,
-      "nyert": 14,
-      "vesztett": 26,
+      "tetek": 45,
+      "nyert": 16,
+      "vesztett": 29,
       "visszajar": 0,
-      "megforgatott_toke": 77.3023,
-      "nyereseg_veszteseg": -20.9169,
-      "megterules_szazalek": -27.0586,
-      "talalati_arany_szazalek": 35.0,
-      "atlag_szorzo": 3.1235,
+      "megforgatott_toke": 85.3023,
+      "nyereseg_veszteseg": -18.1369,
+      "megterules_szazalek": -21.2619,
+      "talalati_arany_szazalek": 35.5556,
+      "atlag_szorzo": 3.1171,
       "max_visszaeses": 27.5059,
-      "brier_pontszam": 0.233544
+      "brier_pontszam": 0.238363
     },
     "lacrosse": {
       "tetek": 1,
