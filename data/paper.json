@@ -5601,12 +5601,9 @@
     "esemeny_id": "2f1d38aa1e5add92",
     "sportag": "tennis",
     "piac": "moneyline",
-    "hazai": "Karolina Muchova",
-    "vendeg": "Mirra Andreeva",
-    "resztvevok": [
-      "Karolina Muchova",
-      "Mirra Andreeva"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Karolina Muchova",
     "szorzo": 3.5,
     "tet_szazalek": 0.02,
@@ -5630,12 +5627,9 @@
     "esemeny_id": "c1fe576fae095963",
     "sportag": "tennis",
     "piac": "moneyline",
-    "hazai": "Aryna Sabalenka",
-    "vendeg": "Elina Svitolina",
-    "resztvevok": [
-      "Aryna Sabalenka",
-      "Elina Svitolina"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Elina Svitolina",
     "szorzo": 2.72,
     "tet_szazalek": 0.02,
