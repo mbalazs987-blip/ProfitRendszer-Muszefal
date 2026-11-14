@@ -5769,12 +5769,9 @@
     "esemeny_id": "da1801e0b703da88",
     "sportag": "basketball",
     "piac": "moneyline",
-    "hazai": "Orlando Magic",
-    "vendeg": "Milwaukee Bucks",
-    "resztvevok": [
-      "Orlando Magic",
-      "Milwaukee Bucks"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Milwaukee Bucks",
     "szorzo": 3.93,
     "tet_szazalek": 0.02,
@@ -5856,12 +5853,9 @@
     "esemeny_id": "ea91e86e66f94a48",
     "sportag": "basketball",
     "piac": "moneyline",
-    "hazai": "Houston Rockets",
-    "vendeg": "Utah Jazz",
-    "resztvevok": [
-      "Houston Rockets",
-      "Utah Jazz"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Utah Jazz",
     "szorzo": 10.0,
     "tet_szazalek": 0.01750790416666667,
@@ -5885,12 +5879,9 @@
     "esemeny_id": "e2c7679a012131a8",
     "sportag": "basketball",
     "piac": "spread",
-    "hazai": "New Orleans Pelicans",
-    "vendeg": "Memphis Grizzlies",
-    "resztvevok": [
-      "New Orleans Pelicans",
-      "Memphis Grizzlies"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "New Orleans Pelicans",
     "szorzo": 1.9090909090909092,
     "tet_szazalek": 0.0024920958333333326,
