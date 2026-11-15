@@ -139,18 +139,18 @@
   },
   "uj_modell_bizonyitasi_minta": {
     "teljes": {
-      "tetek": 18,
-      "nyert": 9,
-      "vesztett": 9,
+      "tetek": 13,
+      "nyert": 7,
+      "vesztett": 6,
       "visszajar": 0,
-      "megforgatott_toke": 30.4125,
-      "nyereseg_veszteseg": 14.3008,
-      "megterules_szazalek": 47.0228,
-      "talalati_arany_szazalek": 50.0
+      "megforgatott_toke": 24.1633,
+      "nyereseg_veszteseg": 16.1621,
+      "megterules_szazalek": 66.887,
+      "talalati_arany_szazalek": 53.8462
     },
     "sportag_szerint": {
       "basketball": {
-        "tetek": 10
+        "tetek": 5
       },
       "mma": {
         "tetek": 1
