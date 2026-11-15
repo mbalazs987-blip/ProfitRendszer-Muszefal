@@ -11,8 +11,7 @@
     "MODELLBEMENET_KAPUN_ELAKADT": 3,
     "MODELL_ELO_BIZONYITOTT": 1,
     "ODDS_FORRAS_BEKOETES_HIANYZIK": 28,
-    "PAPER_UTVONAL_ELO_BIZONYITOTT": 1,
-    "PORTFOLIOIG_ELJUTOTT": 1,
+    "PORTFOLIOIG_ELJUTOTT": 2,
     "VAR_AKTIV_ODDSRA": 13
   },
   "sportagak": [
@@ -106,13 +105,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "PAPER_UTVONAL_ELO_BIZONYITOTT",
+      "elo_allapot": "PORTFOLIOIG_ELJUTOTT",
       "odds": 71,
       "sportadat": 42,
       "ellenorzott": 9,
       "aktiv_modell": 9,
-      "portfolio": 9,
-      "kovetkezo_teendo": "az aktuális jelölt a végső kapun át a PAPER naplóba jutott; ez még nem profitbizonyítás"
+      "portfolio": 5,
+      "kovetkezo_teendo": "portfóliójelölt van; a végső kapu és PAPER naplózás még nincs igazolva"
     },
     {
       "sportag": "beach_soccer",
@@ -583,7 +582,7 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELLBEMENET_KAPUN_ELAKADT",
-      "odds": 40,
+      "odds": 39,
       "sportadat": 7,
       "ellenorzott": 0,
       "aktiv_modell": 0,
