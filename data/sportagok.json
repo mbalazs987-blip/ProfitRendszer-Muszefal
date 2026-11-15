@@ -8,11 +8,12 @@
   },
   "elo_allapotok": {
     "ILLESZTES_HIANYZIK": 1,
-    "MODELLBEMENET_KAPUN_ELAKADT": 3,
+    "MODELLBEMENET_KAPUN_ELAKADT": 2,
     "MODELL_ELO_BIZONYITOTT": 1,
     "ODDS_FORRAS_BEKOETES_HIANYZIK": 28,
     "PORTFOLIOIG_ELJUTOTT": 2,
-    "VAR_AKTIV_ODDSRA": 13
+    "SPORTADAT_HIANYZIK": 2,
+    "VAR_AKTIV_ODDSRA": 12
   },
   "sportagak": [
     {
@@ -106,7 +107,7 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "PORTFOLIOIG_ELJUTOTT",
-      "odds": 71,
+      "odds": 77,
       "sportadat": 42,
       "ellenorzott": 9,
       "aktiv_modell": 9,
@@ -189,13 +190,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "VAR_AKTIV_ODDSRA",
-      "odds": 0,
+      "elo_allapot": "SPORTADAT_HIANYZIK",
+      "odds": 1,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_KOZOLT_AR"
+      "kovetkezo_teendo": "odds-független sportadat út létezik-e/történeti lefedettség hiányzik-e diagnosztizálandó"
     },
     {
       "sportag": "chess",
@@ -218,7 +219,7 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELLBEMENET_KAPUN_ELAKADT",
-      "odds": 1,
+      "odds": 2,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
@@ -385,13 +386,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "MODELLBEMENET_KAPUN_ELAKADT",
+      "elo_allapot": "SPORTADAT_HIANYZIK",
       "odds": 3,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "az eseményillesztés kész, de a modell előzmény-/tanítási kapuja nem engedte tovább"
+      "kovetkezo_teendo": "odds-független sportadat út létezik-e/történeti lefedettség hiányzik-e diagnosztizálandó"
     },
     {
       "sportag": "hockey",
@@ -400,8 +401,8 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 24,
-      "sportadat": 30,
+      "odds": 22,
+      "sportadat": 29,
       "ellenorzott": 5,
       "aktiv_modell": 5,
       "portfolio": 0,
@@ -582,8 +583,8 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELLBEMENET_KAPUN_ELAKADT",
-      "odds": 39,
-      "sportadat": 7,
+      "odds": 36,
+      "sportadat": 6,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
@@ -652,8 +653,8 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "ILLESZTES_HIANYZIK",
-      "odds": 5,
-      "sportadat": 9,
+      "odds": 4,
+      "sportadat": 8,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
