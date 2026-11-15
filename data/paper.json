@@ -5656,12 +5656,9 @@
     "esemeny_id": "59b862cfcc91076e",
     "sportag": "american_football",
     "piac": "moneyline",
-    "hazai": "Detroit Lions",
-    "vendeg": "New England Patriots",
-    "resztvevok": [
-      "Detroit Lions",
-      "New England Patriots"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "New England Patriots",
     "szorzo": 2.3,
     "tet_szazalek": 0.02,
