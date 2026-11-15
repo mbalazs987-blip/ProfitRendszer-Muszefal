@@ -3814,5 +3814,23 @@
     "megbizhatosag": 0.9772043863868507,
     "becsult_elony_szazalek": 29.521272,
     "iroda": "Betfair"
+  },
+  {
+    "tet_id": "900798c1dd7780f8",
+    "esemeny_id": "36f2f05a36fbdbb1",
+    "sportag": "basketball",
+    "piac": "total",
+    "hazai": "Toronto Raptors",
+    "vendeg": "New York Knicks",
+    "kimenetel": "Over",
+    "meresi_pont_ora": 1,
+    "adat_ideje": "2026-11-15T21:21:52.152542+00:00",
+    "esemeny_ideje": "2026-11-15T23:00:00+00:00",
+    "szorzo": 1.925925925925926,
+    "becsult_esely": 0.638095,
+    "piaci_esely": 0.4956702459300312,
+    "megbizhatosag": 0.6937500000000001,
+    "becsult_elony_szazalek": 22.89237,
+    "iroda": "DraftKings"
   }
 ]
