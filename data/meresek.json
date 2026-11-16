@@ -3832,5 +3832,23 @@
     "megbizhatosag": 0.6937500000000001,
     "becsult_elony_szazalek": 22.89237,
     "iroda": "DraftKings"
+  },
+  {
+    "tet_id": "9648054690fd2dd1",
+    "esemeny_id": "e6e7bea7ba0b9b38",
+    "sportag": "basketball",
+    "piac": "moneyline",
+    "hazai": "Minnesota Timberwolves",
+    "vendeg": "Portland Trail Blazers",
+    "kimenetel": "Portland Trail Blazers",
+    "meresi_pont_ora": 24,
+    "adat_ideje": "2026-11-16T00:57:06.535710+00:00",
+    "esemeny_ideje": "2026-11-17T01:00:00+00:00",
+    "szorzo": 2.21,
+    "becsult_esely": 0.477128,
+    "piaci_esely": 0.43468150188719745,
+    "megbizhatosag": 0.6937500000000001,
+    "becsult_elony_szazalek": 5.445288,
+    "iroda": "DraftKings"
   }
 ]
