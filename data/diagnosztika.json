@@ -1,5 +1,5 @@
 {
-  "frissitve": "2026-11-16T16:50:40.227351+00:00",
+  "frissitve": "2026-11-16T19:44:47.894438+00:00",
   "integritas_ok": true,
   "szamlalo_egyezik": true,
   "duplikalt_sorok": 0,
@@ -10,13 +10,13 @@
   "statikus_sportag_ok": 48,
   "elo_allapotok": {
     "MODELLBEMENET_KAPUN_ELAKADT": 2,
-    "MODELL_ELO_BIZONYITOTT": 2,
+    "MODELL_ELO_BIZONYITOTT": 3,
     "ODDS_FORRAS_BEKOETES_HIANYZIK": 28,
-    "PAPER_UTVONAL_ELO_BIZONYITOTT": 2,
+    "PORTFOLIOIG_ELJUTOTT": 1,
     "SPORTADAT_HIANYZIK": 1,
     "VAR_AKTIV_ODDSRA": 13
   },
-  "kanonikus_statusz_frissitve": "2026-11-16T09:05:38.066102+00:00",
+  "kanonikus_statusz_frissitve": "2026-11-16T19:33:20.307840+00:00",
   "aktualis_modellkorszak_lezart": 20,
   "torteneti_lezart": 214
 }
