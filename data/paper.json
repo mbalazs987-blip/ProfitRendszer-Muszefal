@@ -6381,12 +6381,9 @@
     "esemeny_id": "cf7750975db324d4",
     "sportag": "tennis",
     "piac": "moneyline",
-    "hazai": "Alexander Zverev",
-    "vendeg": "Ben Shelton",
-    "resztvevok": [
-      "Alexander Zverev",
-      "Ben Shelton"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Ben Shelton",
     "szorzo": 2.75,
     "tet_szazalek": 0.02,
@@ -6468,12 +6465,9 @@
     "esemeny_id": "e1b70b02ed9e707a",
     "sportag": "tennis",
     "piac": "moneyline",
-    "hazai": "Arthur Fils",
-    "vendeg": "Rafael Jodar",
-    "resztvevok": [
-      "Arthur Fils",
-      "Rafael Jodar"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Arthur Fils",
     "szorzo": 2.12,
     "tet_szazalek": 0.009422620312500001,
