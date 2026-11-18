@@ -6497,12 +6497,9 @@
     "esemeny_id": "cb6d3e92cdb25555",
     "sportag": "tennis",
     "piac": "moneyline",
-    "hazai": "Carlos Alcaraz",
-    "vendeg": "Daniil Medvedev",
-    "resztvevok": [
-      "Carlos Alcaraz",
-      "Daniil Medvedev"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Daniil Medvedev",
     "szorzo": 4.4,
     "tet_szazalek": 0.02,
