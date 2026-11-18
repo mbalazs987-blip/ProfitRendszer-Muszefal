@@ -6610,12 +6610,9 @@
     "esemeny_id": "582b7714dc1a88a2",
     "sportag": "tennis",
     "piac": "moneyline",
-    "hazai": "Flavio Cobolli",
-    "vendeg": "Frances Tiafoe",
-    "resztvevok": [
-      "Flavio Cobolli",
-      "Frances Tiafoe"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Flavio Cobolli",
     "szorzo": 2.04,
     "tet_szazalek": 0.004814713050000012,
