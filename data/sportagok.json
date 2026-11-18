@@ -8,10 +8,10 @@
   },
   "elo_allapotok": {
     "ILLESZTES_HIANYZIK": 1,
-    "MODELL_ELO_BIZONYITOTT": 3,
+    "MODELLBEMENET_KAPUN_ELAKADT": 1,
+    "MODELL_ELO_BIZONYITOTT": 5,
     "ODDS_FORRAS_BEKOETES_HIANYZIK": 28,
-    "PAPER_UTVONAL_ELO_BIZONYITOTT": 2,
-    "SPORTADAT_HIANYZIK": 3,
+    "SPORTADAT_HIANYZIK": 2,
     "VAR_AKTIV_ODDSRA": 11
   },
   "sportagak": [
@@ -105,13 +105,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "PAPER_UTVONAL_ELO_BIZONYITOTT",
+      "elo_allapot": "MODELL_ELO_BIZONYITOTT",
       "odds": 105,
       "sportadat": 43,
       "ellenorzott": 12,
       "aktiv_modell": 12,
-      "portfolio": 3,
-      "kovetkezo_teendo": "az aktuális jelölt a végső kapun át a PAPER naplóba jutott; ez még nem profitbizonyítás"
+      "portfolio": 0,
+      "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
     {
       "sportag": "beach_soccer",
@@ -190,7 +190,7 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "SPORTADAT_HIANYZIK",
-      "odds": 6,
+      "odds": 8,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
@@ -217,13 +217,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "SPORTADAT_HIANYZIK",
+      "elo_allapot": "MODELLBEMENET_KAPUN_ELAKADT",
       "odds": 2,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "odds-független sportadat út létezik-e/történeti lefedettség hiányzik-e diagnosztizálandó"
+      "kovetkezo_teendo": "az eseményillesztés kész, de a modell előzmény-/tanítási kapuja nem engedte tovább"
     },
     {
       "sportag": "curling",
@@ -582,10 +582,10 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 83,
-      "sportadat": 69,
-      "ellenorzott": 3,
-      "aktiv_modell": 3,
+      "odds": 106,
+      "sportadat": 91,
+      "ellenorzott": 5,
+      "aktiv_modell": 5,
       "portfolio": 0,
       "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
@@ -651,13 +651,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "PAPER_UTVONAL_ELO_BIZONYITOTT",
-      "odds": 4,
-      "sportadat": 8,
-      "ellenorzott": 4,
-      "aktiv_modell": 4,
-      "portfolio": 1,
-      "kovetkezo_teendo": "az aktuális jelölt a végső kapun át a PAPER naplóba jutott; ez még nem profitbizonyítás"
+      "elo_allapot": "MODELL_ELO_BIZONYITOTT",
+      "odds": 3,
+      "sportadat": 7,
+      "ellenorzott": 3,
+      "aktiv_modell": 3,
+      "portfolio": 0,
+      "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
     {
       "sportag": "volleyball",
