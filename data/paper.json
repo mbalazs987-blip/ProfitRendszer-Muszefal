@@ -6900,12 +6900,9 @@
     "esemeny_id": "f21085259bf2305c",
     "sportag": "tennis",
     "piac": "moneyline",
-    "hazai": "Alexander Zverev",
-    "vendeg": "Arthur Fils",
-    "resztvevok": [
-      "Alexander Zverev",
-      "Arthur Fils"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Arthur Fils",
     "szorzo": 3.65,
     "tet_szazalek": 0.02,
