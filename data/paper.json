@@ -7396,12 +7396,9 @@
     "esemeny_id": "b4f967010b4664aa",
     "sportag": "tennis",
     "piac": "moneyline",
-    "hazai": "Ben Shelton",
-    "vendeg": "Carlos Alcaraz",
-    "resztvevok": [
-      "Ben Shelton",
-      "Carlos Alcaraz"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Ben Shelton",
     "szorzo": 4.1,
     "tet_szazalek": 0.02,
@@ -7454,12 +7451,9 @@
     "esemeny_id": "217241edbe83177e",
     "sportag": "soccer",
     "piac": "moneyline",
-    "hazai": "1. FC Union Berlin",
-    "vendeg": "RB Leipzig",
-    "resztvevok": [
-      "1. FC Union Berlin",
-      "RB Leipzig"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "1. FC Union Berlin",
     "szorzo": 5.5,
     "tet_szazalek": 0.02,
@@ -7483,12 +7477,9 @@
     "esemeny_id": "31b65a788c5db5d9",
     "sportag": "soccer",
     "piac": "moneyline",
-    "hazai": "SV Elversberg",
-    "vendeg": "SC Freiburg",
-    "resztvevok": [
-      "SV Elversberg",
-      "SC Freiburg"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "SV Elversberg",
     "szorzo": 3.4,
     "tet_szazalek": 0.009291691068181826,
