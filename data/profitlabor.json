@@ -1,16 +1,16 @@
 {
   "teljes": {
-    "tetek": 243,
-    "nyert": 91,
+    "tetek": 244,
+    "nyert": 92,
     "vesztett": 152,
     "visszajar": 0,
-    "megforgatott_toke": 453.2882,
-    "nyereseg_veszteseg": 27.8767,
-    "megterules_szazalek": 6.1499,
-    "talalati_arany_szazalek": 37.4486,
-    "atlag_szorzo": 3.845,
+    "megforgatott_toke": 455.2882,
+    "nyereseg_veszteseg": 29.6949,
+    "megterules_szazalek": 6.5222,
+    "talalati_arany_szazalek": 37.7049,
+    "atlag_szorzo": 3.8371,
     "max_visszaeses": 47.0132,
-    "brier_pontszam": 0.234186
+    "brier_pontszam": 0.233851
   },
   "teljes_torteneti": {
     "tetek": null,
@@ -59,17 +59,17 @@
       "brier_pontszam": 0.242362
     },
     "basketball": {
-      "tetek": 82,
-      "nyert": 37,
+      "tetek": 83,
+      "nyert": 38,
       "vesztett": 45,
       "visszajar": 0,
-      "megforgatott_toke": 147.8424,
-      "nyereseg_veszteseg": 13.0075,
-      "megterules_szazalek": 8.7982,
-      "talalati_arany_szazalek": 45.122,
-      "atlag_szorzo": 3.1101,
+      "megforgatott_toke": 149.8424,
+      "nyereseg_veszteseg": 14.8257,
+      "megterules_szazalek": 9.8942,
+      "talalati_arany_szazalek": 45.7831,
+      "atlag_szorzo": 3.0957,
       "max_visszaeses": 29.0639,
-      "brier_pontszam": 0.234117
+      "brier_pontszam": 0.233133
     },
     "lacrosse": {
       "tetek": 1,
@@ -139,21 +139,21 @@
   },
   "uj_modell_bizonyitasi_minta": {
     "teljes": {
-      "tetek": 49,
-      "nyert": 25,
+      "tetek": 50,
+      "nyert": 26,
       "vesztett": 24,
       "visszajar": 0,
-      "megforgatott_toke": 84.5748,
-      "nyereseg_veszteseg": 44.9427,
-      "megterules_szazalek": 53.1396,
-      "talalati_arany_szazalek": 51.0204
+      "megforgatott_toke": 86.5748,
+      "nyereseg_veszteseg": 46.7609,
+      "megterules_szazalek": 54.0121,
+      "talalati_arany_szazalek": 52.0
     },
     "sportag_szerint": {
       "american_football": {
         "tetek": 7
       },
       "basketball": {
-        "tetek": 25
+        "tetek": 26
       },
       "mma": {
         "tetek": 1
