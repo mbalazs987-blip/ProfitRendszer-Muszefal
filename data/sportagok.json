@@ -7,8 +7,9 @@
     "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR": 14
   },
   "elo_allapotok": {
+    "AKTIV_MODELL_HIANYZIK": 1,
     "MODELLBEMENET_KAPUN_ELAKADT": 2,
-    "MODELL_ELO_BIZONYITOTT": 6,
+    "MODELL_ELO_BIZONYITOTT": 5,
     "ODDS_FORRAS_BEKOETES_HIANYZIK": 28,
     "SPORTADAT_HIANYZIK": 1,
     "VAR_AKTIV_ODDSRA": 11
@@ -189,7 +190,7 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "SPORTADAT_HIANYZIK",
-      "odds": 1,
+      "odds": 2,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
@@ -468,13 +469,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "MODELL_ELO_BIZONYITOTT",
+      "elo_allapot": "AKTIV_MODELL_HIANYZIK",
       "odds": 33,
       "sportadat": 12,
-      "ellenorzott": 5,
-      "aktiv_modell": 1,
+      "ellenorzott": 4,
+      "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "élő eseményhez aktív modell készült"
+      "kovetkezo_teendo": "modelljellemző/minőség/szerződés-kapu diagnózis és javítás"
     },
     {
       "sportag": "motogp",
@@ -581,10 +582,10 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 294,
-      "sportadat": 273,
-      "ellenorzott": 42,
-      "aktiv_modell": 42,
+      "odds": 279,
+      "sportadat": 259,
+      "ellenorzott": 41,
+      "aktiv_modell": 41,
       "portfolio": 0,
       "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
