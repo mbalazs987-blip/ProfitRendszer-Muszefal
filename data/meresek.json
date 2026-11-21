@@ -3892,8 +3892,8 @@
     "esemeny_id": "31b65a788c5db5d9",
     "sportag": "soccer",
     "piac": "moneyline",
-    "hazai": null,
-    "vendeg": null,
+    "hazai": "SV Elversberg",
+    "vendeg": "SC Freiburg",
     "kimenetel": "SV Elversberg",
     "meresi_pont_ora": 12,
     "adat_ideje": "2026-11-21T02:55:56.542156+00:00",
@@ -3903,6 +3903,24 @@
     "piaci_esely": 0.2713035806190721,
     "megbizhatosag": 0.6937500000000001,
     "becsult_elony_szazalek": 74.82018,
+    "iroda": "DraftKings"
+  },
+  {
+    "tet_id": "5ea5c5baba98f3fc",
+    "esemeny_id": "2201907f1f862396",
+    "sportag": "soccer",
+    "piac": "moneyline",
+    "hazai": "Getafe",
+    "vendeg": "Atlético Madrid",
+    "kimenetel": "Getafe",
+    "meresi_pont_ora": 24,
+    "adat_ideje": "2026-11-21T20:03:16.666782+00:00",
+    "esemeny_ideje": "2026-11-22T20:00:00+00:00",
+    "szorzo": 6.0,
+    "becsult_esely": 0.305556,
+    "piaci_esely": 0.1582138919514884,
+    "megbizhatosag": 0.6937500000000001,
+    "becsult_elony_szazalek": 83.3336,
     "iroda": "DraftKings"
   }
 ]
