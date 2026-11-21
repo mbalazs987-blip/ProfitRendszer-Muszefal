@@ -7364,12 +7364,9 @@
     "esemeny_id": "59d5dc8440d5a953",
     "sportag": "basketball",
     "piac": "spread",
-    "hazai": "Detroit Pistons",
-    "vendeg": "Toronto Raptors",
-    "resztvevok": [
-      "Detroit Pistons",
-      "Toronto Raptors"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Toronto Raptors",
     "szorzo": 1.9090909090909092,
     "tet_szazalek": 0.02,
