@@ -1,16 +1,16 @@
 {
   "teljes": {
-    "tetek": 245,
+    "tetek": 246,
     "nyert": 93,
-    "vesztett": 152,
+    "vesztett": 153,
     "visszajar": 0,
-    "megforgatott_toke": 457.2882,
-    "nyereseg_veszteseg": 31.4493,
-    "megterules_szazalek": 6.8773,
-    "talalati_arany_szazalek": 37.9592,
-    "atlag_szorzo": 3.8291,
+    "megforgatott_toke": 459.2882,
+    "nyereseg_veszteseg": 29.4493,
+    "megterules_szazalek": 6.4119,
+    "talalati_arany_szazalek": 37.8049,
+    "atlag_szorzo": 3.8267,
     "max_visszaeses": 47.0132,
-    "brier_pontszam": 0.233431
+    "brier_pontszam": 0.233462
   },
   "teljes_torteneti": {
     "tetek": null,
@@ -124,29 +124,29 @@
       "brier_pontszam": 0.216901
     },
     "tennis": {
-      "tetek": 16,
+      "tetek": 17,
       "nyert": 7,
-      "vesztett": 9,
+      "vesztett": 10,
       "visszajar": 0,
-      "megforgatott_toke": 28.9423,
-      "nyereseg_veszteseg": 6.4154,
-      "megterules_szazalek": 22.1662,
-      "talalati_arany_szazalek": 43.75,
-      "atlag_szorzo": 2.895,
-      "max_visszaeses": 8.0,
-      "brier_pontszam": 0.24365
+      "megforgatott_toke": 30.9423,
+      "nyereseg_veszteseg": 4.4154,
+      "megterules_szazalek": 14.2698,
+      "talalati_arany_szazalek": 41.1765,
+      "atlag_szorzo": 2.9159,
+      "max_visszaeses": 10.0,
+      "brier_pontszam": 0.243495
     }
   },
   "uj_modell_bizonyitasi_minta": {
     "teljes": {
-      "tetek": 51,
+      "tetek": 52,
       "nyert": 27,
-      "vesztett": 24,
+      "vesztett": 25,
       "visszajar": 0,
-      "megforgatott_toke": 88.5748,
-      "nyereseg_veszteseg": 48.5153,
-      "megterules_szazalek": 54.7733,
-      "talalati_arany_szazalek": 52.9412
+      "megforgatott_toke": 90.5748,
+      "nyereseg_veszteseg": 46.5153,
+      "megterules_szazalek": 51.3557,
+      "talalati_arany_szazalek": 51.9231
     },
     "sportag_szerint": {
       "american_football": {
@@ -162,7 +162,7 @@
         "tetek": 3
       },
       "tennis": {
-        "tetek": 13
+        "tetek": 14
       }
     }
   },
