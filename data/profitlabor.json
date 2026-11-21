@@ -1,16 +1,16 @@
 {
   "teljes": {
-    "tetek": 246,
-    "nyert": 93,
-    "vesztett": 153,
+    "tetek": 252,
+    "nyert": 96,
+    "vesztett": 156,
     "visszajar": 0,
-    "megforgatott_toke": 459.2882,
-    "nyereseg_veszteseg": 29.4493,
-    "megterules_szazalek": 6.4119,
-    "talalati_arany_szazalek": 37.8049,
-    "atlag_szorzo": 3.8267,
+    "megforgatott_toke": 469.2882,
+    "nyereseg_veszteseg": 32.9776,
+    "megterules_szazalek": 7.0272,
+    "talalati_arany_szazalek": 38.0952,
+    "atlag_szorzo": 3.8241,
     "max_visszaeses": 47.0132,
-    "brier_pontszam": 0.233462
+    "brier_pontszam": 0.231881
   },
   "teljes_torteneti": {
     "tetek": null,
@@ -85,17 +85,17 @@
       "brier_pontszam": 0.126722
     },
     "mma": {
-      "tetek": 1,
-      "nyert": 1,
+      "tetek": 2,
+      "nyert": 2,
       "vesztett": 0,
       "visszajar": 0,
-      "megforgatott_toke": 0.4125,
-      "nyereseg_veszteseg": 0.4744,
-      "megterules_szazalek": 115.0061,
+      "megforgatott_toke": 2.4125,
+      "nyereseg_veszteseg": 5.4744,
+      "megterules_szazalek": 226.9181,
       "talalati_arany_szazalek": 100.0,
-      "atlag_szorzo": 2.15,
+      "atlag_szorzo": 2.825,
       "max_visszaeses": 0.0,
-      "brier_pontszam": 0.273653
+      "brier_pontszam": 0.257465
     },
     "rugby_league": {
       "tetek": 8,
@@ -111,17 +111,17 @@
       "brier_pontszam": 0.212391
     },
     "soccer": {
-      "tetek": 53,
-      "nyert": 13,
-      "vesztett": 40,
+      "tetek": 58,
+      "nyert": 15,
+      "vesztett": 43,
       "visszajar": 0,
-      "megforgatott_toke": 100.7032,
-      "nyereseg_veszteseg": 21.5713,
-      "megterules_szazalek": 21.4207,
-      "talalati_arany_szazalek": 24.5283,
-      "atlag_szorzo": 5.38,
+      "megforgatott_toke": 108.7032,
+      "nyereseg_veszteseg": 20.0996,
+      "megterules_szazalek": 18.4903,
+      "talalati_arany_szazalek": 25.8621,
+      "atlag_szorzo": 5.2404,
       "max_visszaeses": 26.783,
-      "brier_pontszam": 0.216901
+      "brier_pontszam": 0.211322
     },
     "tennis": {
       "tetek": 17,
@@ -139,14 +139,14 @@
   },
   "uj_modell_bizonyitasi_minta": {
     "teljes": {
-      "tetek": 52,
-      "nyert": 27,
-      "vesztett": 25,
+      "tetek": 58,
+      "nyert": 30,
+      "vesztett": 28,
       "visszajar": 0,
-      "megforgatott_toke": 90.5748,
-      "nyereseg_veszteseg": 46.5153,
-      "megterules_szazalek": 51.3557,
-      "talalati_arany_szazalek": 51.9231
+      "megforgatott_toke": 100.5748,
+      "nyereseg_veszteseg": 50.0436,
+      "megterules_szazalek": 49.7576,
+      "talalati_arany_szazalek": 51.7241
     },
     "sportag_szerint": {
       "american_football": {
@@ -156,10 +156,10 @@
         "tetek": 27
       },
       "mma": {
-        "tetek": 1
+        "tetek": 2
       },
       "soccer": {
-        "tetek": 3
+        "tetek": 8
       },
       "tennis": {
         "tetek": 14
