@@ -8,10 +8,8 @@
   },
   "elo_allapotok": {
     "MODELLBEMENET_KAPUN_ELAKADT": 2,
-    "MODELL_ELO_BIZONYITOTT": 3,
+    "MODELL_ELO_BIZONYITOTT": 6,
     "ODDS_FORRAS_BEKOETES_HIANYZIK": 28,
-    "PAPER_UTVONAL_ELO_BIZONYITOTT": 1,
-    "PORTFOLIOIG_ELJUTOTT": 2,
     "SPORTADAT_HIANYZIK": 1,
     "VAR_AKTIV_ODDSRA": 11
   },
@@ -22,13 +20,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "PORTFOLIOIG_ELJUTOTT",
+      "elo_allapot": "MODELL_ELO_BIZONYITOTT",
       "odds": 137,
       "sportadat": 94,
       "ellenorzott": 12,
       "aktiv_modell": 12,
-      "portfolio": 1,
-      "kovetkezo_teendo": "portfóliójelölt van; a végső kapu és PAPER naplózás még nincs igazolva"
+      "portfolio": 0,
+      "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
     {
       "sportag": "athletics",
@@ -106,13 +104,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "PAPER_UTVONAL_ELO_BIZONYITOTT",
-      "odds": 69,
-      "sportadat": 32,
+      "elo_allapot": "MODELL_ELO_BIZONYITOTT",
+      "odds": 68,
+      "sportadat": 31,
       "ellenorzott": 6,
       "aktiv_modell": 6,
-      "portfolio": 1,
-      "kovetkezo_teendo": "az aktuális jelölt a végső kapun át a PAPER naplóba jutott; ez még nem profitbizonyítás"
+      "portfolio": 0,
+      "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
     {
       "sportag": "beach_soccer",
@@ -191,7 +189,7 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "SPORTADAT_HIANYZIK",
-      "odds": 2,
+      "odds": 1,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
@@ -219,7 +217,7 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELLBEMENET_KAPUN_ELAKADT",
-      "odds": 3,
+      "odds": 2,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
@@ -401,7 +399,7 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 59,
+      "odds": 63,
       "sportadat": 46,
       "ellenorzott": 14,
       "aktiv_modell": 14,
@@ -582,13 +580,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "PORTFOLIOIG_ELJUTOTT",
-      "odds": 298,
+      "elo_allapot": "MODELL_ELO_BIZONYITOTT",
+      "odds": 297,
       "sportadat": 276,
       "ellenorzott": 42,
       "aktiv_modell": 42,
-      "portfolio": 11,
-      "kovetkezo_teendo": "portfóliójelölt van; a végső kapu és PAPER naplózás még nincs igazolva"
+      "portfolio": 0,
+      "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
     {
       "sportag": "speed_skating",
