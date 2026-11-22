@@ -1,16 +1,16 @@
 {
   "teljes": {
-    "tetek": 257,
-    "nyert": 98,
+    "tetek": 259,
+    "nyert": 100,
     "vesztett": 159,
     "visszajar": 0,
-    "megforgatott_toke": 479.2882,
-    "nyereseg_veszteseg": 30.5389,
-    "megterules_szazalek": 6.3717,
-    "talalati_arany_szazalek": 38.1323,
-    "atlag_szorzo": 3.7987,
+    "megforgatott_toke": 483.2882,
+    "nyereseg_veszteseg": 38.0389,
+    "megterules_szazalek": 7.8709,
+    "talalati_arany_szazalek": 38.61,
+    "atlag_szorzo": 3.7915,
     "max_visszaeses": 47.0132,
-    "brier_pontszam": 0.231798
+    "brier_pontszam": 0.231833
   },
   "teljes_torteneti": {
     "tetek": null,
@@ -111,17 +111,17 @@
       "brier_pontszam": 0.212391
     },
     "soccer": {
-      "tetek": 58,
-      "nyert": 15,
+      "tetek": 60,
+      "nyert": 17,
       "vesztett": 43,
       "visszajar": 0,
-      "megforgatott_toke": 108.7032,
-      "nyereseg_veszteseg": 20.0996,
-      "megterules_szazalek": 18.4903,
-      "talalati_arany_szazalek": 25.8621,
-      "atlag_szorzo": 5.2404,
+      "megforgatott_toke": 112.7032,
+      "nyereseg_veszteseg": 27.5996,
+      "megterules_szazalek": 24.4887,
+      "talalati_arany_szazalek": 28.3333,
+      "atlag_szorzo": 5.1615,
       "max_visszaeses": 26.783,
-      "brier_pontszam": 0.211322
+      "brier_pontszam": 0.212155
     },
     "tennis": {
       "tetek": 18,
@@ -139,14 +139,14 @@
   },
   "uj_modell_bizonyitasi_minta": {
     "teljes": {
-      "tetek": 63,
-      "nyert": 32,
+      "tetek": 65,
+      "nyert": 34,
       "vesztett": 31,
       "visszajar": 0,
-      "megforgatott_toke": 110.5748,
-      "nyereseg_veszteseg": 47.6049,
-      "megterules_szazalek": 43.0522,
-      "talalati_arany_szazalek": 50.7937
+      "megforgatott_toke": 114.5748,
+      "nyereseg_veszteseg": 55.1049,
+      "megterules_szazalek": 48.0951,
+      "talalati_arany_szazalek": 52.3077
     },
     "sportag_szerint": {
       "american_football": {
@@ -159,7 +159,7 @@
         "tetek": 2
       },
       "soccer": {
-        "tetek": 8
+        "tetek": 10
       },
       "tennis": {
         "tetek": 15
