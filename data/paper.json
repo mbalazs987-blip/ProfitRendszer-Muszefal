@@ -7648,12 +7648,9 @@
     "esemeny_id": "2201907f1f862396",
     "sportag": "soccer",
     "piac": "moneyline",
-    "hazai": "Getafe",
-    "vendeg": "Atlético Madrid",
-    "resztvevok": [
-      "Getafe",
-      "Atlético Madrid"
-    ],
+    "hazai": null,
+    "vendeg": null,
+    "resztvevok": null,
     "kimenetel": "Getafe",
     "szorzo": 6.0,
     "tet_szazalek": 0.02,
