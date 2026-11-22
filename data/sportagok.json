@@ -7,12 +7,13 @@
     "VERSENY_ADAPTER_KESZ_ELO_BIZONYITASRA_VAR": 14
   },
   "elo_allapotok": {
-    "MODELL_ELO_BIZONYITOTT": 2,
+    "MODELLBEMENET_KAPUN_ELAKADT": 1,
+    "MODELL_ELO_BIZONYITOTT": 1,
     "ODDS_FORRAS_BEKOETES_HIANYZIK": 28,
     "PAPER_UTVONAL_ELO_BIZONYITOTT": 1,
-    "PORTFOLIOIG_ELJUTOTT": 2,
-    "SPORTADAT_HIANYZIK": 2,
-    "VAR_AKTIV_ODDSRA": 13
+    "PORTFOLIOIG_ELJUTOTT": 1,
+    "SPORTADAT_HIANYZIK": 1,
+    "VAR_AKTIV_ODDSRA": 15
   },
   "sportagak": [
     {
@@ -22,10 +23,10 @@
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
       "elo_allapot": "PORTFOLIOIG_ELJUTOTT",
-      "odds": 28,
-      "sportadat": 29,
-      "ellenorzott": 12,
-      "aktiv_modell": 12,
+      "odds": 14,
+      "sportadat": 15,
+      "ellenorzott": 5,
+      "aktiv_modell": 5,
       "portfolio": 1,
       "kovetkezo_teendo": "portfóliójelölt van; a végső kapu és PAPER naplózás még nincs igazolva"
     },
@@ -105,13 +106,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "PAPER_UTVONAL_ELO_BIZONYITOTT",
-      "odds": 62,
+      "elo_allapot": "MODELL_ELO_BIZONYITOTT",
+      "odds": 59,
       "sportadat": 36,
       "ellenorzott": 7,
       "aktiv_modell": 7,
-      "portfolio": 4,
-      "kovetkezo_teendo": "az aktuális jelölt a végső kapun át a PAPER naplóba jutott; ez még nem profitbizonyítás"
+      "portfolio": 0,
+      "kovetkezo_teendo": "élő eseményhez aktív modell készült"
     },
     {
       "sportag": "beach_soccer",
@@ -385,13 +386,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "SPORTADAT_HIANYZIK",
-      "odds": 4,
+      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "odds": 0,
       "sportadat": 0,
       "ellenorzott": 0,
       "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "odds-független sportadat út létezik-e/történeti lefedettség hiányzik-e diagnosztizálandó"
+      "kovetkezo_teendo": "jelenleg nincs aktív odds-esemény; élő bizonyítás még nem lehetséges; ingyenes odds-forrás: NINCS_KOZOLT_AR"
     },
     {
       "sportag": "hockey",
@@ -399,13 +400,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 24,
-      "sportadat": 33,
-      "ellenorzott": 5,
-      "aktiv_modell": 5,
+      "elo_allapot": "MODELLBEMENET_KAPUN_ELAKADT",
+      "odds": 42,
+      "sportadat": 37,
+      "ellenorzott": 0,
+      "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "élő eseményhez aktív modell készült"
+      "kovetkezo_teendo": "az eseményillesztés kész, de a modell előzmény-/tanítási kapuja nem engedte tovább"
     },
     {
       "sportag": "horse_racing",
@@ -581,13 +582,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "PORTFOLIOIG_ELJUTOTT",
-      "odds": 161,
-      "sportadat": 139,
-      "ellenorzott": 18,
-      "aktiv_modell": 18,
-      "portfolio": 3,
-      "kovetkezo_teendo": "portfóliójelölt van; a végső kapu és PAPER naplózás még nincs igazolva"
+      "elo_allapot": "PAPER_UTVONAL_ELO_BIZONYITOTT",
+      "odds": 88,
+      "sportadat": 74,
+      "ellenorzott": 6,
+      "aktiv_modell": 6,
+      "portfolio": 2,
+      "kovetkezo_teendo": "az aktuális jelölt a végső kapun át a PAPER naplóba jutott; ez még nem profitbizonyítás"
     },
     {
       "sportag": "speed_skating",
@@ -651,13 +652,13 @@
       "modellprofil_rendben": true,
       "elszamolasi_allapot": "PAPER_ELSZAMOLHATO",
       "statikus_szerzodes_rendben": true,
-      "elo_allapot": "MODELL_ELO_BIZONYITOTT",
-      "odds": 1,
-      "sportadat": 6,
-      "ellenorzott": 1,
-      "aktiv_modell": 1,
+      "elo_allapot": "VAR_AKTIV_ODDSRA",
+      "odds": 0,
+      "sportadat": 1,
+      "ellenorzott": 0,
+      "aktiv_modell": 0,
       "portfolio": 0,
-      "kovetkezo_teendo": "élő eseményhez aktív modell készült"
+      "kovetkezo_teendo": "sportadat van, de jelenleg nincs aktív odds-esemény; ingyenes odds-forrás: NINCS_KOZOLT_AR"
     },
     {
       "sportag": "volleyball",
