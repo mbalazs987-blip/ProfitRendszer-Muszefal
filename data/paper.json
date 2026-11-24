@@ -8231,5 +8231,34 @@
     "szorzo_elony_szazalek": 0.0,
     "modell_verzio": "sportmodell-2.14-basketball-score-frozen-v1",
     "aktualis_modellkorszak": false
+  },
+  {
+    "id": "ec6b44537bce3e67",
+    "esemeny_id": "ad9fdb9fb27bb68e",
+    "sportag": "basketball",
+    "piac": "total",
+    "hazai": "Philadelphia 76ers",
+    "vendeg": "Miami Heat",
+    "resztvevok": [
+      "Philadelphia 76ers",
+      "Miami Heat"
+    ],
+    "kimenetel": "Under",
+    "szorzo": 1.9090909090909092,
+    "tet_szazalek": 0.02,
+    "tet_osszeg": 2.0,
+    "statusz": "NYITOTT",
+    "eredmeny": null,
+    "nyereseg_veszteseg": 0.0,
+    "dontesi_ido": "2026-11-24T10:42:27.654456+00:00",
+    "esemeny_ideje": "2026-11-25T22:00:00+00:00",
+    "iroda": "DraftKings",
+    "becsult_esely": 0.729282,
+    "piaci_esely": 0.5,
+    "varhato_ertek_szazalek": 39.226564,
+    "megbizhatosag": 0.6937500000000001,
+    "szorzo_elony_szazalek": 0.0,
+    "modell_verzio": "sportmodell-2.14-basketball-score-frozen-v1",
+    "aktualis_modellkorszak": false
   }
 ]
