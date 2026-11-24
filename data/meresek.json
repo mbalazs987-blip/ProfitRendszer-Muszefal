@@ -3928,8 +3928,8 @@
     "esemeny_id": "b4f9c60a0b805d5f",
     "sportag": "american_football",
     "piac": "moneyline",
-    "hazai": "Washington Commanders",
-    "vendeg": "Cincinnati Bengals",
+    "hazai": null,
+    "vendeg": null,
     "kimenetel": "Washington Commanders",
     "meresi_pont_ora": 24,
     "adat_ideje": "2026-11-23T01:51:02.703321+00:00",
@@ -3939,6 +3939,24 @@
     "piaci_esely": 0.2817783343769567,
     "megbizhatosag": 0.6937500000000001,
     "becsult_elony_szazalek": 38.518974,
+    "iroda": "DraftKings"
+  },
+  {
+    "tet_id": "2bf9df95286880dd",
+    "esemeny_id": "ff5bb8bb7354e0b8",
+    "sportag": "basketball",
+    "piac": "spread",
+    "hazai": "Denver Nuggets",
+    "vendeg": "Dallas Mavericks",
+    "kimenetel": "Dallas Mavericks",
+    "meresi_pont_ora": 24,
+    "adat_ideje": "2026-11-24T03:13:20.322458+00:00",
+    "esemeny_ideje": "2026-11-25T03:00:00+00:00",
+    "szorzo": 1.9090909090909092,
+    "becsult_esely": 0.60221,
+    "piaci_esely": 0.5,
+    "megbizhatosag": 0.6937500000000001,
+    "becsult_elony_szazalek": 14.967364,
     "iroda": "DraftKings"
   }
 ]
