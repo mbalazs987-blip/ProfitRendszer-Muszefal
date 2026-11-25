@@ -1,16 +1,16 @@
 {
   "teljes": {
-    "tetek": 278,
-    "nyert": 106,
-    "vesztett": 172,
+    "tetek": 281,
+    "nyert": 108,
+    "vesztett": 173,
     "visszajar": 0,
-    "megforgatott_toke": 521.2882,
-    "nyereseg_veszteseg": 36.267,
-    "megterules_szazalek": 6.9572,
-    "talalati_arany_szazalek": 38.1295,
-    "atlag_szorzo": 3.7612,
+    "megforgatott_toke": 527.2882,
+    "nyereseg_veszteseg": 37.9034,
+    "megterules_szazalek": 7.1884,
+    "talalati_arany_szazalek": 38.4342,
+    "atlag_szorzo": 3.7415,
     "max_visszaeses": 47.0132,
-    "brier_pontszam": 0.234551
+    "brier_pontszam": 0.234755
   },
   "teljes_torteneti": {
     "tetek": null,
@@ -59,17 +59,17 @@
       "brier_pontszam": 0.242362
     },
     "basketball": {
-      "tetek": 96,
-      "nyert": 44,
-      "vesztett": 52,
+      "tetek": 99,
+      "nyert": 46,
+      "vesztett": 53,
       "visszajar": 0,
-      "megforgatott_toke": 175.8424,
-      "nyereseg_veszteseg": 17.8495,
-      "megterules_szazalek": 10.1509,
-      "talalati_arany_szazalek": 45.8333,
-      "atlag_szorzo": 3.0155,
+      "megforgatott_toke": 181.8424,
+      "nyereseg_veszteseg": 19.4859,
+      "megterules_szazalek": 10.7158,
+      "talalati_arany_szazalek": 46.4646,
+      "atlag_szorzo": 2.982,
       "max_visszaeses": 29.0639,
-      "brier_pontszam": 0.241762
+      "brier_pontszam": 0.242123
     },
     "lacrosse": {
       "tetek": 1,
@@ -139,21 +139,21 @@
   },
   "uj_modell_bizonyitasi_minta": {
     "teljes": {
-      "tetek": 84,
-      "nyert": 40,
-      "vesztett": 44,
+      "tetek": 87,
+      "nyert": 42,
+      "vesztett": 45,
       "visszajar": 0,
-      "megforgatott_toke": 152.5748,
-      "nyereseg_veszteseg": 53.333,
-      "megterules_szazalek": 34.9553,
-      "talalati_arany_szazalek": 47.619
+      "megforgatott_toke": 158.5748,
+      "nyereseg_veszteseg": 54.9694,
+      "megterules_szazalek": 34.6647,
+      "talalati_arany_szazalek": 48.2759
     },
     "sportag_szerint": {
       "american_football": {
         "tetek": 12
       },
       "basketball": {
-        "tetek": 39
+        "tetek": 42
       },
       "mma": {
         "tetek": 2
