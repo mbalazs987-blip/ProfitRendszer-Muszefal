@@ -3958,5 +3958,41 @@
     "megbizhatosag": 0.6937500000000001,
     "becsult_elony_szazalek": 14.967364,
     "iroda": "DraftKings"
+  },
+  {
+    "tet_id": "d3ead92f29d675d6",
+    "esemeny_id": "3a2f046ab6d23a40",
+    "sportag": "basketball",
+    "piac": "moneyline",
+    "hazai": "Charlotte Hornets",
+    "vendeg": "Chicago Bulls",
+    "kimenetel": "Chicago Bulls",
+    "meresi_pont_ora": 6,
+    "adat_ideje": "2026-11-25T18:17:07.521294+00:00",
+    "esemeny_ideje": "2026-11-26T00:00:00+00:00",
+    "szorzo": 2.3600000000000003,
+    "becsult_esely": 0.51817,
+    "piaci_esely": 0.4066302458405761,
+    "megbizhatosag": 0.6937500000000001,
+    "becsult_elony_szazalek": 22.28812,
+    "iroda": "DraftKings"
+  },
+  {
+    "tet_id": "3e4dcb2d4afe42ab",
+    "esemeny_id": "71a6abb47b0e6df6",
+    "sportag": "american_football",
+    "piac": "moneyline",
+    "hazai": "Detroit Lions",
+    "vendeg": "Chicago Bears",
+    "kimenetel": "Chicago Bears",
+    "meresi_pont_ora": 24,
+    "adat_ideje": "2026-11-25T18:17:07.776822+00:00",
+    "esemeny_ideje": "2026-11-26T18:00:00+00:00",
+    "szorzo": 1.819672131147541,
+    "becsult_esely": 0.560156,
+    "piaci_esely": 0.5273176340331303,
+    "megbizhatosag": 0.6937500000000001,
+    "becsult_elony_szazalek": 1.930026,
+    "iroda": "DraftKings"
   }
 ]
